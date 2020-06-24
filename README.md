@@ -1,5 +1,8 @@
 # UMEP-Workshop
 
+## Homepage of workshop files
+[Homepage](Home.md)
+
 ## How to clone the wiki
 
 (*so wiki pages can be edited locally, which makes life easier.*)
