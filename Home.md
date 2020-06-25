@@ -5,9 +5,9 @@
 1. [Installation of UMEP](./Installation-of-UMEP.md)
 1. [First UMEP Activity](./A-First-QGIS-and-UMEP-activity.md)  _Shadow patterns - micro-scale radiation patterns_
 1. [Basics about UMEP, QGIS and Spatial data](./Basics-of-UMEP,-QGIS-and-Spatial-data.md)
-1. SUEWS - Introduction T, V| --| --|_Introduction to UMEP/SUEWS_
-1. SUEWS - advanced
-1. SUEWS - Spatial | |_ NYC_
+1. [SUEWS Part 1](./SUEWS-Part-1.md) - Introduction to SUEWS
+1. [SUEWS Part 2](./SUEWS-Part-2.md) - SUEWS and UMEP
+1. [SUEWS Part 3](./SUEWS-Part-3.md) - City-wide spatial analysis using UMEP/SUEWS
 1. GRIDS
 1. Obtaining spatial data
 1. Loading spatial data
