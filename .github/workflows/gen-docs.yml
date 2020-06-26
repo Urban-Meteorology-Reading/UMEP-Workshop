@@ -57,7 +57,7 @@ jobs:
        BRANCH: gh-pages
        BUILD_SCRIPT: |
         apt-get install -y graphviz doxygen-gui rsync python3-pip;
-        pip install --upgrade Sphinx recommonmark;
+        python3 -m pip install --upgrade Sphinx recommonmark;
         ls -lrt;
         make html
        ACCESS_TOKEN: ${{ secrets.PAT }}
