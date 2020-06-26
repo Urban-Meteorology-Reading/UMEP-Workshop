@@ -57,7 +57,7 @@ jobs:
        BRANCH: gh-pages
        BUILD_SCRIPT: |
         apt-get install -y graphviz doxygen-gui rsync python3-pip;
-        python3 -m pip install --upgrade Sphinx recommonmark guzzle_sphinx_theme;
+        python3 -m pip install --upgrade Sphinx recommonmark guzzle_sphinx_theme sphinx_rtd_theme;
         make html;
         touch build/html/.nojekyll
         ls -lrt build/html

@@ -1,7 +1,6 @@
 Topic: Installation of QGIS
 ---------------------------
 
---------------
 
 Approximately how long will this take
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

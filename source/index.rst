@@ -1,27 +1,40 @@
 UMEP Workshop 2020
 ==================
 
+
 Introduction
 ------------
 
--  `Introduction <./Introduction.md>`__
--  `Installation of QGIS <./Installation-of-QGIS.md>`__
--  `Installation of UMEP <./Installation-of-UMEP.md>`__
--  `First UMEP Activity <./A-First-QGIS-and-UMEP-activity.md>`__ *Shadow
-   patterns - micro-scale radiation patterns*
--  `Basics about UMEP, QGIS and Spatial
-   data <./Basics-of-UMEP,-QGIS-and-Spatial-data.md>`__
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+
+   Introduction
+   Installation-of-QGIS
+   Installation-of-UMEP
+   A-First-QGIS-and-UMEP-activity
+   Basics-of-UMEP,-QGIS-and-Spatial-data
+
+
+
 
 Local scale - Urban energy balance
 ----------------------------------
 
--  `SUEWS Part 1 <./SUEWS:-Part-1.md>`__ - Introduction to SUEWS
--  `SUEWS Part 2 <./SUEWS:-Part-2.md>`__ - SUEWS and UMEP
--  `SUEWS Part 3 <./SUEWS:-Part-3.md>`__ - City-wide spatial analysis
-   using UMEP/SUEWS
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+
+   SUEWS-1
+   SUEWS-2
+   SUEWS-3
+
 
 Micro scale - Radiation modelling
 ---------------------------------
+
+.. #TODO
+
 
 Spatial data and processing
 ---------------------------

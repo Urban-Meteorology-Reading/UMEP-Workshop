@@ -1,5 +1,5 @@
 Background Resources
-====================
+--------------------
 
 UMEP
 ~~~~
@@ -46,7 +46,7 @@ QGIS
 -  `QGIS software <https://docs.qgis.org/3.10/en/docs/index.html>`__
 
 Structure
-=========
+--------------------
 
 -  Each section has its own wiki page with links to relevant materials.
 -  Initial material is general, later topics are more focused
@@ -55,6 +55,6 @@ Structure
 -  There is also guidance on what to do if you get stuck
 
 Delivery
-========
+--------------------
 
 V- video, T- tutorial, L - Lecture , M Manual
