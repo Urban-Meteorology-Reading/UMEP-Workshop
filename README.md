@@ -1,9 +1,13 @@
 # UMEP-Workshop
 
 ## Homepage of workshop files
-[Homepage](Home.md)
+[Homepage](docs/Home.md)
 
-## How to clone the wiki
+## Sphinx site
+
+https://myst-parser.readthedocs.io/en/latest/
+
+## How to clone the wiki (deprecated)
 
 (*so wiki pages can be edited locally, which makes life easier.*)
 ```shell
