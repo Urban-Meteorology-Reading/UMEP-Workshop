@@ -59,6 +59,7 @@ jobs:
         apt-get install -y graphviz doxygen-gui rsync python3-pip;
         python3 -m pip install --upgrade Sphinx recommonmark guzzle_sphinx_theme;
         make html;
+        touch build/html/.nojekyll
         ls -lrt build/html
        ACCESS_TOKEN: ${{ secrets.PAT }}
 
