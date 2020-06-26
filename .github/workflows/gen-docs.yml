@@ -12,6 +12,7 @@ on:
   #     - v1         # Push events to v1 tag
     paths:       # Push events containing matching files
       - 'source/*.md'
+      - '.github/workflows/gen-docs.yml'
 
 jobs:
   build:
