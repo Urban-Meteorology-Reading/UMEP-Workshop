@@ -14,6 +14,8 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 import guzzle_sphinx_theme
+import recommonmark
+from recommonmark.transform import AutoStructify
 
 # -- Project information -----------------------------------------------------
 
@@ -39,7 +41,12 @@ source_suffix = {
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinx.ext.autodoc',
+    'sphinx.ext.napoleon',
+    'sphinx.ext.mathjax',
     "recommonmark",
+    "sphinx_rtd_theme",
+    'guzzle_sphinx_theme',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -56,12 +63,20 @@ exclude_patterns = []
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'guzzle_sphinx_theme'
-html_theme_path = guzzle_sphinx_theme.html_theme_path()
+html_theme = 'sphinx_rtd_theme'
+html_context = {
+    "display_github": True, # Integrate GitHub
+    "github_user": "Urban-Meteorology-Reading", # Username
+    "github_repo": "UMEP-Workshop.io", # Repo name
+    "github_version": "master", # Version
+    "conf_py_path": "/source/", # Path in the checkout to the docs root
+}
+# html_theme = 'guzzle_sphinx_theme'
+# html_theme_path = guzzle_sphinx_theme.html_theme_path()
 # html_theme = "alabaster"
 
 # Register the theme as an extension to generate a sitemap.xml
-extensions.append("guzzle_sphinx_theme")
+# extensions.append("guzzle_sphinx_theme")
 
 # Guzzle theme options (see theme.conf for more information)
 html_theme_options = {
@@ -74,3 +89,14 @@ html_theme_options = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ["_static"]
 
+# app setup hook
+def setup(app):
+    app.add_config_value('recommonmark_config', {
+        #'url_resolver': lambda url: github_doc_root + url,
+        # 'auto_toc_tree_section': 'Workshop Structure',
+        'enable_math': True,
+        'enable_inline_math': True,
+        'enable_eval_rst': True,
+        'enable_auto_doc_ref': True,
+    }, True)
+    app.add_transform(AutoStructify)
