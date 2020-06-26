@@ -56,8 +56,8 @@ exclude_patterns = []
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme_path = guzzle_sphinx_theme.html_theme_path()
 html_theme = 'guzzle_sphinx_theme'
+html_theme_path = guzzle_sphinx_theme.html_theme_path()
 # html_theme = "alabaster"
 
 # Register the theme as an extension to generate a sitemap.xml
