@@ -1,8 +1,6 @@
 Topic: A First QGIS and UMEP activity
 -------------------------------------
 
---------------
-
 Assumed prior knowledge
 ~~~~~~~~~~~~~~~~~~~~~~~
 
