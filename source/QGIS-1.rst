@@ -15,6 +15,7 @@ Installation of QGIS
 
    -  The differences for **Other Operating systems** are also discussed in the video
 
-`**Need help:** <hhttps://urban-meteorology-reading.github.io/UMEP-Workshop.io/Need-help.html>`__
+**Need help:** 
+_`Visit <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/Need-help.html>`__
 
 
