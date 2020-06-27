@@ -15,6 +15,8 @@ Installation of QGIS
 
    -  The differences for **Other Operating systems** are also discussed in the video
 
+**Next:** You are now ready to install UMEP
+
 **Need help:** 
 -   `Visit <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/Need-help.html>`__
 
