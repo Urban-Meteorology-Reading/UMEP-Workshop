@@ -10,7 +10,6 @@ First Activity with SuPy
    workshop <setting-up>`__
 
 
-
 **Activity**
 
 -  Follow `video <>`__ for a quick demo.
@@ -18,9 +17,8 @@ First Activity with SuPy
    SuPy <https://supy.readthedocs.io/en/latest/tutorial/quick-start.html>`__
    for written instructions
 
-**Next topic:**
-You are now ready to explore more of SuPy. Go to `Using SuPy for Impact
-Study <to%20add>`__.
 
 
+**Need Help:**
+- 
 `Stuck <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/wiki/Stuck%3F>`__
