@@ -11,11 +11,12 @@ Preparation for the Workshop
 
    Background-Resources
    Need-help
-   
-   QGIS-1 
- .. installation
+      
+   QGIS-1
    UMEP-1 
- .. installation
+   
+.. installation (1) QGIS (2) UMEP
+
   
    
 First UMEP Activity
