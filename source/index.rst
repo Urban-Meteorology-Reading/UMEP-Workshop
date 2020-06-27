@@ -2,8 +2,8 @@ UMEP Workshop 2020
 ==================
 
 
-Introduction
-------------
+Preparation for the Workshop
+----------------------------
 
 .. toctree::
    :maxdepth: 2
@@ -12,9 +12,16 @@ Introduction
    Introduction
    Installation-of-QGIS
    Installation-of-UMEP
+   
+First Activity
+----------------------------
+
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+   
    A-First-QGIS-and-UMEP-activity
    Basics-of-UMEP,-QGIS-and-Spatial-data
-
 
 
 
