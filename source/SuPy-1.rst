@@ -1,4 +1,4 @@
-Preparation for using SuPY
+Preparation for using SuPy
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **This will take:** ~ x mins
@@ -14,7 +14,8 @@ Preparation for using SuPY
 -  `SUEWS vs SuPy vs UMEP  see the SUEWS docs
    site <https://suews-docs.readthedocs.io/en/latest/related_softwares.html>`__
    
-**Next Activity**: First use of SuPY
+**Next Activity**: First use of SuPy
 
+**Need Help**
 
-`Stuck <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/wiki/Stuck%3F>`__
+- `Stuck <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/wiki/Stuck%3F>`__
