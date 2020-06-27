@@ -5,8 +5,8 @@ Introduction To SUEWS
 
 **Prior to this**:
 
--  UMEP installed
--  Introduction to GIS
+-  QGIS and UMEP should be installed on you computer
+-  Completed the earlier activity `Introduction to GIS <
 
 **Meteorology Background**
 
@@ -25,6 +25,4 @@ Introduction To SUEWS
    link <https://umep-docs.readthedocs.io/projects/tutorial/en/latest/Tutorials/IntroductionToSuews.html>`__
 
 **Need Help:**
--   `Stuck <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/wiki/Stuck%3F>`__
--  `SUEWS manual link <https://suews-docs.readthedocs.io/>`__ 
--  SUEWS paper link - overview paper
+-   `Stuck <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/Need-help.html>`__
