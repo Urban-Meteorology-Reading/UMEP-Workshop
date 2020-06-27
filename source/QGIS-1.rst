@@ -2,7 +2,7 @@ Installation of QGIS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-**This will take:**  ~10 minutes - (depending on you internet download speed)
+**This will take:**  ~10 minutes (depending on you internet download speed)
 
 
 **Activity**
@@ -15,9 +15,6 @@ Installation of QGIS
 
    -  The differences for **Other Operating systems** are also discussed in the video
 
--  If you have any issues check the `Stuck? page <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/wiki/Stuck%3F>`__
+`**Need help:** <hhttps://urban-meteorology-reading.github.io/UMEP-Workshop.io/Need-help.html>`__
 
-**Next?:**
 
-You are now ready to `install
-UMEP <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/wiki/Installation-of-UMEP>`__
