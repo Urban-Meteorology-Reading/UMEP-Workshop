@@ -12,7 +12,8 @@ First Activity with SuPy
 
 **Activity**
 
--  Follow `video <>`__ for a quick demo.
+-  This `video <>`__ gives a demo of XXX
+
 -  `Online tutorial: Quickstart of
    SuPy <https://supy.readthedocs.io/en/latest/tutorial/quick-start.html>`__
    for written instructions
