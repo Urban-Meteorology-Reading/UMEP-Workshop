@@ -10,6 +10,7 @@ Preparation for the Workshop
    :numbered:
 
    Background-Resources
+   Stuck?
    Installation-of-QGIS
    Installation-of-UMEP
    
@@ -74,14 +75,9 @@ SuPy
    :maxdepth: 2
    :numbered:
    
-   
+   Introduction-to-SuPY
    SuPy-Quickstart
    
--  Installation of Python
--  Jupyter Notebooks 
-
--  SuPy -
-   `quickstart <https://SuPy.readthedocs.io/en/latest/tutorial/quick-start.html>`__\ \|
   t
 -  SuPy - `impact
    study <https://SuPy.readthedocs.io/en/latest/tutorial/impact-studies-parallel.html>`__\ \|T
@@ -92,9 +88,7 @@ SuPy
 -  SuPy - `calculating own
    parameters <https://SuPy.readthedocs.io/en/latest/tutorial/AMF-sim.html>`__
    \|T \| AmeriFlux data. Add Basel data?
--  SUEWS vs SuPy vs UMEP \|-|–\| –|–\| `an existing page on SUEWS docs
-   site <https://suews-docs.readthedocs.io/en/latest/related_softwares.html>`__
-   
-   DASH
-   ----
+
+DASH
+----
    -  What is DASH?
