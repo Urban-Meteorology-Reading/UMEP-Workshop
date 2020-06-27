@@ -20,6 +20,6 @@ Basics of UMEP, QGIS and Spatial data
 - Scale
 
 
-**Next?:**
+
 
 
