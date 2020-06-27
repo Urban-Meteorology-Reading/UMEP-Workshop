@@ -1,7 +1,9 @@
 Preparing for the workshop
 --------------------------
 
-Follow the steps in this section before the workshop starts.
+Prior to the workshop complete the steps in the section.
+
+You may also want to have a look at the `background material <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/Background-Resources.html>`
 
 .. toctree::
    :maxdepth: 1
