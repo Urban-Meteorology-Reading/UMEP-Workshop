@@ -18,13 +18,13 @@ Introduction To SUEWS
 
 -  Introduction to local scale surface energy and water balance
    modelling for a specific point location
--  `SUEWS manual link <https://suews-docs.readthedocs.io/>`__ - this
-   provides details of the SUEWS model
 
--  SUEWS paper link - overview paper
+
 
 -  `Tutorial
    link <https://umep-docs.readthedocs.io/projects/tutorial/en/latest/Tutorials/IntroductionToSuews.html>`__
 
--  `What to do if you are
-   stuck <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/wiki/Stuck%3F>`__
+**Need Help:**
+-   `Stuck <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/wiki/Stuck%3F>`__
+-  `SUEWS manual link <https://suews-docs.readthedocs.io/>`__ 
+-  SUEWS paper link - overview paper
