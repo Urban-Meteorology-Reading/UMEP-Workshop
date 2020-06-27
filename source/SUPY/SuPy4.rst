@@ -1,4 +1,4 @@
-.. _SyPy4:
+.. _SuPy4:
 
 SuPy - Interaction with external models
 ---------------------------------------

@@ -4,60 +4,60 @@ UMEP Workshop 2020
 Preparation for the Workshop
 ----------------------------
 
-`Background`
-`NeedHelp`
-`QGIS1`
-`UMEP1` 
-  
-   
+- `Background`
+- `NeedHelp`
+- `QGIS1`
+- `UMEP1`
+
+
 First UMEP Activity
 -------------------
 
-`UMEP-2` 
-`GIS-1`  
+- `UMEP2`
+- `QGIS1`
 
 Local scale - Urban energy balance
 ----------------------------------
 
-`SUEWS-1`   
-`SUEWS-2`
-`SUEWS-3` 
-`SUEWS-5` 
+- `SUEWS1`
+- `SUEWS2`
+- `SUEWS3`
+- `SUEWS5`
 
 Not sure what to call this section
 ----------------------------------
-`GIS2`
-`SUEWS4`
-`GIS3`
+
+- `GIS2`
+- `SUEWS4`
+- `GIS3`
 
 
-What else can UMEP do? 
+What else can UMEP do?
 ----------------------
-   
-`UMEP3`      
-`UMEP4` 
-`UMEP5`  
-`UMEP6`  
-`UMEP7`  
-`UMEP8` 
-`UMEP9` 
-`UMEP10` 
+
+- `UMEP3`
+- `UMEP4`
+- `UMEP5`
+- `UMEP6`
+- `UMEP7`
+- `UMEP8`
+- `UMEP9`
+- `UMEP10`
 
 
 SuPy
 ----
 
-`SuPy1`
-`SuPy2`
-`SuPy3`
-`SuPy4`
+- `SuPy1`
+- `SuPy2`
+- `SuPy3`
+- `SuPy4`
 
 DASH
 ----
 -  What is DASH?
 
 
-   
 .. toctree::
    :caption: Workshop Structure
    :numbered:
@@ -72,4 +72,4 @@ DASH
    SUPY/SuPy
    NeedHelp
    Background-Resources
-   
+
