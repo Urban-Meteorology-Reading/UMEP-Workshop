@@ -9,7 +9,7 @@ Preparation for the Workshop
    :maxdepth: 2
    :numbered:
 
-   Introduction
+   Preparation_for_the_Workshop
    Installation-of-QGIS
    Installation-of-UMEP
    
@@ -73,13 +73,13 @@ SuPy
 ----
 
 -  Installation of Python
--  Jupyter Notebooks \| V\|
+-  Jupyter Notebooks 
 -  SuPy -
    `quickstart <https://SuPy.readthedocs.io/en/latest/tutorial/quick-start.html>`__\ \|
-   V, T\| –|–\| –\| –\| First
+  t
 -  SuPy - `impact
    study <https://SuPy.readthedocs.io/en/latest/tutorial/impact-studies-parallel.html>`__\ \|T
-   \|–|–\| –\| –\| First
+ 
 -  SuPy - `interaction with external
    models <https://SuPy.readthedocs.io/en/latest/tutorial/external-interaction.html>`__
    \|T \|
