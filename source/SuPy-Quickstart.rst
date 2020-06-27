@@ -1,20 +1,15 @@
 Topic: Quickstart of SuPy
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Approximately how long will this take
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Approximately how long will this take**: 5 minutes
 
-5 minutes
-
-Required activity before this
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Prior to this activity this**
 
 -  Familiarity with SUEWS
 -  `Jupyter Notebook: setting up your research-oriented coding
    workshop <setting-up>`__
 
-SuPy Background
-~~~~~~~~~~~~~~~
+**SuPy Background**
 
 -  `SuPy Documentation <https://supy.readthedocs.io/>`__
 -  SuPy Overview Paper
@@ -25,17 +20,14 @@ SuPy Background
       2019;12(7):2781-95.
       doi:`10.5194/gmd-12-2781-2019 <https://doi.org/10.5194/gmd-12-2781-2019>`__
 
-Activity
-~~~~~~~~
+**Activity**
 
 -  Follow `video <>`__ for a quick demo.
 -  `Online tutorial: Quickstart of
    SuPy <https://supy.readthedocs.io/en/latest/tutorial/quick-start.html>`__
    for written instructions
 
-What topic should be covered next?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+**Next topic:**
 You are now ready to explore more of SuPy. Go to `Using SuPy for Impact
 Study <to%20add>`__.
 
