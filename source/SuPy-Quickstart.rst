@@ -38,3 +38,6 @@ What topic should be covered next?
 
 You are now ready to explore more of SuPy. Go to `Using SuPy for Impact
 Study <to%20add>`__.
+
+
+`Stuck <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/wiki/Stuck%3F>`__
