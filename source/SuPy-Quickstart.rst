@@ -9,16 +9,7 @@ First Activity with SuPy
 -  `Jupyter Notebook: setting up your research-oriented coding
    workshop <setting-up>`__
 
-**SuPy Background**
 
--  `SuPy Documentation <https://supy.readthedocs.io/>`__
--  SuPy Overview Paper
-
-   -  Sun T, Grimmond S. A Python-enhanced urban land surface model SuPy
-      (SUEWS in Python, v2019. 2): development, deployment and
-      demonstration. Geoscientific Model Development.
-      2019;12(7):2781-95.
-      doi:`10.5194/gmd-12-2781-2019 <https://doi.org/10.5194/gmd-12-2781-2019>`__
 
 **Activity**
 
