@@ -1,13 +1,13 @@
 UMEP Workshop 2020
 ==================
 
+.. toctree::
+   :maxdepth: 2
+   :numbered:
 
 Preparation for the Workshop
 ----------------------------
 
-.. toctree::
-   :maxdepth: 2
-   :numbered:
 
    Background-Resources
    Need-help
@@ -22,9 +22,6 @@ Preparation for the Workshop
 First UMEP Activity
 ----------------------------
 
-.. toctree::
-   :maxdepth: 2
-   :numbered:
    
    UMEP-2 
 
@@ -36,9 +33,6 @@ First UMEP Activity
 Local scale - Urban energy balance
 ----------------------------------
 
-.. toctree::
-   :maxdepth: 2
-   :numbered:
 
    SUEWS-1   
    SUEWS-2
@@ -52,9 +46,6 @@ Local scale - Urban energy balance
 
 What else can UMEP do? 
 ---------------------------
-.. toctree::
-   :maxdepth: 2
-   :numbered:
    
    UMEP-3  
    GIS-2     
@@ -78,9 +69,7 @@ What else can UMEP do?
 
 SuPy
 ----
-.. toctree::
-   :maxdepth: 2
-   :numbered:
+
    
    SuPy-1
    SuPy-2
