@@ -1,4 +1,4 @@
-Topic: Quickstart of SuPy
+First Activity with SuPy
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **This will this take**: ~ 5 minutes
