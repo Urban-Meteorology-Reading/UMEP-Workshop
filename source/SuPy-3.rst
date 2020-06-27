@@ -1,8 +1,6 @@
 SuPy - Impact study
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
-
 **This will take:**  XX minutes
 
 **Expected knowledge/activity before this**
@@ -11,15 +9,10 @@ SuPy - Impact study
 
 **Activity**
 
--  SuPy - `impact
+-  In this activitiy you use will use SuPy to conduct an `impact
    study <https://SuPy.readthedocs.io/en/latest/tutorial/impact-studies-parallel.html>`__\ \|T
  
--  SuPy - `interaction with external
-   models <https://SuPy.readthedocs.io/en/latest/tutorial/external-interaction.html>`__
-   \|T \|
--  SuPy - `calculating own
-   parameters <https://SuPy.readthedocs.io/en/latest/tutorial/AMF-sim.html>`__
-   \|T \| AmeriFlux data. Add Basel data?
+
 
 
 **Need Help:**
