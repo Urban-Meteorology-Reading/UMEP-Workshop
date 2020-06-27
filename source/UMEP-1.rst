@@ -22,5 +22,7 @@ Installation of UMEP
    `these <https://github.com/sunt05/SuPy/blob/d48f58d8f35e852acd4e205ca4b0a3c9adcdebf2/src/setup.py#L40-L58>`__
    packages.
 
-**Next:** You are now ready to run UMEP. Go to `First UMEP
-Activity <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/wiki/A-First-QGIS-and-UMEP-activity>`__.
+**Next:** You are now ready to run UMEP.
+
+**Need help:** 
+-   `Visit <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/Need-help.html>`__
