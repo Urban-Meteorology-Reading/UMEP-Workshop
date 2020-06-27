@@ -1,32 +1,23 @@
-Topic: Introduction To SUEWS
+Introduction To SUEWS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
---------------
+**This will this take**: ~30 minutes
 
-How long will this take
-~~~~~~~~~~~~~~~~~~~~~~~
-
-30 minutes
-
-Expected knowledge/activity before this
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Prior to this**:
 
 -  UMEP installed
 -  Introduction to GIS
 
-Meteorology Background
-~~~~~~~~~~~~~~~~~~~~~~
+**Meteorology Background**
 
 -  Introduction to urban surface energy balance
 -  Introduction to urban water balance
 -  Scale in the urban environment
 
-Activity
-~~~~~~~~
+**Activity**
 
 -  Introduction to local scale surface energy and water balance
    modelling for a specific point location
-
 -  `SUEWS manual link <https://suews-docs.readthedocs.io/>`__ - this
    provides details of the SUEWS model
 
