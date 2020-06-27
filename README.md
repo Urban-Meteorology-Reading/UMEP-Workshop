@@ -1,7 +1,6 @@
 # UMEP-Workshop
 
-## Homepage of workshop files
-[Homepage](docs/Home.md)
+
 
 ## Sphinx site
 
