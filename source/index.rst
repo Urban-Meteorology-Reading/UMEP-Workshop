@@ -35,7 +35,7 @@ Local scale - Urban energy balance
    SUEWS-1
    SUEWS-2
    SUEWS-3
-
+   SUEWS - ERA5 downloader \|V \|
 
 Micro scale - Radiation modelling
 ---------------------------------
@@ -51,15 +51,22 @@ Spatial data and processing
 -  Loading spatial data
 -  UMEP - model parameters (z0, h/w etc)\| V,T–
 -  UMEP- Footprint model Meteorological data
--  SUEWS - ERA5 downloader \|V \|
--  `What else can UMEP
-   do? <https://umep-docs.readthedocs.io/projects/tutorial/en/latest/index.html>`__
+
+
+
+What else can UMEP do? 
+---------------------------
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+   
+<https://umep-docs.readthedocs.io/projects/tutorial/en/latest/index.html>`__
 -  UMEP workflow patterns
 -  What else can SUEWS do?
 -  Heat stress
 -  SOLWEIG
 -  SEBE
--  What is DASH?
+
 -  Chain of Models
 
 SuPy
@@ -81,3 +88,7 @@ SuPy
    \|T \| AmeriFlux data. Add Basel data?
 -  SUEWS vs SuPy vs UMEP \|-|–\| –|–\| `an existing page on SUEWS docs
    site <https://suews-docs.readthedocs.io/en/latest/related_softwares.html>`__
+   
+   DASH
+   ----
+   -  What is DASH?
