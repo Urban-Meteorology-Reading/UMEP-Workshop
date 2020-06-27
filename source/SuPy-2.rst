@@ -20,5 +20,5 @@ First Activity with SuPy
 
 
 **Need Help:**
-- 
-`Stuck <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/wiki/Stuck%3F>`__
+
+-  `Stuck <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/wiki/Stuck%3F>`__
