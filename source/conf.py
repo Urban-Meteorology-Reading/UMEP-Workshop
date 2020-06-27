@@ -31,6 +31,8 @@ release = "20200626"
 
 # master_doc='Home'
 
+default_role='any'
+
 source_suffix = {
     '.rst': 'restructuredtext',
     '.txt': 'markdown',
