@@ -27,9 +27,10 @@ First UMEP Activity
    :numbered:
    
    UMEP-2 
-.. first activity
+
    GIS-1  
-.. Basics-of-UMEP,-QGIS-and-Spatial-data
+.. first activity
+   Basics-of-UMEP,-QGIS-and-Spatial-data
 
 
 Local scale - Urban energy balance
@@ -64,19 +65,16 @@ What else can UMEP do?
    UMEP-8 
    UMEP-9 
    UMEP-10 
+   
 ..  3  -Micro scale - Radiation modelling
    4 -Spatial data and processing
    5 - UMEP - model parameters (z0, h/w etc)
    6 UMEP- Footprint model Meteorological data
    7  UMEP workflow patterns
-   
-..  Heat stress
-   
-..  SOLWEIG
-    
-.. SEBE
- 
- ..  Chain of Models
+   8 Heat stress
+   9 SOLWEIG
+   10 SEBE
+   11  Chain of Models
 
 SuPy
 ----
