@@ -27,6 +27,8 @@ author = "Sue Grimmond, Fredrik Lindberg, Ting Sun and Kit Benjamin"
 release = "20200626"
 
 
+html_static_path = ['_static']
+
 # -- General configuration ---------------------------------------------------
 
 # master_doc='Home'

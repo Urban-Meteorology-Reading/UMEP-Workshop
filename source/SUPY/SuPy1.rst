@@ -1,3 +1,5 @@
+.. _SuPy1:
+
 Preparation for using SuPy
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 

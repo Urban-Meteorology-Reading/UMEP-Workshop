@@ -1,3 +1,5 @@
+.. _SuPy2:
+
 First Activity with SuPy
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 

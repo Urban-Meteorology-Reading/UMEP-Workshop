@@ -1,5 +1,7 @@
+.. _SyPy4:
+
 SuPy - Interaction with external models
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------
 
 **This will take:**  XX minutes
 

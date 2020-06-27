@@ -1,5 +1,7 @@
+.. _SuPy:
+
 SuPy - Impact study
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
 
 **This will take:**  XX minutes
 

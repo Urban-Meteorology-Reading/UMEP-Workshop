@@ -1,5 +1,7 @@
+.. _SUEWS2:
+
 Sensitivity analysis of SUEWS using geodatasets
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------
 
 **This will this take:** ~45 minutes
 

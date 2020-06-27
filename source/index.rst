@@ -1,83 +1,75 @@
 UMEP Workshop 2020
 ==================
 
-.. toctree::
-   :maxdepth: 2
-   :numbered:
-
 Preparation for the Workshop
 ----------------------------
 
-
-   Background-Resources
-   Need-help
-      
-   QGIS-1
-   UMEP-1 
-   
-.. installation (1) QGIS (2) UMEP
-
+`Background`
+`NeedHelp`
+`QGIS1`
+`UMEP1` 
   
    
 First UMEP Activity
-----------------------------
+-------------------
 
-   
-   UMEP-2 
-
-   GIS-1  
-.. first activity
-   Basics-of-UMEP,-QGIS-and-Spatial-data
-
+`UMEP-2` 
+`GIS-1`  
 
 Local scale - Urban energy balance
 ----------------------------------
 
+`SUEWS-1`   
+`SUEWS-2`
+`SUEWS-3` 
+`SUEWS-5` 
 
-   SUEWS-1   
-   SUEWS-2
-   SUEWS-3
-   SUEWS-4 
-   SUEWS-5 
-..  What else can SUEWS do?
- 
-.. RERA5
+Not sure what to call this section
+----------------------------------
+`GIS2`
+`SUEWS4`
+`GIS3`
 
 
 What else can UMEP do? 
----------------------------
+----------------------
    
-   UMEP-3  
-   GIS-2     
-   UMEP-4 
-   UMEP-5  
-   UMEP-6  
-   UMEP-7  
-   UMEP-8 
-   UMEP-9 
-   UMEP-10 
-   
-..  3  -Micro scale - Radiation modelling
-   4 -Spatial data and processing
-   5 - UMEP - model parameters (z0, h/w etc)
-   6 UMEP- Footprint model Meteorological data
-   7  UMEP workflow patterns
-   8 Heat stress
-   9 SOLWEIG
-   10 SEBE
-   11  Chain of Models
+`UMEP3`      
+`UMEP4` 
+`UMEP5`  
+`UMEP6`  
+`UMEP7`  
+`UMEP8` 
+`UMEP9` 
+`UMEP10` 
+
 
 SuPy
 ----
 
-   
-   SuPy-1
-   SuPy-2
-   SuPy-3
-   SuPy-4
-   
-
+`SuPy1`
+`SuPy2`
+`SuPy3`
+`SuPy4`
 
 DASH
 ----
-   -  What is DASH?
+-  What is DASH?
+
+
+   
+.. toctree::
+   :caption: Workshop Structure
+   :numbered:
+   :maxdepth: 1
+   :hidden:
+
+   Prepare/PrepareForTheWorkshop
+   FirstUMEP/FirstUMEPActivity
+   LocalScale/SUEWS
+   GettingData/GettingData
+   WhatElse/WhatElseCanUMEP
+   SUPY/SuPy
+   NeedHelp
+   Background-Resources
+   

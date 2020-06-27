@@ -1,6 +1,7 @@
-Installation of QGIS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. _QGIS1:
 
+Installation of QGIS
+--------------------
 
 **This will take:**  ~10 minutes (depending on your internet download speed)
 

@@ -1,12 +1,15 @@
+.. _SUEWS3:
+
 Spatial analysis urban energy and water balance
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------
 
 
 **This will take:** ~ 60 minutes
 
 **Expected knowledge/activity before this**
 
--  Introduction to SUEWS
+-  `SUEWS1`
+-  `SUEWS2`
 
 
 **Activity**

@@ -1,5 +1,7 @@
+.. _GIS2:
+
 Basics of UMEP, QGIS and Spatial data
-~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------------
 
 **This will take:** ~ min
 

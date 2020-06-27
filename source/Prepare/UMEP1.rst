@@ -1,5 +1,7 @@
+.. _UMEP1:
+
 Installation of UMEP
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
 
 **This will this take:** ~10 minutes
 
