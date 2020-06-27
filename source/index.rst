@@ -13,9 +13,9 @@ Preparation for the Workshop
    Need-help
    
    QGIS-1 
-.. installation
+   .. installation
    UMEP-1 
-.. installation
+   .. installation
   
    
 First UMEP Activity
