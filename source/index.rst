@@ -11,8 +11,11 @@ Preparation for the Workshop
 
    Background-Resources
    Need-help
-   QGIS-1 .. installation
-   UMEP-1 .. installation
+   
+   QGIS-1 
+.. installation
+   UMEP-1 
+.. installation
   
    
 First UMEP Activity
@@ -22,8 +25,10 @@ First UMEP Activity
    :maxdepth: 2
    :numbered:
    
-   UMEP-2 .. first activity
-   GIS-1  .. Basics-of-UMEP,-QGIS-and-Spatial-data
+   UMEP-2 
+.. first activity
+   GIS-1  
+.. Basics-of-UMEP,-QGIS-and-Spatial-data
 
 
 Local scale - Urban energy balance
@@ -36,8 +41,10 @@ Local scale - Urban energy balance
    SUEWS-1   
    SUEWS-2
    SUEWS-3
-   SUEWS-4 ..-  What else can SUEWS do?
-   SUEWS-5 .. RERA5
+   SUEWS-4 
+..  What else can SUEWS do?
+   SUEWS-5 
+.. RERA5
 
 
 What else can UMEP do? 
@@ -46,15 +53,24 @@ What else can UMEP do?
    :maxdepth: 2
    :numbered:
    
-   UMEP-3  .. Micro scale - Radiation modelling
-   GIS-2   .. Spatial data and processing
-   UMEP-4  .. UMEP - model parameters (z0, h/w etc)
-   UMEP-5  .. UMEP- Footprint model Meteorological data
-   UMEP-6  ..  UMEP workflow patterns
-   UMEP-7  ..  Heat stress
-   UMEP-8  ..  SOLWEIG
-   UMEP-9  .. SEBE
-   UMEP-10 ..  Chain of Models
+   UMEP-3  
+.. Micro scale - Radiation modelling
+   GIS-2   
+.. Spatial data and processing
+   UMEP-4  
+   .. UMEP - model parameters (z0, h/w etc)
+   UMEP-5  
+   .. UMEP- Footprint model Meteorological data
+   UMEP-6  
+   ..  UMEP workflow patterns
+   UMEP-7  
+   ..  Heat stress
+   UMEP-8  
+   ..  SOLWEIG
+   UMEP-9  
+   .. SEBE
+   UMEP-10 
+   ..  Chain of Models
 
 SuPy
 ----
