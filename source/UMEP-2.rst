@@ -4,12 +4,11 @@ First QGIS and UMEP activity
 **This will take:** ~ XX min
 
 **Assumed prior to this**
-1. QGIS installed
-2. UMEP installed
+-  QGIS and UMEP installed
 
 **Activity**
 
--  Simple example on how to create shadow maps using QGIS and UMEP.
+-  Simple example of how to create shadow maps using QGIS and UMEP.
 
 -  Tutorial Link
 
@@ -20,5 +19,5 @@ First QGIS and UMEP activity
 **Next**
 -  Basics on the QGIS graphical user interface, UMEP and spatial data.
 
-**Stuck**
+`Help Page <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/Need-help.html>`__
 
