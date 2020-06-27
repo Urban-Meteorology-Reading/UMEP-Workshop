@@ -9,11 +9,11 @@ Preparation for the Workshop
    :maxdepth: 2
    :numbered:
 
-   Preparation_for_the_Workshop
+   Background-Resources
    Installation-of-QGIS
    Installation-of-UMEP
    
-First Activity
+First UMEP Activity
 ----------------------------
 
 .. toctree::
@@ -22,7 +22,6 @@ First Activity
    
    A-First-QGIS-and-UMEP-activity
    Basics-of-UMEP,-QGIS-and-Spatial-data
-
 
 
 Local scale - Urban energy balance
@@ -71,9 +70,16 @@ What else can UMEP do?
 
 SuPy
 ----
-
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+   
+   
+   SuPy-Quickstart
+   
 -  Installation of Python
 -  Jupyter Notebooks 
+
 -  SuPy -
    `quickstart <https://SuPy.readthedocs.io/en/latest/tutorial/quick-start.html>`__\ \|
   t
