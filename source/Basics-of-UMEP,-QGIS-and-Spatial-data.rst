@@ -1,8 +1,10 @@
 Basics of UMEP, QGIS and Spatial data
 ~~~~~~~~~~~~~~~~~~~~~~~
 
+**This will take:** ~ min
+
 **Assumed prior knowledge**
-- Completeed *A First QGIS and UMEP activity*
+- Completed *A First QGIS and UMEP activity*
 
 
 **Activity**
