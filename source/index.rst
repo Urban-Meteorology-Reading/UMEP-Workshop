@@ -58,19 +58,19 @@ What else can UMEP do?
    GIS-2   
 .. Spatial data and processing
    UMEP-4  
-   .. UMEP - model parameters (z0, h/w etc)
+.. UMEP - model parameters (z0, h/w etc)
    UMEP-5  
-   .. UMEP- Footprint model Meteorological data
+.. UMEP- Footprint model Meteorological data
    UMEP-6  
-   ..  UMEP workflow patterns
+..  UMEP workflow patterns
    UMEP-7  
-   ..  Heat stress
+..  Heat stress
    UMEP-8  
-   ..  SOLWEIG
+..  SOLWEIG
    UMEP-9  
-   .. SEBE
+.. SEBE
    UMEP-10 
-   ..  Chain of Models
+ ..  Chain of Models
 
 SuPy
 ----
