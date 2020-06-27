@@ -1,7 +1,7 @@
 Topic: Quickstart of SuPy
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Approximately how long will this take**: 5 minutes
+**This will this take**: ~ 5 minutes
 
 **Prior to this activity this**
 
