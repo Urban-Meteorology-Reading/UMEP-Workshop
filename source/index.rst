@@ -10,9 +10,9 @@ Preparation for the Workshop
    :numbered:
 
    Background-Resources
-   Stuck?
-   Installation-of-QGIS
-   Installation-of-UMEP
+   Need-help
+   QGIS-1
+   UMEP-1
    
 First UMEP Activity
 ----------------------------
@@ -21,7 +21,7 @@ First UMEP Activity
    :maxdepth: 2
    :numbered:
    
-   A-First-QGIS-and-UMEP-activity
+   UMEP-2
    Basics-of-UMEP,-QGIS-and-Spatial-data
 
 
@@ -60,6 +60,8 @@ What else can UMEP do?
    :maxdepth: 2
    :numbered:
    
+   
+   
 <https://umep-docs.readthedocs.io/projects/tutorial/en/latest/index.html>`__
 -  UMEP workflow patterns
 -  What else can SUEWS do?
@@ -75,19 +77,12 @@ SuPy
    :maxdepth: 2
    :numbered:
    
-   Introduction-to-SuPY
-   SuPy-Quickstart
+   SuPy-1
+   SuPy-2
+   SuPy-3
+   SuPy-4
    
-  t
--  SuPy - `impact
-   study <https://SuPy.readthedocs.io/en/latest/tutorial/impact-studies-parallel.html>`__\ \|T
- 
--  SuPy - `interaction with external
-   models <https://SuPy.readthedocs.io/en/latest/tutorial/external-interaction.html>`__
-   \|T \|
--  SuPy - `calculating own
-   parameters <https://SuPy.readthedocs.io/en/latest/tutorial/AMF-sim.html>`__
-   \|T \| AmeriFlux data. Add Basel data?
+
 
 DASH
 ----
