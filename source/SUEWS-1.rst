@@ -6,7 +6,7 @@ Introduction To SUEWS
 **Prior to this**:
 
 -  QGIS and UMEP should be installed on you computer
--  Completed the earlier activity `Introduction to GIS <
+-  Completed the first UMEP activity
 
 **Meteorology Background**
 
@@ -19,10 +19,7 @@ Introduction To SUEWS
 -  Introduction to local scale surface energy and water balance
    modelling for a specific point location
 
-
-
 -  `Tutorial
    link <https://umep-docs.readthedocs.io/projects/tutorial/en/latest/Tutorials/IntroductionToSuews.html>`__
 
-**Need Help:**
--   `Stuck <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/Need-help.html>`__
+`Help Page <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/Need-help.html>`__
