@@ -24,5 +24,4 @@ Installation of UMEP
 
 **Next:** You are now ready to run UMEP.
 
-**Need help:** 
--   `Visit <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/Need-help.html>`__
+`**Need help:** <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/Need-help.html>`__
