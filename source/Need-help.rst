@@ -1,4 +1,4 @@
-If you get stuck - what are some resources that may help?
+Need Help?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **UMEP**
