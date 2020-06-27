@@ -2,20 +2,33 @@ UMEP Workshop 2020
 ==================
 
 
-Introduction
-------------
+Preparation for the Workshop
+----------------------------
 
 .. toctree::
    :maxdepth: 2
    :numbered:
 
-   Introduction
-   Installation-of-QGIS
-   Installation-of-UMEP
-   A-First-QGIS-and-UMEP-activity
-   Basics-of-UMEP,-QGIS-and-Spatial-data
+   Background-Resources
+   Need-help
+   
+   QGIS-1 
+ .. installation
+   UMEP-1 
+ .. installation
+  
+   
+First UMEP Activity
+----------------------------
 
-
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+   
+   UMEP-2 
+.. first activity
+   GIS-1  
+.. Basics-of-UMEP,-QGIS-and-Spatial-data
 
 
 Local scale - Urban energy balance
@@ -25,52 +38,53 @@ Local scale - Urban energy balance
    :maxdepth: 2
    :numbered:
 
-   SUEWS-1
+   SUEWS-1   
    SUEWS-2
    SUEWS-3
+   SUEWS-4 
+..  What else can SUEWS do?
+   SUEWS-5 
+.. RERA5
 
 
-Micro scale - Radiation modelling
----------------------------------
-
-.. #TODO
-
-
-Spatial data and processing
+What else can UMEP do? 
 ---------------------------
-
--  GRIDS
--  Obtaining spatial data
--  Loading spatial data
--  UMEP - model parameters (z0, h/w etc)\| V,T–
--  UMEP- Footprint model Meteorological data
--  SUEWS - ERA5 downloader \|V \|
--  `What else can UMEP
-   do? <https://umep-docs.readthedocs.io/projects/tutorial/en/latest/index.html>`__
--  UMEP workflow patterns
--  What else can SUEWS do?
--  Heat stress
--  SOLWEIG
--  SEBE
--  What is DASH?
--  Chain of Models
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+   
+   UMEP-3  
+.. Micro scale - Radiation modelling
+   GIS-2   
+.. Spatial data and processing
+   UMEP-4  
+.. UMEP - model parameters (z0, h/w etc)
+   UMEP-5  
+.. UMEP- Footprint model Meteorological data
+   UMEP-6  
+..  UMEP workflow patterns
+   UMEP-7  
+..  Heat stress
+   UMEP-8  
+..  SOLWEIG
+   UMEP-9  
+.. SEBE
+   UMEP-10 
+ ..  Chain of Models
 
 SuPy
 ----
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+   
+   SuPy-1
+   SuPy-2
+   SuPy-3
+   SuPy-4
+   
 
--  Installation of Python
--  Jupyter Notebooks \| V\|
--  SuPy -
-   `quickstart <https://SuPy.readthedocs.io/en/latest/tutorial/quick-start.html>`__\ \|
-   V, T\| –|–\| –\| –\| First
--  SuPy - `impact
-   study <https://SuPy.readthedocs.io/en/latest/tutorial/impact-studies-parallel.html>`__\ \|T
-   \|–|–\| –\| –\| First
--  SuPy - `interaction with external
-   models <https://SuPy.readthedocs.io/en/latest/tutorial/external-interaction.html>`__
-   \|T \|
--  SuPy - `calculating own
-   parameters <https://SuPy.readthedocs.io/en/latest/tutorial/AMF-sim.html>`__
-   \|T \| AmeriFlux data. Add Basel data?
--  SUEWS vs SuPy vs UMEP \|-|–\| –|–\| `an existing page on SUEWS docs
-   site <https://suews-docs.readthedocs.io/en/latest/related_softwares.html>`__
+
+DASH
+----
+   -  What is DASH?

@@ -1,40 +1,26 @@
-Topic: Spatial analysis urban energy and water balance
+Spatial analysis urban energy and water balance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
---------------
 
-How long will this take
-~~~~~~~~~~~~~~~~~~~~~~~
+**This will take:** ~ 60 minutes
 
-60 minutes
-
-Expected knowledge/activity before this
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Expected knowledge/activity before this**
 
 -  UMEP installed
 -  Introduction to GIS
 -  Introduction to SUEWS
 
-Meteorology Background
-~~~~~~~~~~~~~~~~~~~~~~
 
--  Introduction to urban surface energy balance
--  Introduction to urban water balance
--  Scale in the urban environment
+**Activity**
 
-Activity
-~~~~~~~~
+-  In this tutorial you undertake  modelling of spatial variations of local scale surface energy and water balance 
 
--  Spatial variations of local scale surface energy and water balance
-   modelling
+-  `Tutorial link <https://umep-docs.readthedocs.io/projects/tutorial/en/latest/Tutorials/SuewsSpatial.html>`__
 
--  `SUEWS manual link <https://suews-docs.readthedocs.io/>`__ - this
-   provides details of the SUEWS model
+**Need Help:**
 
+-  `SUEWS manual link <https://suews-docs.readthedocs.io/>`__ 
 -  SUEWS paper link - overview paper
-
--  `Tutorial
-   link <https://umep-docs.readthedocs.io/projects/tutorial/en/latest/Tutorials/SuewsSpatial.html>`__
 
 -  `What to do if you are
    stuck <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/wiki/Stuck%3F>`__

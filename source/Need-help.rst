@@ -1,9 +1,11 @@
-Background Resources
---------------------
+Need Help?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-UMEP
-~~~~
+**UMEP**
 
+- How to raise an issue
+- email list
+- FAQ
 -  `UMEP Manual <https://umep-docs.readthedocs.io/en/latest/>`__
 
 -  UMEP Overview Paper
@@ -16,10 +18,12 @@ UMEP
       Modelling and Software*, 99, 70-87
       `https://doi.org/10.1016/j.envsoft.2017.09.020 <https://www.sciencedirect.com/science/article/pii/S1364815217304140>`__
 
-SUEWS
-~~~~~
+**SUEWS**
 
 -  `SUEWS manual <https://suews-docs.readthedocs.io/en/latest/>`__
+- How to raise an issue
+- email list
+- FAQ
 
 -  SUEWS paper
 
@@ -28,10 +32,11 @@ SUEWS
       Vancouver. *Journal of Hydrology*, 411, 219-237
       `https://doi.org/10.1016/j.jhydrol.2011.10.001 <https://www.sciencedirect.com/science/article/pii/S0022169411006937?via%3Dihub>`__
 
-SuPy
-~~~~
+**SuPy**
 
 -  `SuPY Manual <https://supy.readthedocs.io/en/latest/>`__
+- How to raise an issue
+- email list
 
 -  SuPy paper
 
@@ -40,21 +45,8 @@ SuPy
       Demonstration. *Geosci. Model Dev.*, 12, 2781–2795
       https://doi.org/10.5194/gmd-12-2781-2019
 
-QGIS
-~~~~
+**QGIS**
 
 -  `QGIS software <https://docs.qgis.org/3.10/en/docs/index.html>`__
 
-Structure
---------------------
 
--  Each section has its own wiki page with links to relevant materials.
--  Initial material is general, later topics are more focused
--  The amount of time needed to undertake a topic is given
--  Recommendation of the next topic is given at the end of each topic
--  There is also guidance on what to do if you get stuck
-
-Delivery
---------------------
-
-V- video, T- tutorial, L - Lecture , M Manual
