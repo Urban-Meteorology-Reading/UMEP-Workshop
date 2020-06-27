@@ -44,7 +44,7 @@ Background Resources
 
 **Structure**
 
--  Each section has its own wiki page with links to relevant materials.
+-  Each section has its own page with links to relevant materials.
 -  Initial material is general, later topics are more focused
 -  The amount of time needed to undertake a topic is given
 -  Recommendation of the next topic is given at the end of each topic
@@ -52,9 +52,8 @@ Background Resources
 
 **Delivery**
 
-
 V- video, T- tutorial, L - Lecture , M Manual
 
 
-** Stuck**
-
+**Stuck**
+_`Stuck ? 
