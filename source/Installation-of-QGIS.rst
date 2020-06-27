@@ -1,4 +1,4 @@
- Installation of QGIS
+Installation of QGIS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
