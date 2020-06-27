@@ -1,5 +1,7 @@
+.. _SUEWS1:
+
 Introduction To SUEWS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------
 
 **This will this take**: ~30 minutes
 

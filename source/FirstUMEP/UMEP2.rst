@@ -1,5 +1,7 @@
+.. _UMEP2:
+
 First QGIS and UMEP activity
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------
 
 **This will take:** ~ XX min
 

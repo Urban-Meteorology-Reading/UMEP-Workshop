@@ -1,5 +1,7 @@
+.. _SuPy5:
+
 SuPy - Calcuating Parameters
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **This will take:**  XX minutes
 
