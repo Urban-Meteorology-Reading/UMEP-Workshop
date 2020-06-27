@@ -5,6 +5,9 @@
 
 ## Sphinx site
 
+Now using RST
+
+[old]
 As we are using markdown for this site (different from the usual markup language RST), below is the particular syntax guide:
 
 https://recommonmark.readthedocs.io/en/latest/auto_structify.html
