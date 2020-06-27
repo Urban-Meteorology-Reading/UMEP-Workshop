@@ -10,7 +10,7 @@ SuPy - Impact study
 **Activity**
 
 -  In this activitiy you use will use SuPy to conduct an `impact
-   study <https://SuPy.readthedocs.io/en/latest/tutorial/impact-studies-parallel.html>`__\ \|T
+   study <https://SuPy.readthedocs.io/en/latest/tutorial/impact-studies-parallel.html>`__
  
 
 
