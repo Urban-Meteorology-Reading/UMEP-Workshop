@@ -14,7 +14,7 @@ First UMEP Activity
 -------------------
 
 - `UMEP2`
-- `QGIS1`
+- `GIS1`
 
 Local scale - Urban energy balance
 ----------------------------------
