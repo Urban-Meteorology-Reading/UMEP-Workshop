@@ -7,15 +7,14 @@ Preparation for using SuPy
 
 **Activity**
 
-- Installation of Python
-- Introduction to Jupyter Notebooks 
+- Introduction to Jupyter Notebooks
 
 
 **Background**
 
 -  `SUEWS vs SuPy vs UMEP  see the SUEWS docs
    site <https://suews-docs.readthedocs.io/en/latest/related_softwares.html>`__
-   
+
 **Next Activity**: First use of SuPy
 
 **Need Help**

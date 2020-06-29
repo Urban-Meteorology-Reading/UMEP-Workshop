@@ -1,7 +1,7 @@
 SuPy - SUEWS who talks Python
 -----------------------------
 
-This section is an introdution to SuPy, SUEWS that talks Python.
+This section is an introduction to SuPy, SUEWS that talks Python.
 
 .. toctree::
    :maxdepth: 1
@@ -9,5 +9,5 @@ This section is an introdution to SuPy, SUEWS that talks Python.
 
    SuPy1
    SuPy2
-   SuPY3
+   SuPy3
    SuPy4
