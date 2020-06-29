@@ -54,7 +54,7 @@ jobs:
 
     - name: install and build
       run: |
-        python3 -m pip install --upgrade Sphinx recommonmark guzzle_sphinx_theme sphinx_rtd_theme;
+        python3 -m pip install --upgrade Sphinx recommonmark guzzle_sphinx_theme sphinx_rtd_theme nbsphinx;
         make html;
         touch build/html/.nojekyll
         ls -lrt build/html
