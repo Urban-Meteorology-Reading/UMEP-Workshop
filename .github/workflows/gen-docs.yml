@@ -62,7 +62,7 @@ jobs:
 
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.5.6
-      env:
+      with:
        FOLDER: build/html
        BRANCH: gh-pages
       #  BUILD_SCRIPT: |
@@ -71,6 +71,6 @@ jobs:
       #   make html;
       #   touch build/html/.nojekyll
       #   ls -lrt build/html
-       ACCESS_TOKEN: ${{ secrets.PAT }}
+       GITHUB_TOKEN: ${{ secrets.PAT }}
 
 
