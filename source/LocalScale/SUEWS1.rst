@@ -24,4 +24,4 @@ Introduction To SUEWS
 -  `Tutorial
    link <https://umep-docs.readthedocs.io/projects/tutorial/en/latest/Tutorials/IntroductionToSuews.html>`__
 
-`Help Page <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/Need-help.html>`__
+`NeedHelp`
