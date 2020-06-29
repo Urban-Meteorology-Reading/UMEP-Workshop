@@ -45,6 +45,7 @@ source_suffix = {
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'nbsphinx',
     'sphinx.ext.autodoc',
     'sphinx.ext.napoleon',
     'sphinx.ext.mathjax',
@@ -94,7 +95,9 @@ html_theme_options = {
 html_static_path = ["_static"]
 
 # some text replacement defintions
-rst_epilog = """
+rst_epilog = r"""
+
+
 .. |km^-1| replace:: km\ :sup:`-1`
 .. |mm^-1| replace:: mm\ :sup:`-1`
 .. |m^-1| replace:: m\ :sup:`-1`
@@ -117,27 +120,30 @@ rst_epilog = """
 .. |NotAvail| replace:: **Not available in this version.**
 .. |NotUsed| replace:: **Not used in this version.**
 
-.. _GitHub page: https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/issues/new?assignees=&labels=docs&template=docs-issue-report.md&title=
+
 
 .. only:: html
 
     .. note::
 
       1. Got stuck? Please check out the `help page <NeedHelp>`.
-      2. Please report issues with the workshop manual on the `GitHub page`_.
-
+      2. Please report issues with the workshop manual on the `GitHub Issues`_ about this page (page link will be automatically inserted).
 
 """
 
+def source_read_handler(app, docname, source):
+    if app.builder.format != 'html':
+        return
+    src = source[0]
+    # base location for `docname`
+    str_base='source'
+    str_repo=html_context['github_repo']
+    str_GHPage=f"""
+.. _GitHub Issues: https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/issues/new?assignees=&labels=docs&template=docs-issue-report.md&body=[page-link](https://github.com/Urban-Meteorology-Reading/{str_repo}/blob/master/{str_base}/{docname}.rst)&title=[Docs]{docname}
+"""
+    rendered='\n'.join([str_GHPage,src])
+    source[0]=rendered
 
-# # app setup hook
-# def setup(app):
-#     app.add_config_value('recommonmark_config', {
-#         #'url_resolver': lambda url: github_doc_root + url,
-#         # 'auto_toc_tree_section': 'Workshop Structure',
-#         'enable_math': True,
-#         'enable_inline_math': True,
-#         'enable_eval_rst': True,
-#         'enable_auto_doc_ref': True,
-#     }, True)
-#     app.add_transform(AutoStructify)
+# app setup hook
+def setup(app):
+    app.connect('source-read', source_read_handler)
