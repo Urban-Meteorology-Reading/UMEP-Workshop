@@ -3,9 +3,9 @@
 Need Help?
 ~~~~~~~~~~
 
-**Workshop Manual**
+**Workshop issue or general help**
 
-- How to raise an issue
+If you are having any kind of issues and/or need to ask questions to one of the organizers during the workshop, please submit an issue to this manuals `issue reporter <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/issues/new?assignees=&labels=docs&template=docs-issue-report.md&title=>`__ and we will try to help you as soon as possible. 
 
 **UMEP**
 
