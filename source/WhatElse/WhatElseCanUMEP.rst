@@ -10,13 +10,3 @@ This section includes...
    :glob:
 
    *
-
-
-.. _UMEP9:
-
-.. TODO #3
-
-
-.. _UMEP10:
-
-.. TODO #4

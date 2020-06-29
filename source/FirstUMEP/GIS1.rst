@@ -1,9 +1,9 @@
-.. _GIS2:
+.. _GIS1:
 
 Basics of UMEP, QGIS and Spatial data
 -------------------------------------
 
-**This will take:** ~ min
+**This will take:** ~10 min
 
 **Assumed prior knowledge**
 
@@ -18,10 +18,7 @@ Basics of UMEP, QGIS and Spatial data
    - Spatial data for UMEP (Vector-Raster, DSM, Land cover etc.)
 
 - `Watch this video <https://github.com/Urban-Meteorology-Reading/ViewpointVideos/wiki/Spatial-data-in-UMEP---Video-structure>`__
--  Manual
--  Issues
--  CRS
--  Scale
+
 
 
 
