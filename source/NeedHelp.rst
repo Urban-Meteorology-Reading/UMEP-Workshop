@@ -22,35 +22,31 @@ Need Help?
       Zhang Z (2018) Urban Multi-scale Environmental Predictor (UMEP) -
       An integrated tool for city-based climate services. *Environmental
       Modelling and Software*, 99, 70-87
-      `https://doi.org/10.1016/j.envsoft.2017.09.020 <https://www.sciencedirect.com/science/article/pii/S1364815217304140>`__
+      `doi:10.1016/j.envsoft.2017.09.020 <https://www.sciencedirect.com/science/article/pii/S1364815217304140>`_
 
 **SUEWS**
 
--  `SUEWS manual <https://suews-docs.readthedocs.io/en/latest/>`__
-- email list
-- FAQ
-- How to raise an issue
+-  `SUEWS manual <https://suews-docs.readthedocs.io/en/latest/>`_
+- To get updates, news and get help from other users, join our email list: `<www.lists.reading.ac.uk/mailman/listinfo/met-suews>`__.
 
 -  SUEWS paper
 
    -  Järvi L, Grimmond CSB, Christen A (2011) The Surface Urban Energy
       and Water Balance Scheme (SUEWS): Evaluation in Los Angeles and
       Vancouver. *Journal of Hydrology*, 411, 219-237
-      `https://doi.org/10.1016/j.jhydrol.2011.10.001 <https://www.sciencedirect.com/science/article/pii/S0022169411006937?via%3Dihub>`__
+      `doi:10.1016/j.jhydrol.2011.10.001 <https://www.sciencedirect.com/science/article/pii/S0022169411006937?via%3Dihub>`_
 
 **SuPy**
 
-- `SuPy Manual <https://SuPy.readthedocs.io/en/latest/>`__
-- email list
-- FAQ
-- How to raise an issue
+- `SuPy Manual <https://SuPy.readthedocs.io/en/latest/>`_
+- `FAQ <https://supy.readthedocs.io/en/latest/faq.html>`_
 
 -  SuPy paper
 
    -  Sun T, Grimmond CSB (2019) A Python-Enhanced Urban Land Surface
       Model SuPy (SUEWS in Python, v2019.2): Development, Deployment and
       Demonstration. *Geosci. Model Dev.*, 12, 2781–2795
-      https://doi.org/10.5194/gmd-12-2781-2019
+      `doi:10.5194/gmd-12-2781-2019 <https://doi.org/10.5194/gmd-12-2781-2019>`_
 
 **QGIS**
 
