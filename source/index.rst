@@ -57,8 +57,7 @@ DASH
 .. toctree::
    :caption: Workshop Structure
    :numbered:
-   :maxdepth: 1
-   :hidden:
+   :maxdepth: 2
 
    Prepare/PrepareForTheWorkshop
    FirstUMEP/FirstUMEPActivity
