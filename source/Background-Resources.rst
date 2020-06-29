@@ -31,7 +31,7 @@ Background Resources
 
 **SuPy**
 
--  `SuPY Manual <https://supy.readthedocs.io/en/latest/>`__
+-  `SuPy Manual <https://SuPy.readthedocs.io/en/latest/>`__
 
 -  SuPy paper
 

@@ -7,7 +7,7 @@ SuPy - Calcuating Parameters
 
 **Expected knowledge/activity before this**
 
--  SuPY XXX
+-  SuPy XXX
 
 **Activity**
 
@@ -15,7 +15,3 @@ SuPy - Calcuating Parameters
    parameters <https://SuPy.readthedocs.io/en/latest/tutorial/AMF-sim.html>`
 | AmeriFlux data. Add Basel data?
 
-
-**Need Help:**
-
--  `What to do if you are stuck <Stuck?>`__

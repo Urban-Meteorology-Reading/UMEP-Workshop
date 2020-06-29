@@ -17,11 +17,6 @@ First Activity with SuPy
 -  This `video <>`__ gives a demo of XXX
 
 -  `Online tutorial: Quickstart of
-   SuPy <https://supy.readthedocs.io/en/latest/tutorial/quick-start.html>`__
+   SuPy <https://SuPy.readthedocs.io/en/latest/tutorial/quick-start.html>`__
    for written instructions
 
-
-
-**Need Help:**
-
--  `Stuck <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/wiki/Stuck%3F>`__

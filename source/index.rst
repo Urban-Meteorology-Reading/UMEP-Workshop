@@ -64,7 +64,7 @@ DASH
    LocalScale/SUEWS
    GettingData/GettingData
    WhatElse/WhatElseCanUMEP
-   SUPY/SuPy
+   SuPy/SuPy
    NeedHelp
    Background-Resources
 

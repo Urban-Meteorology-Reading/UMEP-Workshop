@@ -40,7 +40,7 @@ Need Help?
 
 **SuPy**
 
-- `SuPY Manual <https://supy.readthedocs.io/en/latest/>`__
+- `SuPy Manual <https://SuPy.readthedocs.io/en/latest/>`__
 - email list
 - FAQ
 - How to raise an issue

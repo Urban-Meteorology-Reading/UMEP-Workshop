@@ -7,7 +7,7 @@ SuPy - Interaction with external models
 
 **Expected knowledge/activity before this**
 
--  SuPY XXX
+-  SuPy XXX
 
 **Activity**
 
@@ -19,7 +19,3 @@ SuPy - Interaction with external models
    parameters <https://SuPy.readthedocs.io/en/latest/tutorial/AMF-sim.html>`__
    \|T \| AmeriFlux data. Add Basel data?
 
-
-**Need Help:**
-
--  `What to do if you are stuck <Stuck?>`__

@@ -12,11 +12,7 @@ Preparation for using SuPy
 
 **Background**
 
--  `SUEWS vs SuPy vs UMEP  see the SUEWS docs
-   site <https://suews-docs.readthedocs.io/en/latest/related_softwares.html>`__
+-  `SUEWS vs SuPy vs UMEP: see the SUEWS docs
+   site <https://suews-docs.readthedocs.io/en/latest/related_softwares.html>`_
 
 **Next Activity**: First use of SuPy
-
-**Need Help**
-
-- `Stuck <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/wiki/Stuck%3F>`__

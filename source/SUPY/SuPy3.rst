@@ -7,7 +7,7 @@ SuPy - Impact study
 
 **Expected knowledge/activity before this**
 
--  SuPY XXX
+-  SuPy XXX
 
 **Activity**
 
@@ -16,7 +16,3 @@ SuPy - Impact study
 
 
 
-
-**Need Help:**
-
--  `What to do if you are stuck <Stuck?>`__
