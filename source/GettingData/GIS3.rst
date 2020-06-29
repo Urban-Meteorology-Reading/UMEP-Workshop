@@ -3,7 +3,8 @@
 Generating geodata from LiDAR point clouds
 ------------------------------------------
 
-.. note:: This tutorial is making use of FUSION/LDV which makes it restricted to Windows OS only. 
+.. note:: This tutorial uses FUSION/LDV which makes it restricted to **Windows OS** only. 
+You will need administrative rights to your computer to install the software on your computer.
 
 **This will this take:** ~90 minutes
 
