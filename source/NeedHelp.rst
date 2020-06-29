@@ -3,7 +3,12 @@
 Need Help?
 ~~~~~~~~~~
 
+**Workshop Manual**
+
+- How to raise an issue
+
 **UMEP**
+
 - `UMEP Manual <https://umep-docs.readthedocs.io/en/latest/>`__
 - To get updates, news and get help from other users, join our email list: `<www.lists.reading.ac.uk/mailman/listinfo/met-umep>`__.
 - FAQ and known issues are listed in the UMEP Manual.
