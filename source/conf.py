@@ -13,9 +13,9 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-import guzzle_sphinx_theme
-import recommonmark
-from recommonmark.transform import AutoStructify
+# import guzzle_sphinx_theme
+# import recommonmark
+# from recommonmark.transform import AutoStructify
 
 # -- Project information -----------------------------------------------------
 
@@ -48,9 +48,9 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.napoleon',
     'sphinx.ext.mathjax',
-    "recommonmark",
+    # "recommonmark",
     "sphinx_rtd_theme",
-    'guzzle_sphinx_theme',
+    # 'guzzle_sphinx_theme',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -93,14 +93,51 @@ html_theme_options = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ["_static"]
 
-# app setup hook
-def setup(app):
-    app.add_config_value('recommonmark_config', {
-        #'url_resolver': lambda url: github_doc_root + url,
-        # 'auto_toc_tree_section': 'Workshop Structure',
-        'enable_math': True,
-        'enable_inline_math': True,
-        'enable_eval_rst': True,
-        'enable_auto_doc_ref': True,
-    }, True)
-    app.add_transform(AutoStructify)
+# some text replacement defintions
+rst_epilog = """
+.. |km^-1| replace:: km\ :sup:`-1`
+.. |mm^-1| replace:: mm\ :sup:`-1`
+.. |m^-1| replace:: m\ :sup:`-1`
+.. |m^-2| replace:: m\ :sup:`-2`
+.. |m^-3| replace:: m\ :sup:`-3`
+.. |m^3| replace:: m\ :sup:`3`
+.. |s^-1| replace:: s\ :sup:`-1`
+.. |kg^-1| replace:: kg\ :sup:`-1`
+.. |K^-1| replace:: K\ :sup:`-1`
+.. |W^-1| replace:: W\ :sup:`-1`
+.. |h^-1| replace:: h\ :sup:`-1`
+.. |ha^-1| replace:: ha\ :sup:`-1`
+.. |QF| replace:: Q\ :sub:`F`
+.. |Qstar| replace:: Q\ :sup:`*`
+.. |d^-1| replace:: d\ :sup:`-1`
+.. |d^-2| replace:: d\ :sup:`-2`
+.. |)^-1| replace:: )\ :sup:`-1`
+.. |Recmd| replace:: **Recommended in this version.**
+.. |NotRecmd| replace:: **Not recommended in this version.**
+.. |NotAvail| replace:: **Not available in this version.**
+.. |NotUsed| replace:: **Not used in this version.**
+
+.. _GitHub page: https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/issues/new?assignees=&labels=docs&template=docs-issue-report.md&title=
+
+.. only:: html
+
+    .. note::
+
+      1. Got stuck? Please check out the `help page <NeedHelp>`.
+      2. Please report issues with the manual on the `GitHub page`_.
+
+
+"""
+
+
+# # app setup hook
+# def setup(app):
+#     app.add_config_value('recommonmark_config', {
+#         #'url_resolver': lambda url: github_doc_root + url,
+#         # 'auto_toc_tree_section': 'Workshop Structure',
+#         'enable_math': True,
+#         'enable_inline_math': True,
+#         'enable_eval_rst': True,
+#         'enable_auto_doc_ref': True,
+#     }, True)
+#     app.add_transform(AutoStructify)
