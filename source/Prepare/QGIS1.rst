@@ -3,6 +3,8 @@
 Installation of QGIS
 --------------------
 
+.. note:: You will need administrative rights to your computer to install QGIS on your computer.
+
 **This will take:**  ~10 minutes (depending on your internet download speed)
 
 
