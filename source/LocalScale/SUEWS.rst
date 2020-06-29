@@ -1,10 +1,10 @@
 Local scale - Urban energy balance
 ----------------------------------
 
-This section includes...
+This section includes an introduction to the SUEWS model and how to use it within UMEP.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :numbered:
    :hidden:
    :glob:

@@ -31,7 +31,6 @@ Not sure what to call this section
 - `SUEWS4`
 - `GIS3`
 
-
 What else can UMEP do?
 ----------------------
 
@@ -42,8 +41,6 @@ What else can UMEP do?
 - `UMEP7`
 - `UMEP8`
 - `UMEP9`
-- `UMEP10`
-
 
 SuPy
 ----
@@ -56,7 +53,6 @@ SuPy
 DASH
 ----
 -  What is DASH?
-
 
 .. toctree::
    :caption: Workshop Structure

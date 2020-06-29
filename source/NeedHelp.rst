@@ -4,11 +4,10 @@ Need Help?
 ~~~~~~~~~~
 
 **UMEP**
-
-- How to raise an issue
-- email list
-- FAQ
--  `UMEP Manual <https://umep-docs.readthedocs.io/en/latest/>`__
+- `UMEP Manual <https://umep-docs.readthedocs.io/en/latest/>`__
+- To get updates, news and get help from other users, join our email list: `<www.lists.reading.ac.uk/mailman/listinfo/met-umep>`__.
+- FAQ and known issues are listed in the UMEP Manual.
+- If you suspect that there is an error in UMEP, e.g. you get an error python message, please report to our `bug reporter <https://github.com/UMEP-dev/UMEP/issues>`__.
 
 -  UMEP Overview Paper
 
@@ -23,9 +22,9 @@ Need Help?
 **SUEWS**
 
 -  `SUEWS manual <https://suews-docs.readthedocs.io/en/latest/>`__
-- How to raise an issue
 - email list
 - FAQ
+- How to raise an issue
 
 -  SUEWS paper
 
@@ -36,9 +35,10 @@ Need Help?
 
 **SuPy**
 
--  `SuPY Manual <https://supy.readthedocs.io/en/latest/>`__
-- How to raise an issue
+- `SuPY Manual <https://supy.readthedocs.io/en/latest/>`__
 - email list
+- FAQ
+- How to raise an issue
 
 -  SuPy paper
 
@@ -49,6 +49,11 @@ Need Help?
 
 **QGIS**
 
--  `QGIS software <https://docs.qgis.org/3.10/en/docs/index.html>`__
+- `QGIS software <https://qgis.org/en/site/>`__
+- `QGIS manual <https://docs.qgis.org/3.10/en/docs/index.html>`__
+- `QGIS bug reporter <https://github.com/qgis/QGIS/issues>`__
+- `A Gentle Introcudtion to GIS <https://docs.qgis.org/3.10/en/docs/gentle_gis_introduction/index.html>`__
+- `QGIS Training Manual <https://docs.qgis.org/3.10/en/docs/training_manual/index.html>`__
+
 
 
