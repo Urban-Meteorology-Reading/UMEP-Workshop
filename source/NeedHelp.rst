@@ -10,11 +10,11 @@ Need Help?
 **UMEP**
 
 - `UMEP Manual <https://umep-docs.readthedocs.io/en/latest/>`__
-- To get updates, news and get help from other users, join our email list: `<www.lists.reading.ac.uk/mailman/listinfo/met-umep>`__.
+- To get updates, news and get help from other users, join the `UMEP email list <https://www.lists.reading.ac.uk/mailman/listinfo/met-umep>`__.
 - FAQ and known issues are listed in the UMEP Manual.
 - If you suspect that there is an error in UMEP, e.g. you get an error python message, please report to our `bug reporter <https://github.com/UMEP-dev/UMEP/issues>`__.
 
--  UMEP Overview Paper
+-  *UMEP Overview Paper*
 
    -  Lindberg F, Grimmond CSB, Gabey A, Huang B, Kent CW, Sun T,
       Theeuwes N, Järvi L, Ward H, Capel- Timms I, Chang YY, Jonsson P,
@@ -27,9 +27,9 @@ Need Help?
 **SUEWS**
 
 -  `SUEWS manual <https://suews-docs.readthedocs.io/en/latest/>`_
-- To get updates, news and get help from other users, join our email list: `<www.lists.reading.ac.uk/mailman/listinfo/met-suews>`__.
+- To get updates, news and get help from other users, join the `SUEWS email list: <https://www.lists.reading.ac.uk/mailman/listinfo/met-suews>`__.
 
--  SUEWS paper
+-  *SUEWS paper*
 
    -  Järvi L, Grimmond CSB, Christen A (2011) The Surface Urban Energy
       and Water Balance Scheme (SUEWS): Evaluation in Los Angeles and
@@ -41,7 +41,7 @@ Need Help?
 - `SuPy Manual <https://SuPy.readthedocs.io/en/latest/>`_
 - `FAQ <https://supy.readthedocs.io/en/latest/faq.html>`_
 
--  SuPy paper
+-  *SuPy paper*
 
    -  Sun T, Grimmond CSB (2019) A Python-Enhanced Urban Land Surface
       Model SuPy (SUEWS in Python, v2019.2): Development, Deployment and
