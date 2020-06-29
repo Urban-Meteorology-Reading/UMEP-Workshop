@@ -12,6 +12,10 @@ UNDER PREPARATION
 -  `UMEP2`
 -  `GIS1`
 
+**Constraints**
+
+- The actual download of data takes a long time (hours).
+
 **Activity**
 
 -  Get aquainted with the ERA5 meteorological download tool in UMEP.
@@ -19,5 +23,5 @@ UNDER PREPARATION
 -  `Video
    link <>`__ UNDER PREPARETION
 
-`Help Page <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/Need-help.html>`__
+`NeedHelp`__
 
