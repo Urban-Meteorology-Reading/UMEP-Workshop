@@ -48,4 +48,14 @@ Workshop Program: 8 - 10 July 2020
      - 
  
 
+**Structure**
 
+-  Each section has its own page with links to relevant materials.
+-  Initial material is general, later topics are more focused
+-  The amount of time needed to undertake a topic is given
+-  At the end of each page the 'Next' button takes you forward
+-  On each page there is guidance on what to do if you get stuck
+
+**Delivery**
+
+Beyond the workshop manaual there will be videos, tutorials, and lectures. This a hands on workshop. People will be avalable to help throughout.
