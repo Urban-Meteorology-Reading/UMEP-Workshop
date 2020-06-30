@@ -44,7 +44,7 @@ Workshop Program: 8 - 10 July 2020
      - `SuPY <SUPY/SuPy>`_
      -
    * - Friday pm
-     - `SuPY <SUPY/SuPy>`_ and Wrapup session
+     - `SuPY <SUPY/SuPy>`_ and Wrap-up session
      - 
  
 
