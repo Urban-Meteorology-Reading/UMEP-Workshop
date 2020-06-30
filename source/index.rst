@@ -15,7 +15,7 @@ Welcome to the urbisphere UMEP July 2020 Online Workshop
    LocalScale/SUEWS
    GettingData/GettingData
    WhatElse/WhatElseCanUMEP
-   SuPy/SuPy
+   SUPY/SuPy
    NeedHelp
    Background-Resources
 
