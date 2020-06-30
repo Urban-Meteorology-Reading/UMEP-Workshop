@@ -39,7 +39,7 @@ Workshop Program: 8 - 10 July 2020
      -
    * - Thursday pm
      - `What else can UMEP do? <WhatElse/WhatElseCanUMEP>`_
-     -
+     - Paris Olympics
    * - Friday am
      - `SuPY <SUPY/SuPy>`_
      -
