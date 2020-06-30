@@ -29,12 +29,11 @@ There are two main programming languages involved in the software
 SUEWS coupling
 
 - SUEWS is in UMEP, SuPY, and coupled to WRF, as well as being a standalone code.
-- SUEWS can be forced (i.e. the meteorological data that is needed to run the model) in the following was:
- 
-Observations
- - ERA5 data (or other renalysis data)
- - WRF (or other weather/cliamte model that it is coupled to)
- - Climate projections
+- SUEWS can be forced (i.e. the meteorological data that is needed to run the model) in the following way:
+  - Observations
+  - ERA5 data (or other renalysis data)
+  - WRF (or other weather/cliamte model that it is coupled to)
+  - Climate projections
 
 SUEWS requires the urban form and function to be characterised
 
