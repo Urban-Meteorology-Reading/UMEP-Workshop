@@ -3,8 +3,9 @@ Workshop Program: 8 - 10 July 2020
 
 We will meet at these times each day on Teams
 
-- am -  8:00  - 9:00 -  10:00   [UK] - [DE-SW] - [GR}
-- pm - 12:30  - 13:30 - 14:30
+-    |   UK   |  DE  |  GR
+- am |  8:00  | 9:00 | 10:00   
+- pm | 12:30  | 13:30| 14:30
  
 
 .. list-table:: Program
@@ -17,7 +18,6 @@ We will meet at these times each day on Teams
    * - Wednesday am
      - `Introduction <Intro1>`_ and `First UMEP Activity <FirstUMEPActivity>`__
      - Observations database meeting
-     -
    * - Wednesday pm
      - `SUEWS <LocalScale/SUEWS>`_
      -
