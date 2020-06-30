@@ -1,7 +1,7 @@
 Workshop Program: 8 - 10 July 2020 
 -------------------------
 
-Times
+We will meet at these times each day on Teams
 
 - am -  8:00  - 9:00 -  10:00   [UK] - [DE-SW] - [GR}
 - pm - 12:30  - 13:30 - 14:30
