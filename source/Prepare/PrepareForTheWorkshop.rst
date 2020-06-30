@@ -1,9 +1,9 @@
 Preparing for the workshop
 --------------------------
 
-Prior to the workshop complete the steps in the section.
+Prior to the workshop complete the steps in the section but not before we tell you it is ready as we are updating a few things (and you would need to update the software).
 
-Please also look at the `background material <Background>`.
+The `background material <Background>` provides links to key papers and manuals.
 
 .. toctree::
    :maxdepth: 2
