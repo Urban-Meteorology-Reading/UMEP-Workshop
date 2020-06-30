@@ -10,5 +10,6 @@ Please also look at the `background material <Background>`.
    :numbered:
 
    Intro1
+   Prog1
    QGIS1
    UMEP1
