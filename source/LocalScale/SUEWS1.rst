@@ -23,5 +23,3 @@ Introduction To SUEWS
 
 -  `Tutorial
    link <https://umep-docs.readthedocs.io/projects/tutorial/en/latest/Tutorials/IntroductionToSuews.html>`__
-
-`NeedHelp`

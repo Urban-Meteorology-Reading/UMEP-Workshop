@@ -16,5 +16,3 @@ Micro scale - Pedestrian Radiant load (SOLWEIG)
 
 -  `Tutorial
    link <https://umep-docs.readthedocs.io/projects/tutorial/en/latest/Tutorials/IntroductionToSolweig.html>`__
-
-`Help Page <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/Need-help.html>`__

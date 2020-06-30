@@ -18,5 +18,3 @@ UNDER PREPARATION
 
 -  `Video
    link <>`__  UNDER PREPARATION
-
-`Help Page <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/Need-help.html>`__

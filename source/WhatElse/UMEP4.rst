@@ -18,7 +18,4 @@ UNDER PREPARATION
 
 -  Get aquainted with tools in UMEP fro estimating morphologiacl parameters.
 
--  `Video
-   link <>`__ UNDER PREPARETION
-
-`Help Page <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/Need-help.html>`__
+-  `Video link <>`__ UNDER PREPARETION

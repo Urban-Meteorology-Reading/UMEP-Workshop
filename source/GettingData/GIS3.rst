@@ -18,5 +18,3 @@ You will need administrative rights to your computer to install the software on 
 
 -  `Tutorial
    link <https://umep-docs.readthedocs.io/projects/tutorial/en/latest/Tutorials/LidarProcessing.html>`__
-
-`Help Page <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/Need-help.html>`__

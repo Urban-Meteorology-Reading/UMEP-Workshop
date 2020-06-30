@@ -14,6 +14,5 @@ Pre-processing of local meteorological datasets
 
 -  Learn on how to generate meteorological focing data using the Meteorological Pre-Processor.
 
--  `Video
-   link <>`__ UNDER PREPARATION
+-  `Video link <>`__ UNDER PREPARATION
 

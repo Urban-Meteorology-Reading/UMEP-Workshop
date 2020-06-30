@@ -17,4 +17,3 @@ Sensitivity analysis of SUEWS using geodatasets
 -  `Tutorial
    link <https://umep-docs.readthedocs.io/projects/tutorial/en/latest/Tutorials/SuewsAdvanced.html>`__
 
-`Help Page <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/Need-help.html>`__

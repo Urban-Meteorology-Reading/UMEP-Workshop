@@ -20,8 +20,5 @@ UNDER PREPARATION
 
 -  Get aquainted with the ERA5 meteorological download tool in UMEP.
 
--  `Video
-   link <>`__ UNDER PREPARETION
-
-`NeedHelp`__
+-  `Video link <>`__ UNDER PREPARETION
 

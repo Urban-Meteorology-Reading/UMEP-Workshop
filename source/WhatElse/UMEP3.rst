@@ -14,7 +14,4 @@ Micro scale - Solar radiation modelling
 
 -  Solar Energy of Building Envelopes (SEBE).
 
--  `Tutorial
-   link <>`__ UNDER PREPARETION
-
-`Help Page <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/Need-help.html>`__
+-  `Tutorial link <https://umep-docs.readthedocs.io/projects/tutorial/en/latest/Tutorials/SEBE.html>`__
