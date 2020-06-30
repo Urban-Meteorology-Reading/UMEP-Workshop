@@ -9,5 +9,6 @@ Please also look at the `background material <Background>`.
    :maxdepth: 2
    :numbered:
 
+   Intro1
    QGIS1
    UMEP1
