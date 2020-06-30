@@ -17,23 +17,23 @@ The three main software tools that will be used in the workshop are:
 - **SuPY** - this is a Python interface to SUEWS which allows SUEWS to be rapidly used to address research questions. It also used to couple SUEWS to other programs (e.g. DASH. STEBBS, EnergyPlus)
 
 Two user environments that we will use are:
- 
+
 - **QGIS** -  a geographic information system for analysing spatial data.
 - **Jupyter Notebooks** - this allows for a project to be developed with comments, code, graphics etc that contains all of the analyses of a project.
 
 There are two main programming languages involved in the software
 
-- **Python** - the QGIS addins are written in Python as is SuPY. This has the advantage of haveing a large number of code libraries for graphics, statistics, *etc*
+- **Python** - the QGIS add-ins are written in Python as is SuPY. This has the advantage of having a large number of code libraries for graphics, statistics, *etc*
 - **Fortran** - SUEWS is written in this. This has the advantage of being more computationally efficient for processing larger volumes of data. It is also the language that many weather and climate models are written in.
 
 SUEWS coupling
 
 - SUEWS is in UMEP, SuPY, and coupled to WRF, as well as being a standalone code.
 - SUEWS can be forced (i.e. the meteorological data that is needed to run the model) in the following way:
-  
+
   - Observations
-  - ERA5 data (or other renalysis data)
-  - WRF (or other weather/cliamte model that it is coupled to)
+  - ERA5 data (or other reanalysis data)
+  - WRF (or other weather/climate model that it is coupled to)
   - Climate projections
 
 SUEWS requires the urban form and function to be characterised
@@ -41,7 +41,7 @@ SUEWS requires the urban form and function to be characterised
 - form (e.g. land cover, building heights)
 - function (e.g. population density, energy use diurnal pattern for work days and non-work days, irrigation behaviour, snow clearing behaviour)
 
-These characteristics need to be provided for each grid (or spatial unit) to be modelled. A spatial unit does not need to be a rectangular grid (if not within a Weather/cliamte model), but can be for example census data or other governance related spatial units. 
+These characteristics need to be provided for each grid (or spatial unit) to be modelled. A spatial unit does not need to be a rectangular grid (if not within a Weather/cliamte model), but can be for example census data or other governance related spatial units.
 
 Some `background <Background-Resources>`_ reading for the Workshop will help you understand the models and provide details options that will be useful later.
 
@@ -49,20 +49,20 @@ Some `background <Background-Resources>`_ reading for the Workshop will help you
 People
 ~~~~~~
 
-Hosted By 
+Hosted By
 
-- Sue Grimmond 
+- Sue Grimmond
 - Fredrick Lindberg (lead UMEP developer)
-- Ting Sun (lead SuPY developer and current lead on SUEWS)
+- Ting Sun (lead SuPy developer and current lead on SUEWS)
 
 Contributors to the workshop
 
-- Kit Benjamin (tester of all the Worskhop activties)
-- Nils Wallenberg 
+- Kit Benjamin (tester of all the Workshop activities)
+- Nils Wallenberg
 - Oskar Bäcklin
 - Vicky Lucas (and others) at IEA, University of Reading (Videos)
 
-Ackowledgments
+Acknowledgments
 
 - ERC Synergy urbisphere
 - Newton Fund/Met Office CSSP China Project Viewpoint
@@ -75,8 +75,8 @@ Workshop History
 Feedback
 ~~~~~~~~
 
-- Problems with the Manuals (Workshop, UMEP, SUEWS, SuPY) - please complete the GitHib input so it get fixed for others in the group 
-- What other topcis would you like to see covered? Please add to GitHub or contact Sue
+- Problems with the Manuals (Workshop, UMEP, SUEWS, SuPy) - please complete the GitHib input so it get fixed for others in the group
+- What other topics would you like to see covered? Please add to GitHub or contact Sue
 
 
 
