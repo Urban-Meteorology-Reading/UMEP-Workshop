@@ -8,15 +8,15 @@ Times
  
 
 .. list-table:: Program
-   :header-rows:1 "  ", " "
+   :header-rows:1 
    :widths: 25, 80
 
    * - Day Time
      - Topic
    * - Wednesday am
-     - `Introduction <Intro1>` and `First UMEP Activity <FirstUMEPActivity>`
+     - `Introduction <Intro1>`_ and `First UMEP Activity <FirstUMEPActivity>`__
    * - Wednesday pm
-     - `SUEWS <LocalScale/SUEWS>`
+     - `SUEWS <LocalScale/SUEWS>`_
    * - Thursday am
      - ` Spatial data <GettingData/GettingData>`__
    * - Thursday pm
