@@ -54,9 +54,4 @@ Background Resources
 
 **Delivery**
 
-V- video, T- tutorial, L - Lecture , M Manual
-
-
-**Stuck**
-`Stuck? <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/wiki/Stuck%3F>`__
-
+V- video, T- tutorial, L - Lecture , M - Manual
