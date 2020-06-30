@@ -11,7 +11,7 @@ If you are having any kind of issues and/or need to ask questions to one of the 
 
 - `UMEP Manual <https://umep-docs.readthedocs.io/en/latest/>`__
 - To get news and help from other users, join the `UMEP email list <https://www.lists.reading.ac.uk/mailman/listinfo/met-umep>`__.
-- `FAQ <https://umep-docs.readthedocs.io/en/latest/FAQ.html>` and known issues are listed in the UMEP Manual.
+- `FAQ <https://umep-docs.readthedocs.io/en/latest/FAQ.html>`__ and known issues are listed in the UMEP Manual.
 - `How to update UMEP <https://umep-docs.readthedocs.io/en/latest/Getting_Started.html#updating-the-umep-plugin>`__.
 - If you suspect that there is an error in UMEP, e.g. you get an error python message, please report to our `bug reporter <https://github.com/UMEP-dev/UMEP/issues>`__.
 
@@ -29,7 +29,7 @@ If you are having any kind of issues and/or need to ask questions to one of the 
 
 -  `SUEWS manual <https://suews-docs.readthedocs.io/en/latest/>`_
 - To get news and help from other users, join the `SUEWS email list: <https://www.lists.reading.ac.uk/mailman/listinfo/met-suews>`__.
-- `How to update SUEWS <https://suews-docs.readthedocs.io/en/latest/index.html>`__. If SuPy is used (below), then the newest version is always considered.
+- `How to update SUEWS <https://suews-docs.readthedocs.io/en/latest/index.html>`__. If SuPy is used (below), then the newest version is always used.
 -  *SUEWS paper*
 
    -  Järvi L, Grimmond CSB, Christen A (2011) The Surface Urban Energy
