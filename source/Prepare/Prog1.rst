@@ -7,10 +7,10 @@
  ===============  ===================
  Day Time         Topic
  ===============  =================== 
- Wednesday am      `Introduction <Intro1>` and `First UMEP Activity <FirstUMEPActivity.rst>`
- Wednesday pm     `SUEWS <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/LocalScale/SUEWS.html>`__
- Thursday am      ` Spatial data <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/GettingData/GettingData.html>`__
- Thursday pm      `What else can UMEP do? <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/WhatElse/WhatElseCanUMEP.html>`___
- Friday am        `SuPY <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/SUPY/SuPy.html>`_
- Friday pm       `SuPY <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/SUPY/SuPy.html>`_
+ Wednesday am      `Introduction <Intro1>` and `First UMEP Activity <FirstUMEPActivity>`
+ Wednesday pm     `SUEWS </LocalScale/SUEWS>`__
+ Thursday am      ` Spatial data </GettingData/GettingData>`__
+ Thursday pm      `What else can UMEP do? <WhatElse/WhatElseCanUMEP>`___
+ Friday am        `SuPY <SUPY/SuPy>`_
+ Friday pm       `SuPY <SUPY/SuPy>`_
  ===============  ===================
