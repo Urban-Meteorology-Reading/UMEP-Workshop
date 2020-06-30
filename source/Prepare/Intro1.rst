@@ -43,6 +43,7 @@ SUEWS requires the urban form and function to be characterised
 
 These characteristics need to be provided for each grid (or spatial unit) to be modelled. A spatial unit does not need to be a rectangular grid (if not within a Weather/cliamte model), but can be for example census data or other governance related spatial units. 
 
+The Background <Background> page provides some links to background reading.
 
 
 People
