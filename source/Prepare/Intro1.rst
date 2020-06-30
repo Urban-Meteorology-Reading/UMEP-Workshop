@@ -60,6 +60,14 @@ Contributors to the workshop
 - Kit Benjamin (tester of all the Worskhop activties)
 - Nils Wallenberg 
 - Oskar Bäcklin
+- Vicky Lucas (and others) at IEA, University of Reading (Videos)
+
+Ackowledgments
+
+- ERC Synergy urbisphere
+- Newton Fund/Met Office CSSP China Project Viewpoint
+- NERC
+
 
 
 Feedback
