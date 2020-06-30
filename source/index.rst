@@ -1,7 +1,9 @@
 UMEP Workshop 2020
 ==================
  
-Some introductive text...
+Welcome to the urbisphere UMEP July 2020 Online Workshop
+
+
  
 .. toctree::
    :caption: Workshop Structure
