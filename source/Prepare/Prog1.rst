@@ -7,18 +7,18 @@ Workshop Program: 8 - 10 July 2020
    :header-rows: 1 
    :widths: 20, 20, 20, 20
 
-  * - 
-   - UK
-   - DE
-   - GR
-  * - am 
-  - 8:00
-  - 9:00
-  -  10:00
-  * - pm 
-  - 12:30
-  - 13:30
-  - 14:30
+   * - 
+     - UK
+     - DE
+     - GR
+   * - am 
+     - 8:00
+     - 9:00
+     -  10:00
+   * - pm 
+     - 12:30
+     - 13:30
+     - 14:30
 
 
 .. list-table:: Program
