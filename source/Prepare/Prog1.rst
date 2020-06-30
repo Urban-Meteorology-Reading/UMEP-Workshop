@@ -35,6 +35,7 @@ pm     12:30   13:30 14:30
      -
    * - Friday pm
      - `SuPY <SUPY/SuPy>`_ and Wrapup session
+     - 
  
 
 
