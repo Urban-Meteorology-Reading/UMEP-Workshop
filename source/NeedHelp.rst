@@ -11,7 +11,7 @@ If you are having any kind of issues and/or need to ask questions to one of the 
 
 - `UMEP Manual <https://umep-docs.readthedocs.io/en/latest/>`__
 - To get news and help from other users, join the `UMEP email list <https://www.lists.reading.ac.uk/mailman/listinfo/met-umep>`__.
-- FAQ and known issues are listed in the UMEP Manual.
+- `FAQ <https://umep-docs.readthedocs.io/en/latest/FAQ.html>` and known issues are listed in the UMEP Manual.
 - `How to update UMEP <https://umep-docs.readthedocs.io/en/latest/Getting_Started.html#updating-the-umep-plugin>`__.
 - If you suspect that there is an error in UMEP, e.g. you get an error python message, please report to our `bug reporter <https://github.com/UMEP-dev/UMEP/issues>`__.
 
