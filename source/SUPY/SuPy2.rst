@@ -1,13 +1,13 @@
 .. _SuPy2:
 
 First Activity with SuPy
-~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------
 
 **This will this take**: ~20 minutes
 
 
 Prior to this activity
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~
 
 -  Familiarity with `SUEWS <https://suews.readthedocs.io>`_
 -  :ref:`Jupyter Notebook: setting up your research-oriented coding
@@ -15,7 +15,7 @@ Prior to this activity
 
 
 Activity
---------
+~~~~~~~~
 
 .. -  This `video <>`__ gives a demo of XXX
 
@@ -24,7 +24,7 @@ Activity
 
 
 Background
-----------
+~~~~~~~~~~
 
 -  `SUEWS vs SuPy vs UMEP: see the SUEWS docs
    site <https://suews-docs.readthedocs.io/en/latest/related_softwares.html>`_

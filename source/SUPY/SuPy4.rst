@@ -1,21 +1,25 @@
 .. _SuPy4:
 
-SuPy - Interaction with external models
+SuPy - interacting with external models
 ---------------------------------------
 
-**This will take:**  XX minutes
+**This will take:**  ~30 minutes
 
-**Expected knowledge/activity before this**
+Prior to this activity
+~~~~~~~~~~~~~~~~~~~~~~
 
--  SuPy XXX
+-  Understand the basic data structures of SuPy forcing:
 
-**Activity**
+   - basics given in `SuPy3`
+   - more details see `SuPy manual <https://supy.readthedocs.io/en/latest/data-structure/supy-io.html#df_forcing:-forcing-data>`_
 
--
--  SuPy - `interaction with external
-   models <https://SuPy.readthedocs.io/en/latest/tutorial/external-interaction.html>`__
-   \|T \|
--  SuPy - `calculating own
-   parameters <https://SuPy.readthedocs.io/en/latest/tutorial/AMF-sim.html>`__
-   \|T \| AmeriFlux data. Add Basel data?
+Activity
+~~~~~~~~
+
+-  In this activity, you will `build a simple model for anthropogenic heat and use it to interact with SuPy for urban climate simulations(T) <https://supy.readthedocs.io/en/latest/tutorial/external-interaction.html>`_
+   - An AmeriFlux site will be used as example.
+
+
+Background
+~~~~~~~~~~
 

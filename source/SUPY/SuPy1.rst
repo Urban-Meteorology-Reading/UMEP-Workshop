@@ -1,12 +1,12 @@
 .. _SuPy1:
 
 Preparation for using SuPy
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------
 
 **This will take:** ~30 mins
 
 Prior to this activity
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~
 
 - Installation (M)
 
@@ -40,7 +40,7 @@ Prior to this activity
 
 
 Activity
---------
+~~~~~~~~
 
 **Jupyter Notebooks: setting up your research-oriented coding workshop**
 
@@ -70,6 +70,6 @@ Activity
 
 
 Next Activity
-----------------
+~~~~~~~~~~~~~~~~
 
 `First use of SuPy <SuPy2>`: a quickstart to SuPy
