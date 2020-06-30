@@ -5,7 +5,7 @@ First Activity with SuPy
 
 **This will this take**: ~ 5 minutes
 
-**Prior to this activity this**
+**Prior to this activity**
 
 -  Familiarity with SUEWS
 -  `Jupyter Notebook: setting up your research-oriented coding
