@@ -11,5 +11,6 @@ The `background material <Background>` provides links to key papers and manuals.
 
    Intro1
    Prog1
+   GH1
    QGIS1
    UMEP1
