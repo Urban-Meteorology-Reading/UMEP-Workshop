@@ -17,16 +17,21 @@ We will meet at these times each day on Teams
    * - Wednesday am
      - `Introduction <Intro1>`_ and `First UMEP Activity <FirstUMEPActivity>`__
      - Observations database meeting
+     -
    * - Wednesday pm
      - `SUEWS <LocalScale/SUEWS>`_
+     -
    * - Thursday am
      - `Spatial data <GettingData/GettingData>`__
+     -
    * - Thursday pm
      - `What else can UMEP do? <WhatElse/WhatElseCanUMEP>`_
+     -
    * - Friday am
      - `SuPY <SUPY/SuPy>`_
+     -
    * - Friday pm
-     - `SuPY <SUPY/SuPy>`_ and Wrap session
+     - `SuPY <SUPY/SuPy>`_ and Wrapup session
  
 
 
