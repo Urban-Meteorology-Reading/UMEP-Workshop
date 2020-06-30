@@ -44,14 +44,3 @@ Background Resources
 
 -  `QGIS software <https://docs.qgis.org/3.10/en/docs/index.html>`__
 
-**Structure**
-
--  Each section has its own page with links to relevant materials.
--  Initial material is general, later topics are more focused
--  The amount of time needed to undertake a topic is given
--  Recommendation of the next topic is given at the end of each topic
--  There is also guidance on what to do if you get stuck
-
-**Delivery**
-
-V- video, T- tutorial, L - Lecture , M - Manual
