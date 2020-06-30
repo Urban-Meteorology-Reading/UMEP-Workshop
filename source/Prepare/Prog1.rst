@@ -1,4 +1,4 @@
- 8 -10 July 2020 Program
+Workshop Program: 8 - 10 July 2020 
 -------------------------
 
 Times
