@@ -44,8 +44,18 @@ Workshop Program: 8 - 10 July 2020
      - `SuPY <SUPY/SuPy>`_
      -
    * - Friday pm
-     - `SuPY <SUPY/SuPy>`_ and Wrapup session
+     - `SuPY <SUPY/SuPy>`_ and Wrap-up session
      - 
  
 
+**Structure**
 
+-  Each section has its own page with links to relevant materials.
+-  Initial material is general, later topics are more focused
+-  The amount of time needed to undertake a topic is given
+-  At the end of each page the 'Next' button takes you forward
+-  On each page there is guidance on what to do if you get stuck
+
+**Delivery**
+
+Beyond the workshop manual there will be videos, tutorials, lectures and links to oterh material (e.g. manuals, articles). This a hands on workshop. People will be avalable to help throughout.
