@@ -8,7 +8,7 @@ We will meet at these times each day on Teams
  
 
 .. list-table:: Program
-   :header-rows:1 
+   :header-rows: 1 
    :widths: 25, 80
 
    * - Day Time
