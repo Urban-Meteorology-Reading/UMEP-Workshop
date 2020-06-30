@@ -41,7 +41,7 @@ If you are having any kind of issues and/or need to ask questions to one of the 
 
 - `SuPy Manual <https://SuPy.readthedocs.io/en/latest/>`_
 - `FAQ <https://supy.readthedocs.io/en/latest/faq.html>`_
-_ `How to update SuPy <https://supy.readthedocs.io/en/latest/faq.html#how-can-i-upgrade-supy-to-an-up-to-date-version>`__
+- `How to update SuPy <https://supy.readthedocs.io/en/latest/faq.html#how-can-i-upgrade-supy-to-an-up-to-date-version>`__
 -  *SuPy paper*
 
    -  Sun T, Grimmond CSB (2019) A Python-Enhanced Urban Land Surface
