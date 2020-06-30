@@ -20,7 +20,7 @@ Times
    * - Thursday am
      - `Spatial data <GettingData/GettingData>`__
    * - Thursday pm
-     -  `What else can UMEP do? <WhatElse/WhatElseCanUMEP>`___
+     - `What else can UMEP do? <WhatElse/WhatElseCanUMEP>`_
    * - Friday am
      - `SuPY <SUPY/SuPy>`_
    * - Friday pm
