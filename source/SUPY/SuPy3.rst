@@ -5,15 +5,15 @@ SuPy - Impact study
 
 **This will take:**  ~30 minutes
 
-Prior to this activity
-~~~~~~~~~~~~~~~~~~~~~~
+**Prior to this activity**
+
 
 - `Basics for running SuPy <SuPy2>`
 - `Basics for using Jupyter Notebooks <SuPy1>`
 
 
-Activity
-~~~~~~~~
+**Activity**
+
 
 -  In this activity you use will use SuPy to conduct an `impact
    study <https://SuPy.readthedocs.io/en/latest/tutorial/impact-studies-parallel.html>`__

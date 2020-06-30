@@ -5,8 +5,8 @@ Preparation for using SuPy
 
 **This will take:** ~30 mins
 
-Prior to this activity
-~~~~~~~~~~~~~~~~~~~~~~
+**Prior to this activity**
+
 
 - Installation (M)
 
@@ -39,10 +39,10 @@ Prior to this activity
    If you use Anaconda for Python, better to choose `conda-forge` channel for package installation due to better compatibility with various scientific libraries.
 
 
-Activity
-~~~~~~~~
+**Activity**
 
-**Jupyter Notebooks: setting up your research-oriented coding workshop**
+
+*Jupyter Notebooks: setting up your research-oriented coding workshop*
 
 
 
@@ -69,7 +69,7 @@ Activity
 
 
 
-Next Activity
-~~~~~~~~~~~~~~~~
+**Next Activity**
+
 
 `First use of SuPy <SuPy2>`: a quickstart to SuPy
