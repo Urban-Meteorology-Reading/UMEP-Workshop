@@ -58,4 +58,4 @@ Workshop Program: 8 - 10 July 2020
 
 **Delivery**
 
-Beyond the workshop manaual there will be videos, tutorials, and lectures. This a hands on workshop. People will be avalable to help throughout.
+Beyond the workshop manual there will be videos, tutorials, lectures and links to oterh material (e.g. manuals, articles). This a hands on workshop. People will be avalable to help throughout.
