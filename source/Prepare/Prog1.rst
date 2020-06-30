@@ -13,8 +13,10 @@ We will meet at these times each day on Teams
 
    * - Day Time
      - Topic
+     - Other
    * - Wednesday am
      - `Introduction <Intro1>`_ and `First UMEP Activity <FirstUMEPActivity>`__
+     - Observations database meeting
    * - Wednesday pm
      - `SUEWS <LocalScale/SUEWS>`_
    * - Thursday am
@@ -24,7 +26,7 @@ We will meet at these times each day on Teams
    * - Friday am
      - `SuPY <SUPY/SuPy>`_
    * - Friday pm
-     - `SuPY <SUPY/SuPy>`_
+     - `SuPY <SUPY/SuPy>`_ and Wrap session
  
 
 
