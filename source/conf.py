@@ -124,8 +124,8 @@ rst_epilog = r"""
 
     .. note::
 
-      1. Stuck? the `help page <NeedHelp>` is a useful page to go to.
-      2. Please report issues with the workshop manual on the `GitHub Issues`_ about this page (page link will be automatically inserted).
+      1. Stuck? the `help page <NeedHelp>` is a useful page to start.
+      2. Please report workshop manual issues at `GitHub Issues`_ Please go from the page with problem as the page link will be automatically inserted. Thanks
 
 """
 
