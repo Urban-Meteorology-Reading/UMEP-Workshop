@@ -67,10 +67,17 @@ Ackowledgments
 - Newton Fund/Met Office CSSP China Project Viewpoint
 - NERC
 
+Workshop History
 
+- 8-10 July 2020 - Version 1 of the workshop. Given to urbisphere. 'Program <Prog1>'
 
 Feedback
 ~~~~~~~~
 
 - Problems with the Manuals (Workshop, UMEP, SUEWS, SuPY) - please complete the GitHib input so it get fixed for others in the group 
-- What other topcis would you like to see covered? Please add to GiHub or contact Sue
+- What other topcis would you like to see covered? Please add to GitHub or contact Sue
+
+
+
+
+
