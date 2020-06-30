@@ -1,7 +1,7 @@
 .. _UMEP5:
 
 UMEP - Footprint modelling
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **This will this take:** ~45 minutes
 

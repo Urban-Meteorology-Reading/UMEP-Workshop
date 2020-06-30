@@ -7,7 +7,6 @@ The `background material <Background>` provides links to key papers and manuals.
 
 .. toctree::
    :maxdepth: 2
-   :numbered:
 
    Intro1
    Prog1

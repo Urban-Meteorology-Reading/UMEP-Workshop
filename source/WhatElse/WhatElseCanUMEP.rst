@@ -7,7 +7,6 @@ In this section you will try out ad learn about other tools found in UMEP. You w
 
 .. toctree::
    :maxdepth: 2
-   :numbered:
 
    UMEP3
    UMEP4

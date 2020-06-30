@@ -7,7 +7,6 @@ This section includes an introduction to the SUEWS model and how to use it withi
 
 .. toctree::
    :maxdepth: 2
-   :numbered:
 
    SUEWS1
    SUEWS2

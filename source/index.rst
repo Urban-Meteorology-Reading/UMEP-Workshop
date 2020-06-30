@@ -7,8 +7,8 @@ Welcome to the urbisphere UMEP July 2020 Online Workshop
 
 .. toctree::
    :caption: Workshop Structure
-   :numbered:
    :maxdepth: 1
+   :numbered:
 
    Prepare/PrepareForTheWorkshop
    FirstUMEP/FirstUMEPActivity

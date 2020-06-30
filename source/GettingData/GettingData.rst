@@ -7,7 +7,6 @@ This section includes examples on how generate and process appropriate data for 
 
 .. toctree::
    :maxdepth: 2
-   :numbered:
 
    GIS2
    SUEWS4
