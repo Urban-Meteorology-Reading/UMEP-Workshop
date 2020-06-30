@@ -12,9 +12,8 @@ Introduction To SUEWS
 
 **Meteorology Background**
 
--  Introduction to urban surface energy balance
--  Introduction to urban water balance
--  Scale in the urban environment
+-  Introduction to urban surface energy and water balance (See `Introduction to Ward et al. 2016 <https://doi.org/10.1016/j.uclim.2016.05.001>, `Oke et al. 2017 <https://doi.org/10.1017/9781139016476>`)
+-  Scale in the urban environment (see `Cleugh and Grimmond 2012 <https://doi.org/10.1016/B978-0-12-386917-3.00003-8>`. `Oke et al. 2017 <https://doi.org/10.1017/9781139016476>`)
 
 **Activity**
 
