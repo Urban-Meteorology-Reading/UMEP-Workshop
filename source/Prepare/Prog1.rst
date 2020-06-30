@@ -3,8 +3,8 @@ Workshop Program: 8 - 10 July 2020
 
 Times
 
-- am - 8/9/10 UK/DE-SW/GR
-- pm - 12:30/13:30/14:30
+- am -  8:00  - 9:00 -  10:00   [UK] - [DE-SW] - [GR}
+- pm - 12:30  - 13:30 - 14:30
  
 
 .. list-table:: Program
@@ -18,7 +18,7 @@ Times
    * - Wednesday pm
      - `SUEWS <LocalScale/SUEWS>`_
    * - Thursday am
-     - ` Spatial data <GettingData/GettingData>`__
+     - `Spatial data <GettingData/GettingData>`__
    * - Thursday pm
      -  `What else can UMEP do? <WhatElse/WhatElseCanUMEP>`___
    * - Friday am
