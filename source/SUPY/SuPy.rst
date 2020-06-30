@@ -1,3 +1,5 @@
+.. _SuPy:
+
 SuPy - SUEWS who talks Python
 -----------------------------
 

@@ -1,3 +1,5 @@
+.. _SUEWS:
+
 Local scale - Urban energy balance
 ----------------------------------
 

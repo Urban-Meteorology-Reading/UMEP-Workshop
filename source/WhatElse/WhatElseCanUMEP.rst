@@ -1,3 +1,5 @@
+.. _WhatElseCanUMEP:
+
 What else can UMEP do?
 ----------------------
 
@@ -14,4 +16,3 @@ In this section you will try out ad learn about other tools found in UMEP. You w
    UMEP7
    UMEP8
    UMEP9
-   

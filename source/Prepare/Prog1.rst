@@ -1,52 +1,52 @@
-Workshop Program: 8 - 10 July 2020 
--------------------------
+Workshop Program: 8 - 10 July 2020
+----------------------------------
 
 
 
 .. list-table:: We will meet at these times each day on Teams
-   :header-rows: 1 
+   :header-rows: 1
    :widths: 20, 20, 20, 20
 
-   * - 
+   * -
      - UK
      - DE
      - GR
-   * - am 
+   * - am
      - 8:00
      - 9:00
      -  10:00
-   * - pm 
+   * - pm
      - 12:30
      - 13:30
      - 14:30
 
 
 .. list-table:: Program
-   :header-rows: 1 
+   :header-rows: 1
    :widths: 20, 50, 60
 
    * - Day Time
      - Topic
      - Other
    * - Wednesday am
-     - `Introduction <Intro1>`_ and `First UMEP Activity <FirstUMEPActivity>`__
+     - `Introduction <Intro1>` and `First UMEP Activity <FirstUMEPActivity>`
      - Observations database meeting
    * - Wednesday pm
-     - `SUEWS <LocalScale/SUEWS>`_
+     - `SUEWS <SUEWS>`
      -
    * - Thursday am
-     - `Spatial data <GettingData/GettingData>`__
+     - `Spatial data <GettingData>`
      -
    * - Thursday pm
-     - `What else can UMEP do? <WhatElse/WhatElseCanUMEP>`_
+     - `What else can UMEP do? <WhatElseCanUMEP>`
      - Paris Olympics
    * - Friday am
-     - `SuPY <SUPY/SuPy>`_
+     - `SuPY <SuPy>`
      -
    * - Friday pm
-     - `SuPY <SUPY/SuPy>`_ and Wrap-up session
-     - 
- 
+     - `SuPY <SuPy>` and Wrap-up session
+     -
+
 
 **Structure**
 
