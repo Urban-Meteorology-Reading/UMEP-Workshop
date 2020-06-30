@@ -23,3 +23,4 @@ Activity
 Background
 ~~~~~~~~~~
 
+- `Anthropogenic heat schemes used in SUEWS <https://suews-docs.readthedocs.io/en/latest/parameterisations-and-sub-models.html#anthropogenic-heat-flux-qf>`_
