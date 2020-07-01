@@ -3,7 +3,7 @@
 First Activity with SuPy
 --------------------------
 
-**This will this take**: ~20 minutes
+**This will this take**: ~ XX minutes
 
 
 **Prior to this activity**
