@@ -6,6 +6,7 @@ Jupyter Notebooks: setting up your research-oriented coding environment
 **Prior to this**
 
 Install Jupyter Notebooks
+Read about `Jupyter Notebooks <JN0.rst>`_
 
 **Activity**
 
