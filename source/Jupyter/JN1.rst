@@ -7,7 +7,7 @@ Jupyter Notebooks: setting up your research-oriented coding environment
 
 **Prior to this**
 
-- 'Install Jupyter Notebooks <SuPy1>`
+- `Install Jupyter Notebooks <SuPy1>`
 - Read about `Jupyter Notebooks <JN0>`
 
 **Activity**
