@@ -3,7 +3,7 @@
 Workshop Program: 8 - 10 July 2020
 ----------------------------------
 
-- Welcome to the `urbisphere <http://urbisphere.eu/>`_ 2020 Modelling Workshop
+**Welcome to the `urbisphere <http://urbisphere.eu/>`_ 2020 Modelling Workshop**
 
 Given this is the first *urbisphere* Modelling workshop our main goal is to get everyone familiar with several modelling tools that already exist.
 
