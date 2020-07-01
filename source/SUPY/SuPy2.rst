@@ -11,7 +11,7 @@ First Activity with SuPy
 -  Familiarity with `SUEWS <https://suews.readthedocs.io>`_
 -  `SUEWS vs SuPy vs UMEP: see the SUEWS docs
    site <https://suews-docs.readthedocs.io/en/latest/related_softwares.html>`_
--  `Jupyter Notebook: setting up your research-oriented coding workshop <SuPy1>`
+-  `Jupyter Notebook: setting up your research-oriented coding workshop <SuPy1>`_
 
 
 **Activity**
