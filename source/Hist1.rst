@@ -5,7 +5,7 @@ Workshop History
 
 .. list-table:: Past workshops
    :header-rows: 1
-   :widths: 30, 20, 20, 50
+   :widths: 20, 20, 20, 50
    
    * - When
      - Where
@@ -19,11 +19,11 @@ Workshop History
      - New York City
      - `UMEP <https://www.ametsoc.org/index.cfm/ams/meetings-events/ams-meetings/10th-international-conference-on-urban-climate-14th-symposium-on-the-urban-environment/practical-workshop-the-urban-multi-scale-environmental-predictor-umep/>`_
      - ICUC10
-   * - Aug-Sep 2017
+   * - 28 Aug- 8 Sep 2017
      - Johor, Malaysia
      - UMEP
      - WMO Workshop Urban Meteorology, Environment and Climate Services 
-   * - 7-8 November 2016
+   * - 7-8 Nov 2016
      - Shanghai
      - City base Climate Services UMEP
      - WMO - IUWCS - CSSP China
