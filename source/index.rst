@@ -1,6 +1,10 @@
 UMEP Workshop 2020
 ==================
 
+.. image:: https://readthedocs.org/projects/umep-workshop/badge/?version=latest
+   :target: https://umep-workshop.readthedocs.io/en/latest/?badge=latest
+   :alt: Documentation Status
+
 Welcome to the urbisphere UMEP July 2020 Online Workshop
 
 
