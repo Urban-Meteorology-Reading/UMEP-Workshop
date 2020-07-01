@@ -64,7 +64,7 @@ Contributors to the workshop
 - Oskar Bäcklin (GIS and UMEP assistant during the Workshop)
 - Vicky Lucas (and others) at IEA, University of Reading (Videos)
 
-Acknowledgments
+Acknowledgements
 ~~~~~~~~~~~~~~~
 
 - ERC Synergy urbisphere
@@ -72,11 +72,19 @@ Acknowledgments
 - NERC
 - FORMAS: Swedish Research Council for Sustainable Development
 
+A large number of individuals have worked on the development of the software (SUEWS, UMEP, SuPy) and the collection of the various datasets that are used in the tutorials. These are gratefully acknowledged. 
+
+Data Organisations include
+
+- AmeriFlux
+- ECMWF ERA5
+- LUMA 
 
 Feedback
 ~~~~~~~~
 
-- Problems with the Manuals (Workshop, UMEP, SUEWS, SuPy) - please complete the GitHib input so it get fixed for others in the group
+- If you find problems with the Manuals (Workshop, UMEP, SUEWS, SuPy) please raise a GitHib issuet so it can be fixed for others in the group (i.e. saving everyone time)
+- Do you have suggestions of other tutorials?
 - What other topics would you like to see covered? Please add to GitHub or contact Sue
 
 
