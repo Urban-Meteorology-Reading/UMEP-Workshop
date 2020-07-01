@@ -28,6 +28,13 @@ Heights that need to be considered in SUEWS
      - ISL
      - The layer where the influence of the individual RE are blended
      -
-   * -     
-   
+    * - Height above ground level 
+      - agl
+      -
+      -
+    * - Height above sea level
+      - asl
+      -
+      -
+
    
