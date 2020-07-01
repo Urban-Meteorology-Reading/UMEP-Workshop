@@ -34,7 +34,7 @@ Preparation for using SuPy
       jupyter notebook
 
 
-**General (all platforms)**: `Anaconda-based approach <https://docs.anaconda.com/anaconda/install/>`_
+**(or) General OS installation (all platforms)**: `Anaconda-based approach <https://docs.anaconda.com/anaconda/install/>`_
 
 
 After you have completed the above follow these instructions to install Jupyter Notebook Extensions: `Installation <https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html>`_
