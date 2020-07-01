@@ -7,7 +7,7 @@ SuPy - Impact study
 
 **Prior to this activity**
 
-- `Basics for running SuPy <SuPy2>`
+- `Basics for running SuPy <SuPy2>`_
 
 
 **Activity**
