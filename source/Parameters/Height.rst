@@ -18,4 +18,6 @@ Heights that need to be considered in SUEWS
      - This should be above the RSL
    * - Roughness SubLayer
      - RSL
-     - Layer that 
+     - Layer that is directly influneced by individual roughness elements
+     - Includes the UCL but is below the ISL
+     
