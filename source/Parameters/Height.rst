@@ -24,5 +24,10 @@ Heights that need to be considered in SUEWS
      - UCL
      - Height of the roughness elements (RE)
      - Building, trees and other RE
-     
-     
+   * - Inertial sub layer or Constant flux layer
+     - ISL
+     - The layer where the influence of the individual RE are blended
+     -
+   * -     
+   
+   
