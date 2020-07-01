@@ -67,7 +67,7 @@ Contributors to the workshop
 Acknowledgments
 
 - ERC Synergy urbisphere
-- Newton Fund/Met Office CSSP China Project Viewpoint
+- Newton Fund/Met Office CSSP China
 - NERC
 - FORMAS: Swedish Research Council for Sustainable Development
 
