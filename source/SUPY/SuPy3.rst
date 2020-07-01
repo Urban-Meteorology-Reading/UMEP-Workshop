@@ -3,7 +3,7 @@
 SuPy - Impact study
 --------------------------
 
-**This will take:**  ~30 minutes
+**This will take:**  ~XX minutes
 
 **Prior to this activity**
 
