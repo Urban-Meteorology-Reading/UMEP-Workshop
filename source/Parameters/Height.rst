@@ -18,6 +18,11 @@ Heights that need to be considered in SUEWS
      - This should be above the RSL
    * - Roughness SubLayer
      - RSL
-     - Layer that is directly influneced by individual roughness elements
+     - Layer that is directly influenced by individual roughness elements
      - Includes the UCL but is below the ISL
+   * - Urban canopy layer
+     - UCL
+     - Height of the roughness elements (RE)
+     - Building, trees and other RE
+     
      
