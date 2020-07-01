@@ -31,10 +31,10 @@ Heights that need to be considered in SUEWS
    * - Height above ground level 
      - agl
      - 
-     - 
+     - height of RE, height of ISL, mid-height of building
    * - Height above sea level
      - asl
-     - Altiude of land surface
+     - Altitude of land surface
      - can be different between model grids (e.g. ERA5 grid and SUEWS grids)
 
    
