@@ -12,12 +12,12 @@ Workshop History
      - Version
      - Given to
    * - 8-10 July 2020
-     - Reading Online
+     - Reading [Online]
      - `Program <Prog1>`
      - `urbisphere <http://urbisphere.eu/>`_ 
-   * - 201X
+   * - August 2018
      - New York City
-     - UMEP
+     - `UMEP <https://www.ametsoc.org/index.cfm/ams/meetings-events/ams-meetings/10th-international-conference-on-urban-climate-14th-symposium-on-the-urban-environment/practical-workshop-the-urban-multi-scale-environmental-predictor-umep/>`_
      - ICUC10
    * - 201X
      - Shanghai
