@@ -3,4 +3,9 @@
 Workshop History
 ~~~~~~~~~~~~~~~~
 
-- 8-10 July 2020 - Version 1 of the workshop. Given to urbisphere. `Program <Prog1>`
+ 
+==============  ===========  ==============================
+When              Version     Given to
+==============  ===========  ===============================
+8-10 July 2020    1           `urbisphere <http://urbisphere.eu/>`_  `Program <Prog1>`
+==============  ===========  ===============================
