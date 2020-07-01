@@ -49,6 +49,6 @@ Background Resources
 
 -  Jupyter Notebook Extension: `Installation <https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html>`_
 
-- `Introduction to Jupyter Notebooks (BLM course material) <https://blm.readthedocs.io/en/latest/JupyterNotebook.html>`_  **UPDATE** 
+- `Introduction to Jupyter Notebooks  <JN1>`_   
 
 - `Jupyter Notebook Cheatsheet <https://cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/>`_
