@@ -9,6 +9,7 @@ This section is an introduction to SuPy, SUEWS that talks Python.
    :maxdepth: 1
 
    SuPy1
+   Jupyter/JN1
    SuPy2
    SuPy3
    SuPy4
