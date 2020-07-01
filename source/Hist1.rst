@@ -20,9 +20,9 @@ Workshop History
      - `UMEP <https://www.ametsoc.org/index.cfm/ams/meetings-events/ams-meetings/10th-international-conference-on-urban-climate-14th-symposium-on-the-urban-environment/practical-workshop-the-urban-multi-scale-environmental-predictor-umep/>`_
      - ICUC10
    * - Aug-Sep 2017
-     - Jahor Bahru, Malaysia
+     - Johor, Malaysia
      - UMEP
-     - WMO Workshop
+     - WMO Workshop Urban Meteorology, Environment and Climate Services 
    * - 7-8 November 2016
      - Shanghai
      - City base Climate Services UMEP
