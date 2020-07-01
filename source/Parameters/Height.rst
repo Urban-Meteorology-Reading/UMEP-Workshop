@@ -6,7 +6,7 @@ Heights that need to be considered in SUEWS
 
 .. list-table:: Heights important for SUEWS
    :header-rows: 1
-   :widths: 40, 10, 50, 50
+   :widths: 40, 7, 50, 50
    
    * - Name
      - Symbol
