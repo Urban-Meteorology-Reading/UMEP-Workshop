@@ -65,15 +65,13 @@ Contributors to the workshop
 - Vicky Lucas (and others) at IEA, University of Reading (Videos)
 
 Acknowledgments
+~~~~~~~~~~~~~~~
 
 - ERC Synergy urbisphere
 - Newton Fund/Met Office CSSP China
 - NERC
 - FORMAS: Swedish Research Council for Sustainable Development
 
-Workshop History
-
-- 8-10 July 2020 - Version 1 of the workshop. Given to urbisphere. `Program <Prog1>`
 
 Feedback
 ~~~~~~~~
