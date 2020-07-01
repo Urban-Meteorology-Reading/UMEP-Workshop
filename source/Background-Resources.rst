@@ -45,3 +45,10 @@ Background Resources
 - `QGIS software <https://qgis.org/en/site/>`__
 - `QGIS manual <https://docs.qgis.org/3.10/en/docs/index.html>`__
 
+**Jupyter Notebooks**
+
+-  Jupyter Notebook Extension: `Installation <https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html>`_
+
+- `Introduction to Jupyter Notebooks (BLM course material) <https://blm.readthedocs.io/en/latest/JupyterNotebook.html>`_  **UPDATE** 
+
+- `Jupyter Notebook Cheatsheet <https://cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/>`_
