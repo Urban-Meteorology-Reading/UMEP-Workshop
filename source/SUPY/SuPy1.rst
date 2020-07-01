@@ -14,18 +14,13 @@ Preparation for using SuPy
 
 **Activity**
 
-- *Installation of Jupyter Notebooks - follow the appropriate inststructcionf for your operating system*
-- If you already have Pyhton and Jupyter Notebooks installed you do not need to do this. The version you will install here in the QGIS version. 
-
-1. Windows+QGIS: ``osgeo``-based approach
-
-   - Follow `this <QGIS1>` to install QGIS
-
-   - In your start menu in Windows, locate **OSGeo4W Shell** and open it. If you automatically do not have administrative rights you need to right-click on **OSGeo4W Shell**, *Open file Location*, Right-click on **OSGeo4W Shell** again and choose *Run as Administrator*; type the following two commands:
+- *Installation of Jupyter Notebooks - follow the appropriate inststructcions for your operating system*
+- If you already have Python and Jupyter Notebooks installed you do not need to do this. If you are a **Windows** user install the QGIS version **OR** you can to **General**
 
 
+**Windows+QGIS:** ``osgeo``-based approach
 
-APPLe---------------------
+   - With your already `installed <QGIS1>`  go to the start menu in Windows, locate **OSGeo4W Shell** and open it. If you automatically do not have administrative rights you need to right-click on **OSGeo4W Shell**, *Open file Location*, Right-click on **OSGeo4W Shell** again and choose *Run as Administrator*; type the following two commands:
 
    .. code-block:: SHELL
 
@@ -38,13 +33,15 @@ APPLe---------------------
 
       jupyter notebook
 
-2. General (all platforms): `Anaconda-based approach <https://docs.anaconda.com/anaconda/install/>`_
 
-3. Jupyter Notebook Extension: `Installation <https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html>`_
+**General (all platforms)**: `Anaconda-based approach <https://docs.anaconda.com/anaconda/install/>`_
+
+
+After you have completed the above follow these instructions to install Jupyter Notebook Extensions: `Installation <https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html>`_
 
 
 .. note::
-   If you use Anaconda for Python, better to choose `conda-forge` channel for package installation due to better compatibility with various scientific libraries.
+   If you use Anaconda for Python, it is better to choose `conda-forge` channel for package installation to have better compatibility with various scientific libraries.
 
 
 
