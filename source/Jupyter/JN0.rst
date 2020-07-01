@@ -1,3 +1,4 @@
+.. _JNO:
 
 Jupyter Notebook
 ================
