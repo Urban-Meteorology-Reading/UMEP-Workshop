@@ -9,7 +9,7 @@ SuPy - interacting with external models
 
 -  Understand the basic data structures of SuPy forcing:
 
-   - basics given in `SuPy3`
+   - basics given in the `SuPy impact study <SuPy3>`_
    - more details see `SuPy manual <https://supy.readthedocs.io/en/latest/data-structure/supy-io.html#df_forcing:-forcing-data>`_
 
 **Activity**
