@@ -17,9 +17,6 @@ SuPy - interacting with external models
 
 -  In this activity, you will `build a simple model for anthropogenic heat emissions and use it to interact with SuPy for urban climate simulations <https://supy.readthedocs.io/en/latest/tutorial/external-interaction.html>`_
 
-   - An AmeriFlux site is used as an example.
-
-
 **Background**
 
 
