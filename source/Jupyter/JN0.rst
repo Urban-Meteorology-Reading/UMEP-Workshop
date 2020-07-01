@@ -1,4 +1,5 @@
-.. _JNO:
+
+.. _JN0:
 
 Background reading for Jupyter Notebooks
 ========================================

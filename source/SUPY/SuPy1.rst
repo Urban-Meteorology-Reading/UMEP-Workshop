@@ -8,7 +8,9 @@ Preparation for using SuPy
 **Prior to this activity**
 
 - Be familiar with SUEWS in UMEP
+
 - `Introduction to Jupyter Notebooks <JN0>`
+
 - `Jupyter Notebook Cheatsheet <https://cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/>`_
 
 
