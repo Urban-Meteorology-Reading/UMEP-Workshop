@@ -1,7 +1,7 @@
 .. _JNO:
 
-Jupyter Notebook
-================
+Background reading for Jupyter Notebooks
+========================================
 
 
 The Jupyter Notebook is an ideal tool for exploratory data analysis,
