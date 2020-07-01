@@ -7,6 +7,7 @@ Prior to the workshop complete the steps in the section but not before we tell y
    :maxdepth: 2
 
    Intro1
+   Hist1
    Prog1
    GH1
    QGIS1
