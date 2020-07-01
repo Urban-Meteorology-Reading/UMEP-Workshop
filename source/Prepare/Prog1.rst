@@ -1,3 +1,5 @@
+.. _Prog1:
+
 Workshop Program: 8 - 10 July 2020
 ----------------------------------
 
@@ -27,7 +29,7 @@ Workshop Program: 8 - 10 July 2020
 
    * - Day Time
      - Topic
-     - Other
+     - Other parallel activities
    * - Wednesday am
      - `Introduction <Intro1>` and `First UMEP Activity <FirstUMEPActivity>`
      - Observations database meeting
