@@ -23,9 +23,9 @@ Workshop History
      - Jahor Bahru, Malaysia
      - UMEP
      - WMO Workshop
-   * - 6-7 November 2016
+   * - 7-8 November 2016
      - Shanghai
      - City base Climate Services UMEP
-     - WMO - IUWCS -CSSP China
+     - WMO - IUWCS - CSSP China
 
 
