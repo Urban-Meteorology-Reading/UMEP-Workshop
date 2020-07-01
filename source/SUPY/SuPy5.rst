@@ -3,7 +3,7 @@
 SuPy - calculating own parameters
 ---------------------------------------
 
-**This will take:**  ~30 minutes
+**This will take:**  ~ XX minutes
 
 **Prior to this activity**
 
@@ -17,7 +17,7 @@ SuPy - calculating own parameters
 
 
 -  In this activity, you will `calculate
-   appropriate parameters for your own site and conduct SuPy simulations of it (T) <https://SuPy.readthedocs.io/en/latest/tutorial/AMF-sim.html>`_
+   appropriate parameters for your own site and conduct SuPy simulations of it <https://SuPy.readthedocs.io/en/latest/tutorial/AMF-sim.html>`_
    - An AmeriFlux site will be used as example.
 
 
