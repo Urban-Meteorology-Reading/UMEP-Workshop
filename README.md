@@ -1,6 +1,6 @@
 # UMEP-Workshop
 
-
+[![Documentation Status](https://readthedocs.org/projects/umep-workshop/badge/?version=latest)](https://umep-workshop.readthedocs.io/en/latest/?badge=latest)
 
 ## Sphinx site
 
