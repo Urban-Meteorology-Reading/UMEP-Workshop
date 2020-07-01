@@ -74,7 +74,7 @@ Acknowledgements
 
 A large number of individuals have worked on the development of the software (SUEWS, UMEP, SuPy) and the collection of the various datasets that are used in the tutorials. These are gratefully acknowledged. 
 
-Data Organisations include
+We thank the following organisations whose Data are used, including:
 
 - AmeriFlux
 - ECMWF ERA5
@@ -83,7 +83,7 @@ Data Organisations include
 Feedback
 ~~~~~~~~
 
-- If you find problems with the Manuals (Workshop, UMEP, SUEWS, SuPy) please raise a GitHib issuet so it can be fixed for others in the group (i.e. saving everyone time)
+- If you find problems with the Manuals (Workshop, UMEP, SUEWS, SuPy) please raise a GitHib issue so it can be fixed for others in the group (i.e. saving everyone time)
 - Do you have suggestions of other tutorials?
 - What other topics would you like to see covered? Please add to GitHub or contact Sue
 
