@@ -67,9 +67,9 @@ Acknowledgements
 - NERC
 - FORMAS: Swedish Research Council for Sustainable Development
 
-A large number of individuals have worked on the development of the software (SUEWS, UMEP, SuPy) and the collection of the various datasets that are used in the tutorials. These are gratefully acknowledged. 
+A large number of individuals have worked on the development of the software (SUEWS, UMEP, SuPy) and the collection of the various datasets that are used in the tutorials. These are all gratefully acknowledged. 
 
-We thank the following organisations whose Data are used, including:
+We thank the following organisations whose **data** are used, including:
 
 - AmeriFlux
 - ECMWF ERA5
