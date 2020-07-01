@@ -50,37 +50,4 @@ APPLe---------------------
 
 
 
-**Activity**
 
-
-*Jupyter Notebooks: setting up your research-oriented coding workshop*
-
-
-
-- Basic operations (L)
-   - command/edit mode
-   - code/markdown cell
-      - run your code
-      - take notes
-   - add cells above/below
-   - cut (delete) / copy / paste cells
-   - merge/split cells
-
-
-- Advanced tips (L)
-   - structuring your notebook
-      - main storyline
-      - scratch pad
-   - note-taking in markdown
-      - basics
-      - equation
-   - magic with ``line/cell-magic``
-      - terminal commands
-      - external modules (e.g., Fortran)
-
-
-
-**Next Activity**
-
-
-`First use of SuPy <SuPy2>`: a quickstart to SuPy
