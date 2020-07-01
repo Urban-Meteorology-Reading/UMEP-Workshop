@@ -8,6 +8,9 @@ Preparation for using SuPy
 **Prior to this activity**
 
 - Be familiar with SUEWS in UMEP
+- `Introduction to Jupyter Notebooks <Jupyter/JN0>`_
+- `Jupyter Notebook Cheatsheet <https://cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/>`_
+
 
 **Activity**
 
@@ -39,9 +42,6 @@ APPLe---------------------
 
 3. Jupyter Notebook Extension: `Installation <https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html>`_
 
-- `Introduction to Jupyter Notebooks (BLM course material) <https://blm.readthedocs.io/en/latest/JupyterNotebook.html>`_
-
-- `Jupyter Notebook Cheatsheet <https://cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/>`_
 
 .. note::
    If you use Anaconda for Python, better to choose `conda-forge` channel for package installation due to better compatibility with various scientific libraries.
