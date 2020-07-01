@@ -58,4 +58,9 @@ If you are having any kind of issues and/or need to ask questions to one of the 
 - `QGIS Training Manual <https://docs.qgis.org/3.10/en/docs/training_manual/index.html>`__
 
 
+**Jupyter Notebooks**
 
+- `Jupyter Notebook Cheatsheet <https://cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/>`_
+
+
+**Python**
