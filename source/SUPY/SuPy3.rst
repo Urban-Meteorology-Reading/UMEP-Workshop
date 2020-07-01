@@ -7,9 +7,7 @@ SuPy - Impact study
 
 **Prior to this activity**
 
-
 - `Basics for running SuPy <SuPy2>`
-- `Basics for using Jupyter Notebooks <SuPy1>`
 
 
 **Activity**
@@ -18,11 +16,10 @@ SuPy - Impact study
 -  In this activity you use will use SuPy to conduct an `impact
    study <https://SuPy.readthedocs.io/en/latest/tutorial/impact-studies-parallel.html>`__
 
-   Specially, we will explore responses of urban climates to two scenarios:
+   You will explore the urban climate response to two scenarios:
 
-   1. modified urban surface properties (e.g., albedo).
+   1. modified urban surface properties (e.g., albedo), such as may come about from people's behaviour (e.g. planning regulations, manintenace over time)
 
-   2. varying atmospheric forcing (e.g., air temperature).
-
+   2. varying atmospheric forcing (e.g., air temperature), such as may come about from climate changing
 
 
