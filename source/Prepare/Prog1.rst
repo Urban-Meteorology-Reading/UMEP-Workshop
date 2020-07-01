@@ -5,7 +5,7 @@ Workshop Program: 8 - 10 July 2020
 
 - Welcome to the `urbisphere <http://urbisphere.eu/>`_ 2020 Modelling Workshop
 
-Given this is our first *urbisphere* Modelling workshop our main goal is to get everyone familiar with several modelling tools that already exist.
+Given this is the first *urbisphere* Modelling workshop our main goal is to get everyone familiar with several modelling tools that already exist.
 
 As this is an online workshop (rather than being at University of Reading as planned) we will meet twice a day via TEAMS formally but we will keep the TEAMS channels open throughout each session so you can ask questions of each other and the people ready to provide help.
 
