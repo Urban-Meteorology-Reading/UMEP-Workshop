@@ -16,15 +16,18 @@
 # import guzzle_sphinx_theme
 # import recommonmark
 # from recommonmark.transform import AutoStructify
+import datetime
 
 # -- Project information -----------------------------------------------------
 
 project = "UMEP Workshop"
-copyright = "2020, Sue Grimmond, Fredrik Lindberg, Ting Sun and Kit Benjamin"
-author = "Sue Grimmond, Fredrik Lindberg, Ting Sun and Kit Benjamin"
+year_today=datetime.date.today().isocalendar()[0]
+list_author=['Sue Grimmond','Fredrik Lindberg','Ting Sun']
+author = ' and '.join([', '.join(list_author[:-1]),list_author[-1]])
+copyright = f"{year_today}, {author}"
 
 # The full version, including alpha/beta/rc tags
-release = "20200626"
+release = datetime.date.today().isoformat()
 
 
 # -- General configuration ---------------------------------------------------
