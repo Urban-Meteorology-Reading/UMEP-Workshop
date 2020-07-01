@@ -7,14 +7,22 @@ Preparation for using SuPy
 
 **Prior to this activity**
 
+- Be familiar with SUEWS in UMEP
 
-- Installation (M)
+**Activity**
+
+- *Installation of Jupyter Notebooks - follow the appropriate inststructcionf for your operating system*
+- If you already have Pyhton and Jupyter Notebooks installed you do not need to do this. The version you will install here in the QGIS version. 
 
 1. Windows+QGIS: ``osgeo``-based approach
 
    - Follow `this <QGIS1>` to install QGIS
 
    - In your start menu in Windows, locate **OSGeo4W Shell** and open it. If you automatically do not have administrative rights you need to right-click on **OSGeo4W Shell**, *Open file Location*, Right-click on **OSGeo4W Shell** again and choose *Run as Administrator*; type the following two commands:
+
+
+
+APPLe---------------------
 
    .. code-block:: SHELL
 
@@ -37,6 +45,9 @@ Preparation for using SuPy
 
 .. note::
    If you use Anaconda for Python, better to choose `conda-forge` channel for package installation due to better compatibility with various scientific libraries.
+
+
+
 
 
 **Activity**
