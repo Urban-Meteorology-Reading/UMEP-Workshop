@@ -12,6 +12,8 @@ Jupyter Notebooks: setting up your research-oriented coding environment
 
 **Activity**
 
+- Lecture or Video
+
 - Basic operations (L)
    - command/edit mode
    - code/markdown cell
