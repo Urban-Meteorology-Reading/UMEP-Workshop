@@ -60,8 +60,8 @@ Hosted By
 Contributors to the workshop
 
 - Kit Benjamin (tester of all the Workshop activities)
-- Nils Wallenberg
-- Oskar Bäcklin
+- Nils Wallenberg (GIS and UMEP assistant during the Workshop)
+- Oskar Bäcklin (GIS and UMEP assistant during the Workshop)
 - Vicky Lucas (and others) at IEA, University of Reading (Videos)
 
 Acknowledgments
@@ -69,6 +69,7 @@ Acknowledgments
 - ERC Synergy urbisphere
 - Newton Fund/Met Office CSSP China Project Viewpoint
 - NERC
+- FORMAS: Swedish Research Council for Sustainable Development
 
 Workshop History
 

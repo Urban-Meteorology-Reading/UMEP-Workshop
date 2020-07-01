@@ -42,5 +42,6 @@ Background Resources
 
 **QGIS**
 
--  `QGIS software <https://docs.qgis.org/3.10/en/docs/index.html>`__
+- `QGIS software <https://qgis.org/en/site/>`__
+- `QGIS manual <https://docs.qgis.org/3.10/en/docs/index.html>`__
 
