@@ -7,7 +7,6 @@ SuPy - interacting with external models
 
 **Prior to this activity**
 
-
 -  Understand the basic data structures of SuPy forcing:
 
    - basics given in `SuPy3`
@@ -16,8 +15,9 @@ SuPy - interacting with external models
 **Activity**
 
 
--  In this activity, you will `build a simple model for anthropogenic heat and use it to interact with SuPy for urban climate simulations(T) <https://supy.readthedocs.io/en/latest/tutorial/external-interaction.html>`_
-   - An AmeriFlux site will be used as example.
+-  In this activity, you will `build a simple model for anthropogenic heat emissions and use it to interact with SuPy for urban climate simulations <https://supy.readthedocs.io/en/latest/tutorial/external-interaction.html>`_
+
+   - An AmeriFlux site is used as an example.
 
 
 **Background**
