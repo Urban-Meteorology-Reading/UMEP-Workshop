@@ -55,8 +55,8 @@ Workshop Program: 8 - 10 July 2020
 -  Each section has its own page with links to relevant materials.
 -  Initial material is general, later topics are more focused
 -  The amount of time needed to undertake a topic is given
--  At the end of each page the 'Next' button takes you forward
--  On each page there is guidance on what to do if you get stuck
+-   If you have gone to a tutorial site (these are hosted separately) make certain you return to the Workshop pages! At the end of each Workshop page the 'Next' button takes you forward.
+-  On each page there is a link to the `Need help page <NeedHelp>` where you will see various ways to move forward if someone is not available to help you (suggestions for improving this would be good).
 
 **Delivery**
 
