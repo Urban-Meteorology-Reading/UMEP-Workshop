@@ -5,10 +5,9 @@ Background reading for Jupyter Notebooks
 ========================================
 
 
-The Jupyter Notebook is an ideal tool for exploratory data analysis,
-by using which you can finish data processing, computation, plotting and
+The Jupyter Notebook is an ideal tool for exploratory data analysis. It provides a place where you can carry out your data processing, computation, plotting and
 even writing (using Markdown) in one stop.
-Also, it supports more programming languages than just Python: Julia, R, etc..
+Also, it supports more programming languages than just Python: Julia, R, etc.
 In this course, we will only use *Python* for its well developed ecosystem in
 data science and scientific computing.
 
@@ -39,7 +38,7 @@ useful for this course, and many other data-analysis-oriented ones:
 Best Practices
 ----------------------------------
 
-A good guide can be found `here <https://https://towardsdatascience.com/jupyter-notebook-best-practices-f430a6ba8c69>`__.
+A good guide can be found `here <https://towardsdatascience.com/jupyter-notebook-best-practices-f430a6ba8c69>`__.
 
 And we emphasise that **structuring your notebook** is the key.
 `This post <https://towardsdatascience.com/set-your-jupyter-notebook-up-right-with-this-extension-24921838a332>`__ helps you
