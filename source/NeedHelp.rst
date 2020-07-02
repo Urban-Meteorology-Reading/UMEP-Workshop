@@ -67,3 +67,18 @@ If you are having any kind of issues and/or need to ask questions to one of the 
 **Python**
 
 - `Starting help for Python <Py1>`
+
+
+** GitHub**
+
+- `Git Handbook`_: Learn about version control—in particular, Git, and how it works with GitHub.
+- `GitHub-based workflow`_: This guide explains how and why GitHub flow works.
+-  `GitHub turoiral <https://guides.github.com/activities/hello-world/>`__
+
+
+
+.. _GitHub: http://github.com/
+.. _Git Handbook: https://guides.github.com/introduction/git-handbook/
+.. _GitHub-based workflow: https://guides.github.com/introduction/flow/
+- .. _Git Handbook: https://guides.github.com/introduction/git-handbook/
+.. _GitHub-based workflow: https://guides.github.com/introduction/flow/
