@@ -8,9 +8,8 @@ This section includes examples on how generate and process appropriate data for 
 .. toctree::
    :maxdepth: 2
 
+   QGIS2
    GIS2
    SUEWS4
-   QGIS2
    GIS3
-   UMEP10
 

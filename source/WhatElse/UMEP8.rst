@@ -3,9 +3,7 @@
 Workflow patterns - UMEP for the QGIS Processing toolbox
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-UNDER PREPARATION
-
-**This will this take:** ~10 minutes
+**This will this take:** ~45 minutes
 
 **Expected knowledge/activity before this**
 
@@ -16,7 +14,7 @@ UNDER PREPARATION
 
 **Activity**
 
--  Examples of workflow patterns in UMEP.
+-  Examples of workflow patterns in UMEP and introduction to `UMEP for processing <https://umep-docs.readthedocs.io/en/latest/UMEPforProcessing.html>`__.
 
--  `Video
+-  `Tutorial
    link <>`__ UNDER PREPARETION

@@ -3,9 +3,7 @@
 UMEP - model parameters (z0, h/w etc)
 -------------------------------------
 
-UNDER PREPARATION
-
-**This will this take:** ~XX minutes
+**This will this take:** ~10 minutes
 
 **Expected knowledge/activity before this**
 
