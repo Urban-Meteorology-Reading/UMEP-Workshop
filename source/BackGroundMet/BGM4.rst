@@ -17,7 +17,7 @@ and the **Monin‑Obukhov stability parameter**
 
     \frac{z'}{L} = - \frac{k\left( z - d \right)\frac{g}{\theta_{0}}\frac{H}{\rho c_{p}}}{u_{*}^{3}}
 
-where `L` is the **Obukhov length** and `z^{’}= z - d`. NB: the surface
+where `L` is the **Obukhov length** and :math:`z^{’}= z - d`. NB: the surface
 temperature :math:`\theta_0` is an absolute temperature (units: K). The
 logarithmic profile relation can be rewritten for wind speed to include
 the stability corrections
@@ -41,7 +41,7 @@ and :math:`\Psi_{h}` is the integral stability correction function for heat.
 
 .. #TODO: add/reference equations for Psi_m and Psi_h.
 
-There are a number of forms of `\Psi_{m}` and `\Psi_{h}`; one set of forms from Foken (2008) are as follows:
+There are a number of forms of :math:`\Psi_{m}` and :math:`\Psi_{h}`; one set of forms from Foken (2008) are as follows:
 
 *under unstable conditions*:
 
@@ -54,7 +54,7 @@ There are a number of forms of `\Psi_{m}` and `\Psi_{h}`; one set of forms from 
     {\psi_{h}(\zeta)=2 \ln \left(\frac{1+y}{2}\right) \text { for } \frac{z}{L}<0}
     \end{array}
 
-with `x=(1-19.3 \zeta)^{1 / 4} \quad y=0.95(1-11.6 \zeta)^{1 / 2}`.
+with :math:`x=(1-19.3 \zeta)^{1 / 4} \quad y=0.95(1-11.6 \zeta)^{1 / 2}`.
 
 *under stable conditions*:
 
@@ -66,8 +66,8 @@ with `x=(1-19.3 \zeta)^{1 / 4} \quad y=0.95(1-11.6 \zeta)^{1 / 2}`.
     \\
     {\psi_{h}(\zeta)=-7.8 \frac{z}{L} \quad \text { for } \quad \frac{z}{L} \geq 0}\end{array}
 
-Note that both `T_*` and `z’ / L` have the opposite sign to `Q_H` (which is positive in unstable conditions and negative in stable conditions).
-If `z’/z_0 \gg 1` then the third term can assumed to be negligible (Garratt 1992).
+Note that both :math:`T_*` and :math:`z’ / L` have the opposite sign to :math:`Q_H` (which is positive in unstable conditions and negative in stable conditions).
+If :math:`z’/z_0 \gg 1` then the third term can assumed to be negligible (Garratt 1992).
 
 Other stability metrics include the Richardson number:
 
@@ -82,7 +82,7 @@ Other stability metrics include the Richardson number:
 
     R_{B}=\frac{\left(g / T_{v}\right) \Delta \theta_{v} \Delta z}{(\Delta U)^{2}+(\Delta V)^{2}}
 
-where `g` acceleration due to gravity, `T_V` virtual temperature, `\Delta \theta_{v}` change (difference) in potential temperature, `\Delta z` change in height
-`\Delta U` change in `U` wind-speed, and `\Delta V` change in `V` wind-speed.
+where :math:`g` acceleration due to gravity, :math:`T_V` virtual temperature, :math:`\Delta \theta_{v}` change (difference) in potential temperature, :math:`\Delta z` change in height
+:math:`\Delta U` change in :math:`U` wind-speed, and :math:`\Delta V` change in `:math:`V` wind-speed.
 
 
