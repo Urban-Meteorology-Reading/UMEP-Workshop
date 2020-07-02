@@ -80,5 +80,4 @@ If you are having any kind of issues and/or need to ask questions to one of the 
 .. _GitHub: http://github.com/
 .. _Git Handbook: https://guides.github.com/introduction/git-handbook/
 .. _GitHub-based workflow: https://guides.github.com/introduction/flow/
-- .. _Git Handbook: https://guides.github.com/introduction/git-handbook/
-.. _GitHub-based workflow: https://guides.github.com/introduction/flow/
+
