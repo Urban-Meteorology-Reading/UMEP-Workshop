@@ -12,8 +12,8 @@ surface as (units: :math:`\mathrm{W \ m^{-2}}`):
     Q^*= Q_H + Q_E +Q_G
 
 where :math:`Q^*` is the net all wave radiation, the turbulent sensible
-heat flux (`Q_H`) and the turbulent latent heat flux (`Q_E`) and
-the soil heat flux (`Q_G`) (units: :math:`\mathrm{W \ m^{-2}}`).
+heat flux (:math:`Q_H`) and the turbulent latent heat flux (:math:`Q_E`) and
+the soil heat flux (:math:`Q_G`) (units: :math:`\mathrm{W \ m^{-2}}`).
 
 Note other notation that is used for the SEB are (in the same order as above):
 
