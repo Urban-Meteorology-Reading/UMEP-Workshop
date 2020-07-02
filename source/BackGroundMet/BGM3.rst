@@ -18,8 +18,7 @@ LAI (Leaf Area Index)
 * Surface/ canopy resistance
 * Surface interception of water
 
-
-**Porosity **
+**Porosity**
 
 If air can blow through an object (e.g. a tree) it is more porous than those one the that air can not (e.g. buildings). The latter are referred to as *bluff bodies*.
 Trees porosity may change through the year with phenology. For example, when deciduous plants lose their leaves (fall off) they become more porous.
