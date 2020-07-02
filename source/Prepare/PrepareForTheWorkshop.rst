@@ -13,6 +13,7 @@ Prior to the workshop complete the steps in the section but not before we tell y
    UMEP1
    ../Jupyter/JN0
    ../Hist1
-   BGM0
+   ../BackGroundMet/BGM0
+   
    
 The `Background` provides links to key papers and manuals.
