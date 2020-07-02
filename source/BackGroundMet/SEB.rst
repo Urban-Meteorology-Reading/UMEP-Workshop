@@ -37,7 +37,7 @@ The Bowen ratio (:math:`\beta`) is
 **Radiation balance**
 
 
-The :math:`Q^*` (or :math:`R_n`) within the `SEB <SEB> consists of:
+The :math:`Q^*` (or :math:`R_n`) within the `SEB <SEB>` consists of:
 
 .. math::
     :label: qnet
