@@ -1,15 +1,14 @@
+.. _WP:
+
 Wind Profile
-============
+~~~~~~~~~~~~
 
 
 .. #TODO Links to other relevant materials
-.. #TODO remove to do notes down below
 
 
 
-
-Wind profile in neutral conditions
-----------------------------------
+**Wind profile in neutral conditions**
 
 The variation of mean wind speed :math:`\bar{u}` with height z (in
 surface layer, above the RSL) above an aerodynamically rough surface can
@@ -35,8 +34,8 @@ or potential temperature is constant with height).
 When the sensible heat flux is significantly
 different from zero, Monin-Obukhov theory (or other) must be used.
 
-Wind and temperature profile in non-neutral conditions
-------------------------------------------------------
+**Wind and temperature profile in non-neutral conditions**
+
 
 .. #TODO: needs Modifications
 
@@ -78,8 +77,8 @@ If `z'/z \gg 1` then the third term can assumed to be negligible
 (Garratt 1992)
 
 
-Profiles and fluxes of moisture
--------------------------------
+**Profiles and fluxes of moisture**
+
 
 Just as surface layer profiles of momentum and temperature follow a
 logarithmic form in neutral conditions, humidity in the surface layer
