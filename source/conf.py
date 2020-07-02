@@ -147,3 +147,5 @@ def source_read_handler(app, docname, source):
 # app setup hook
 def setup(app):
     app.connect('source-read', source_read_handler)
+    # Fix equation formatting in the RTD-theme
+    app.add_stylesheet('fix-eq.css')
