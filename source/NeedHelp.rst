@@ -69,11 +69,11 @@ If you are having any kind of issues and/or need to ask questions to one of the 
 - `Starting help for Python <Py1>`
 
 
-** GitHub**
+**GitHub**
 
 - `Git Handbook`_: Learn about version control—in particular, Git, and how it works with GitHub.
 - `GitHub-based workflow`_: This guide explains how and why GitHub flow works.
--  `GitHub turoiral <https://guides.github.com/activities/hello-world/>`__
+-  `GitHub tutorial <https://guides.github.com/activities/hello-world/>`__
 
 
 
