@@ -6,8 +6,8 @@ LAI (Leaf Area Index)
 
 
 * Varies with phenology (state of the vegetation e.g. leaf on or leaf off, bud burst).
-* Measure of the area of leaf surface relative to the ground area. If you look up at an adult, healthy tree there will be typically many layers of leaves between the ground and the top of the canopy. Hence the LAI values are typically greater than 1 :math:`m^2` m :sup:`-2`.
-* Units: :math:`m^2` m :sup:`-2`
+* Measure of the area of leaf surface relative to the ground area. If you look up at an adult, healthy tree there will be typically many layers of leaves between the ground and the top of the canopy. Hence the LAI values are typically greater than 1 :math:`m^2` m:sup:`-2`.
+* Units: :math:`m^2` m:sup:`-2`
 
 
 **Parameters LAI influences**
