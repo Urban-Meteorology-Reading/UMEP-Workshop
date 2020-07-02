@@ -13,9 +13,9 @@ However, in areas where there is more mass, such as cities, the term becomes muc
 **Objective Hysteresis Model**
 
 
-The objective hysteresis model (OHM) is a simple model to calculate storage heat flux using net all-wave radiation `Q^*` following the hysteresis relation (Camuffo and Bernardi, 1982).
+The objective hysteresis model (OHM) is a simple model to calculate storage heat flux using net all-wave radiation :math:`Q^*` following the hysteresis relation (Camuffo and Bernardi, 1982).
 
-The OHM is forced by `Q^∗` and accounts for the diversity of the surface materials (sub-facets) in the measurement source area of interest with weightings (`f`) for their two- or three-dimensional extent (Grimmond et al., 1991):
+The OHM is forced by :math:`Q^∗` and accounts for the diversity of the surface materials (sub-facets) in the measurement source area of interest with weightings (:math:`f`) for their two- or three-dimensional extent (Grimmond et al., 1991):
 
 .. math::
   :label: ohm
