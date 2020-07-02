@@ -17,12 +17,12 @@ Preparation for using SuPy
 **Activity**
 
 - *Installation of Jupyter Notebooks - follow the appropriate inststructcions for your operating system*
-- If you already have Python and Jupyter Notebooks installed you do not need to do this. If you are a **Windows** user install the QGIS version **OR** you can go to **General**
+- If you already have Python and Jupyter Notebooks installed you do not need to do this. If you are a **Windows** user, install the QGIS version **OR** you can go to **General**
 
 
 **Windows+QGIS:** ``osgeo``-based approach
 
-   - With your already `installed <QGIS1>`  go to the start menu in Windows, locate **OSGeo4W Shell** and open it. If you automatically do not have administrative rights you need to right-click on **OSGeo4W Shell**, *Open file Location*, Right-click on **OSGeo4W Shell** again and choose *Run as Administrator*; type the following two commands:
+   - With your already `installed QGIS <QGIS1>`,  go to the start menu in Windows, locate **OSGeo4W Shell** and open it. If you automatically do not have administrative rights you need to right-click on **OSGeo4W Shell**, *Open file Location*, Right-click on **OSGeo4W Shell** again and choose *Run as Administrator*; type the following two commands:
 
    .. code-block:: SHELL
 
