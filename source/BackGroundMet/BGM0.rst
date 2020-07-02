@@ -9,5 +9,6 @@ This followins is some very introductory  material, there are many books and pap
 - `Radiation Balance <radB>`
 - `Albedo <albedo>`
 
-- `Roughness legngth <roughness>`
+- `Roughness length <roughness>`
+- `Leaf area index <LAI>`
 - `Glossary <BGM1>`
