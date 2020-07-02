@@ -24,6 +24,8 @@ Note other notation that is used for the SEB are (in the same order as above):
 Bowen ratio
 -----------
 
+.. math::
+
 The Bowen ratio (`\beta`) is
 
 .. math::
