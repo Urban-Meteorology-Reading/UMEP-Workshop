@@ -75,7 +75,9 @@ If you are having any kind of issues and/or need to ask questions to one of the 
 - `GitHub-based workflow`_: This guide explains how and why GitHub flow works.
 -  `GitHub tutorial <https://guides.github.com/activities/hello-world/>`__
 
+**Background meteorology**
 
+- `Introductory Material <BGM0>`
 
 .. _GitHub: http://github.com/
 .. _Git Handbook: https://guides.github.com/introduction/git-handbook/
