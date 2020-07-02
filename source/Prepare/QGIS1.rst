@@ -15,6 +15,7 @@ Installation of QGIS
    installation instructions for Windows
 
    -  The differences for **Other Operating systems** are also discussed in the video.
+- If you need to `update QGIS - go to need help <NeedHelp>`
 
 **Next:** You are now ready to install UMEP
 
