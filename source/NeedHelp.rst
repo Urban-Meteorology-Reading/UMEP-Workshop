@@ -65,3 +65,5 @@ If you are having any kind of issues and/or need to ask questions to one of the 
 -  `Recommended extensions <JN0>`
 
 **Python**
+
+- `Starting help for Python <Py1>`
