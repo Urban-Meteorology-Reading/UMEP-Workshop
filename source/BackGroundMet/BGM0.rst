@@ -3,6 +3,8 @@
 Background Meteorology
 ----------------------
 
-This is just some simple material. There are many books and papers that can provide more thorough mateiral
+This followins is some very introductory  material, there are many books and papers that can provide more thorough covereage of each of these topics.
 
-`Surface Energy Balance <SEB>`
+- `Surface Energy Balance <SEB>`
+
+- `Glossary <BGM1>`
