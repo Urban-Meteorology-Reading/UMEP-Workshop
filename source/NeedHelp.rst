@@ -52,9 +52,10 @@ If you are having any kind of issues and/or need to ask questions to one of the 
 **QGIS**
 
 - `QGIS software <https://qgis.org/en/site/>`__
+- How to Update QGIS
 - `QGIS manual <https://docs.qgis.org/3.10/en/docs/index.html>`__
 - `QGIS bug reporter <https://github.com/qgis/QGIS/issues>`__
-- `A Gentle Introcudtion to GIS <https://docs.qgis.org/3.10/en/docs/gentle_gis_introduction/index.html>`__
+- `A Gentle Introduction to GIS <https://docs.qgis.org/3.10/en/docs/gentle_gis_introduction/index.html>`__
 - `QGIS Training Manual <https://docs.qgis.org/3.10/en/docs/training_manual/index.html>`__
 
 
