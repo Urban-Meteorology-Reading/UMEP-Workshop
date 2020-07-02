@@ -60,20 +60,20 @@ Contributors to the workshop
 - Vicky Lucas (and others) at IEA, University of Reading (Videos)
 
 Acknowledgements
-~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
 
 - ERC Synergy urbisphere
 - Newton Fund/Met Office CSSP China
 - NERC
 - FORMAS: Swedish Research Council for Sustainable Development
 
-A large number of individuals have worked on the development of the software (SUEWS, UMEP, SuPy) and the collection of the various datasets that are used in the tutorials. These are all gratefully acknowledged. 
+A large number of individuals have worked on the development of the software (SUEWS, UMEP, SuPy) and the collection of the various datasets that are used in the tutorials. These are all gratefully acknowledged.
 
 We thank the following organisations whose **data** are used, including:
 
 - AmeriFlux
 - ECMWF ERA5
-- LUMA 
+- LUMA
 
 Feedback
 ~~~~~~~~

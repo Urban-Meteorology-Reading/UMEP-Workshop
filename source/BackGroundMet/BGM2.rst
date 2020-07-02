@@ -15,7 +15,7 @@ to model the latent heat flux using the `Penman Monteith equation
 Albedo
 ------
 
-From the short-wave radiation (K), within the :eq:`qnet` :ref:`radB` the albedo (`\alpha`) is calculated:
+From the short-wave radiation (K), within the :eq:`qnet` :ref:`radB` the albedo (:math:`\alpha`) is calculated:
 
 .. math::
     :label: alb
@@ -40,7 +40,7 @@ able to get a lot of samples rapidly.
 
 .. math::
 
-    𝑧_0 = (𝑧−𝑑) exp ⁡[−(𝑈_𝑧 𝜅)/𝑢_∗ ]
+    z_0 = (z-d) \exp[−(U_z \kappa)/u_∗]
 
 
 
@@ -48,7 +48,7 @@ able to get a lot of samples rapidly.
 How does it vary with wind direction?
 '''''''''''''''''''''''''''''''''''''''
 
-A rule of thumb for calculating d is to assume it is ~0.7 `h` where `h` is
+A rule of thumb for calculating d is to assume it is :math:`~0.7 h` where :math:`h` is
 the height of the canopy. As the heights may vary with direction you can
 determine how much this may vary. What are expected to be consistent
 sectors?
@@ -56,6 +56,6 @@ sectors?
 The wind profile can also be used to determine :math:`z_0` and :math:`d`
 if there are more than 2 levels in the profile. This requires fitting a
 straight line (linear regression) through the data to determine the
-intercept, which provides the `z_0+d` value.
+intercept, which provides the :math`z_0+d` value.
 See equations 1-2 in `Grimmond et al. (1998) <https://doi.org/10.1023/A:1001525622213>`_
 

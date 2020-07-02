@@ -68,7 +68,7 @@ In more complex environments the storage heat flux (heating and cooling) of the 
 
 
 The turbulent heat fluxes and momentum can be measured using Eddy
-Covariance techniques which requires a sonic anemometer and an infrared gas analyser. 
+Covariance techniques which requires a sonic anemometer and an infrared gas analyser.
 An alternative method use scintillometry
 
 As the source area of EC and scintillometer sensors varies with wind direction, fetch, stability etc, the surface characteristics may change with time if the fetch is not homogeneous.

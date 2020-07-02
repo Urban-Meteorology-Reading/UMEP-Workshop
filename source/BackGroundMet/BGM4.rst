@@ -17,7 +17,7 @@ and the **Monin‑Obukhov stability parameter**
 
     \frac{z'}{L} = - \frac{k\left( z - d \right)\frac{g}{\theta_{0}}\frac{H}{\rho c_{p}}}{u_{*}^{3}}
 
-where `L` is the **Obukhov length** and :math:`z^{’}= z - d`. NB: the surface
+where :math:`L` is the **Obukhov length** and :math:`z^{’}= z - d`. NB: the surface
 temperature :math:`\theta_0` is an absolute temperature (units: K). The
 logarithmic profile relation can be rewritten for wind speed to include
 the stability corrections
@@ -34,7 +34,7 @@ and similarly, for potential temperature:
 
     \bar{\theta}(z) = \theta_{0} + \frac{T_{*}}{k}\left\lbrack \ln\left( \frac{z - d}{z_{h}} \right) - \Psi_{h}\left( \frac{z - d}{L} \right) + \Psi_{h}\left( \frac{z_{h}}{L} \right) \right\rbrack
 
-where the **turbulent temperature scale** `T_*` is given by
+where the **turbulent temperature scale** :math:`T_*` is given by
 :math:`T_{*} = - \overline{w^{'}T^{'}}/u_{*} = - Q_{H}/(\rho C_{p}u_{*})`,
 :math:`\Psi_{m}` is the **integral stability correction function** for momentum
 and :math:`\Psi_{h}` is the integral stability correction function for heat.
@@ -83,6 +83,6 @@ Other stability metrics include the Richardson number:
     R_{B}=\frac{\left(g / T_{v}\right) \Delta \theta_{v} \Delta z}{(\Delta U)^{2}+(\Delta V)^{2}}
 
 where :math:`g` acceleration due to gravity, :math:`T_V` virtual temperature, :math:`\Delta \theta_{v}` change (difference) in potential temperature, :math:`\Delta z` change in height
-:math:`\Delta U` change in :math:`U` wind-speed, and :math:`\Delta V` change in `:math:`V` wind-speed.
+:math:`\Delta U` change in :math:`U` wind-speed, and :math:`\Delta V` change in :math:`V` wind-speed.
 
 
