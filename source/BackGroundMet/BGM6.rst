@@ -6,8 +6,8 @@
 The storage heat flux :math:`\Delta Q_S` is the net energy stored or released by changes in sensible heat within the canopy air layer, roughness elements (e.g. vegetation, buildings in an urban environment), and the ground.
 Knowledge of :math:`\Delta Q_S` is crucial to a wide range of processes and applications: from modelling turbulent heat transfer and boundary layer development to predicting soil thermal fields.
 
-In rural sites, or simple bare soil sites, the flux may be a small fraction of the net all-wave radiation (Oliphant et al.,2004).
-However, in areas where there is more mass, such as cities, the term becomes much more significant (Kotthaus and Grimmond, 2014a) and a key element of the SEB and well-known effects such as the urban heat island.
+In rural sites, or simple bare soil sites, the flux may be a small fraction of the net all-wave radiation (Oliphant et al., 2004).
+However, in areas where there is more mass, such as cities, the term becomes much more significant (`Kotthaus and Grimmond, 2014a<https://doi.org/10.1016/j.uclim.2013.10.002>`_) and a key element of the SEB and well-known effects such as the urban heat island.
 
 
 Objective Hysteresis Model
