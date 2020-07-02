@@ -25,18 +25,6 @@ From the short-wave radiation (K), within the :eq:`qnet` :ref:`radB` the albedo 
 using the incoming (:math:`\downarrow`) and outgoing (:math:`\uparrow`) shortwave radiation
 (K) fluxes.
 
-Typical Values
-''''''''''''''''''''''''''
-
-.. note::
-    The table below is based crowd-sourced dataset at `Albedo Collection <https://github.com/BLM-UoR/albedo-collection>`_.
-    Please `report issues there <https://github.com/BLM-UoR/albedo-collection/issues>`_ if any found.
-
-.. csv-table:: Calculated values of albedo at selected AMF sites
-    :url: https://github.com/BLM-UoR/albedo-collection/raw/master/albedo.csv
-    :widths: auto
-    :class: longtable
-    :header-rows: 1
 
 .. _roughness:
 
@@ -55,18 +43,7 @@ able to get a lot of samples rapidly.
     𝑧_0 = (𝑧−𝑑) exp ⁡[−(𝑈_𝑧 𝜅)/𝑢_∗ ]
 
 
-.. csv-table:: Literature values of roughness parameters collected by students of BLM class
-    :url: https://github.com/BLM-UoR/sfchar-collection/raw/master/roughness-ref.csv
-    :widths: auto
-    :class: longtable
-    :header-rows: 1
 
-
-.. csv-table:: Calculated values of roughness parameters at selected AMF sites
-    :url: https://github.com/BLM-UoR/sfchar-collection/raw/master/roughness-cal.csv
-    :widths: auto
-    :class: longtable
-    :header-rows: 1
 
 How does it vary with wind direction?
 '''''''''''''''''''''''''''''''''''''''
