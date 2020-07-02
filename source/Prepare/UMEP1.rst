@@ -24,5 +24,7 @@ Installation of UMEP
    `these <https://github.com/sunt05/SuPy/blob/d48f58d8f35e852acd4e205ca4b0a3c9adcdebf2/src/setup.py#L40-L58>`__
    packages.
 
+- If you need to `update QGIS - go to need help <NeedHelp>`
+
 **Next:** You are now ready to run UMEP.
 
