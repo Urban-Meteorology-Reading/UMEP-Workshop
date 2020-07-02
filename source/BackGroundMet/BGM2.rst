@@ -57,6 +57,5 @@ The wind profile can also be used to determine :math:`z_0` and :math:`d`
 if there are more than 2 levels in the profile. This requires fitting a
 straight line (linear regression) through the data to determine the
 intercept, which provides the `z_0+d` value.
-See equations 1-2 in :cite:`grimmond1998aerodynamic`.
+See equations 1-2 in `Grimmond et al 1998 <https://doi.org/10.1023/A:1001525622213>`_
 
-For `References <References.rst>`__ see list
