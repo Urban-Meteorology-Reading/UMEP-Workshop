@@ -11,7 +11,7 @@ Also, it supports more programming languages than just Python: Julia, R, etc.
 In this course, we will only use *Python* for its well developed ecosystem in
 data science and scientific computing.
 
-Below we only cover several key points for using Jupyter Notebooks
+Below we only cover several key points for using Jupyter Notebooks.
 A more complete tutorial can be found
 `here <https://www.dataquest.io/blog/jupyter-notebook-tutorial/>`__.
 
