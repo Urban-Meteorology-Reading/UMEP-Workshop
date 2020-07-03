@@ -15,10 +15,13 @@ Prior to the workshop, complete the steps in this section but not before we tell
    ../Hist1
    
  
-**Backgoud Material**
+**Backgroud Material**
+
+Having a quick look at these links may help you know w you can return to when you need some thelp
 
 - `Key papers and manuals <Background>`
-- ` Meteorology <BGM0>`
+- 'Helpful links <NeedHelp>`
+- `Meteorology <BGM0>`
 - `Metrics for Model evaluation <BGE0>`
 
 
