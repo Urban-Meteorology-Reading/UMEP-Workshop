@@ -16,7 +16,7 @@ As software is frequently updated, we give the versions that we will use in the 
      - Installation
    * - QGIS
      - 3.14
-     - 9:00
+     -  Update
      -  `Install <QGIS1>`
    * - UMEP
      - 12:30
@@ -25,11 +25,11 @@ As software is frequently updated, we give the versions that we will use in the 
    * - FUSION
      - 4.00
      -  `Used <QGIS3>`
-     -  
+     -  Install in tutorial
    * - SuPY
      - 
      - `Update <https://supy.readthedocs.io/en/latest/faq.html#how-can-i-upgrade-supy-to-an-up-to-date-version>`_
-     - 
+     - `Installed in <SuPy>` tutorial
    * - SUEWS
      -  V2020a
      -  See SuPY or if `standalone <https://suews-docs.readthedocs.io/en/latest/index.html>`_
