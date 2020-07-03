@@ -3,7 +3,7 @@
 SuPy - calculating own parameters
 ---------------------------------------
 
-**This will take:**  ~ XX minutes
+**This will take:**  ~40 minutes
 
 **Prior to this activity**
 

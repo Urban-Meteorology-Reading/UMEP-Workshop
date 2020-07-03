@@ -3,7 +3,7 @@
 SuPy - interacting with external models
 ---------------------------------------
 
-**This will take:**  ~30 minutes
+**This will take:**  ~25 minutes
 
 **Prior to this activity**
 
