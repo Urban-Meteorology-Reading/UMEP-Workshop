@@ -1,6 +1,8 @@
 .. _SEB:
 
-**Surface energy balance**
+
+Surface energy balance
+~~~~~~~~~~~~~~~~~~~~~~
 
 The surface energy balance (SEB) can be defined for an extensive simple
 surface as (units: :math:`\mathrm{W \ m^{-2}}`):
@@ -34,7 +36,8 @@ The Bowen ratio (:math:`\beta`) is
 
 .. _radB:
 
-**Radiation balance**
+Radiation balance
+~~~~~~~~~~~~~~~~~
 
 
 The :math:`Q^*` (or :math:`R_n`) within the `SEB <SEB>` consists of:
