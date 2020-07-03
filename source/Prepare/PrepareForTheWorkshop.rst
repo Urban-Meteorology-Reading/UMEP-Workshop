@@ -9,6 +9,7 @@ Prior to the workshop, complete the steps in this section but not before we tell
    Intro1
    Prog1
    GH1
+   Version
    QGIS1
    UMEP1
    ../Hist1
