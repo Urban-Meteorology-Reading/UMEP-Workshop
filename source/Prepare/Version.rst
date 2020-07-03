@@ -4,9 +4,9 @@ Software Version
 -----------------
 
 
-As software is frequently updated, we give the versions that we will use in the workshop. If you need to `update your version <NeedHelp>` please do so before the workshop. If you do not have thftwar installed please see the installation pages in this doucment.
+As software is frequently updated, we give the versions that we will use in the workshop. Please update or install QGIS and UMEP before the workshop. The rest you will install/update during thw workshop.
 
-.. list-table:: Software Version
+.. list-table:: Software Version and methods to install or update
    :header-rows: 1
    :widths: 20, 20, 20, 20
 
@@ -25,7 +25,7 @@ As software is frequently updated, we give the versions that we will use in the 
    * - FUSION
      - 4.00
      - `Used <GIS3>`
-     -  Install in tutorial
+     - `Install in <GIS3>` tutorial
    * - SuPY
      -  2020.6.30
      - `Update <https://supy.readthedocs.io/en/latest/faq.html#how-can-i-upgrade-supy-to-an-up-to-date-version>`_
@@ -33,4 +33,4 @@ As software is frequently updated, we give the versions that we will use in the 
    * - SUEWS
      -  V2020a
      -  See SuPY or if `standalone <https://suews-docs.readthedocs.io/en/latest/index.html>`_
-     - 
+     -  `Installed in <SuPy>` tutorial
