@@ -12,7 +12,7 @@ Jupyter Notebooks: setting up your research-oriented coding environment
 
 **Activity**
 
-- Video *******************
+- Video ******************************************************************************
 
 - Basic operations (L)
    - command/edit mode
