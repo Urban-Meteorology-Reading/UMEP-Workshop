@@ -17,20 +17,20 @@ As software is frequently updated, we give the versions that we will use in the 
    * - QGIS
      - 3.14
      - 9:00
-     -  10:00
+     -  `Install <QGIS1>`
    * - UMEP
      - 12:30
-     - `Update <https://umep-docs.readthedocs.io/en/latest/Getting_Started.html#updating-the-umep-plugin>
-     - 14:30   
+     - `Update <https://umep-docs.readthedocs.io/en/latest/Getting_Started.html#updating-the-umep-plugin>`_
+     - `Install <UMEP1>` 
    * - FUSION
      - 4.00
-     - 9:00
-     -  10:00
+     -  `Used <QGIS3>`
+     -  
    * - SuPY
      - 
      - `Update <https://supy.readthedocs.io/en/latest/faq.html#how-can-i-upgrade-supy-to-an-up-to-date-version>`_
-     - `Update <https://supy.readthedocs.io/en/latest/faq.html#how-can-i-upgrade-supy-to-an-up-to-date-version>`_
+     - 
    * - SUEWS
-     - 
-     - 
+     -  V2020a
+     -  See SuPY or if `standalone <https://suews-docs.readthedocs.io/en/latest/index.html>`_
      - 
