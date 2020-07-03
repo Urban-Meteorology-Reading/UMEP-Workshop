@@ -15,12 +15,3 @@ This following is some very introductory material, there are many books and pape
    BGM5
    BGM1
    
-- `Surface Energy Balance <SEB>`
-- `Radiation Balance <radB>`
-- `Albedo <albedo>`
-- `Storage heat flux <QS>`
-- `Roughness length <roughness>`
-- `Stability <stab>`
-- `Leaf Area Index LAI>`
-- `Wind profile <WP>`
-- `Glossary <BGM1>`
