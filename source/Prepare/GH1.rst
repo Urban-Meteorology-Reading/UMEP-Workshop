@@ -12,13 +12,13 @@ Please search for GitHub login and create an account.
 New to GitHub
 ~~~~~~~~~~~~~
 
-If you are new to GitHub, here is a quick introduction by GitHub:
+GitHub defines itself as:
 
-    "GitHub is a code hosting platform for version control and collaboration.
+    "a code hosting platform for version control and collaboration.
     It lets you and others work together on projects from anywhere."
 
 A good tutorial for GitHub can be found `here <https://guides.github.com/activities/hello-world/>`__.
-Also, you may want to go through the following tutorials to beome familiar with git and GitHub:
+The following tutorials will help you beome familiar with git and GitHub:
 
     #. `Git Handbook`_: Learn about version control—in particular, Git, and how it works with GitHub.
     #. `GitHub-based workflow`_: This guide explains how and why GitHub flow works.
