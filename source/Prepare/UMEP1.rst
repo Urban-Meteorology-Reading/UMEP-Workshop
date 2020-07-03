@@ -13,6 +13,12 @@ Installation of UMEP
 
    -  Note other operating systems will look different
 
+   .. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="350" src="https://www.youtube.com/embed/R3QQQtf7zWU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
 -  See the `Getting Started section of the manual <https://umep-docs.readthedocs.io/en/latest/Getting_Started.html>`__
    for written instructions
 
