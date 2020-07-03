@@ -19,6 +19,8 @@ Preparation for using SuPy
 - *Installation of Jupyter Notebooks - follow the appropriate instructions for your operating system*
 - If you already have Python and Jupyter Notebooks installed you do not need to do this. If you are a **Windows** user, `install the QGIS version <jpt_win>` **OR** you can go to `Anaconda-based approach <jpt_gen>` for **General (all platforms)**.
 
+ - if you already have python3 installed then you can *******
+
 .. _jpt_win:
 
 **Windows+QGIS:** ``osgeo``-based approach
