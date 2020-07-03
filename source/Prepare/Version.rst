@@ -31,6 +31,6 @@ As software is frequently updated, we give the versions used in the workshop. **
      - `Update <https://supy.readthedocs.io/en/latest/faq.html#how-can-i-upgrade-supy-to-an-up-to-date-version>`_
      - `Installed in <SuPy>` tutorial
    * - SUEWS
-     -  V2020a
+     -  V2020b
      -  See SuPY or if `standalone <https://suews-docs.readthedocs.io/en/latest/index.html>`_
      -  `Installed in <SuPy>` tutorial
