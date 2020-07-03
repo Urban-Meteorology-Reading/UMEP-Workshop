@@ -13,8 +13,12 @@ Prior to the workshop, complete the steps in this section but not before we tell
    UMEP1
    ../Jupyter/JN0
    ../Hist1
-   ../BackGroundMet/BGM0
-   ../BackGroundEval/BGE0
    
-   
-The `Background` provides links to key papers and manuals.
+ 
+**Backgoud Material**
+
+- `Key papers and manuals <Background>`
+- ` Meteorology <BGM0>`
+- `Metrics for Model evaluation <BGE0>`
+
+
