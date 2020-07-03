@@ -51,7 +51,7 @@ and the **Monin‑Obukhov stability parameter**
 
     \frac{z'}{L} = - \frac{k\left( z - d \right)\frac{g}{\theta_{0}}\frac{H}{\rho c_{p}}}{u_{*}^{3}}
 
-where :math:`L` is the **Obukhov length** and :math:`z^’= z - d`. NB: the surface
+where :math:`L` is the **Obukhov length** and :math:`z^/’= z - d`. NB: the surface
 temperature :math:`\theta_0` is an absolute temperature (units: K). The
 logarithmic profile relation can be rewritten for wind speed to include
 the stability corrections
