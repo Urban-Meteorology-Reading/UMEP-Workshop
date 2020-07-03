@@ -39,6 +39,6 @@ Trees porosity may change through the year with phenology. For example, when dec
 
 -  Indirect measurements
     * Measurements (above and below the canopy) of radiation (e.g. using LAI-2000, LI-COR) which are then used to infer LAI
-    * Satellite based products e.g. MODIS)
+    * Satellite based products e.g. MODIS
 
 
