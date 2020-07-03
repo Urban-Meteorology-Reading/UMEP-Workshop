@@ -55,9 +55,10 @@ Hosted By
 Contributors to the workshop
 
 - Kit Benjamin (tester of all the Workshop activities)
-- Nils Wallenberg (GIS and UMEP assistant during the Workshop)
-- Oskar Bäcklin (GIS and UMEP assistant during the Workshop)
-- Vicky Lucas (and others) at IEA, University of Reading (Videos)
+- Vicky Lucas, Sonja Thoms(and others) at IEA, University of Reading (Videos)
+- Hamid Omidvar, Meg Stretton (Jupyter videos)
+- Nils Wallenberg and Oskar Bäcklin (GIS and UMEP assistant during the Workshop)
+
 
 Acknowledgements
 ~~~~~~~~~~~~~~~~
