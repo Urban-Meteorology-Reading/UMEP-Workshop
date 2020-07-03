@@ -84,11 +84,6 @@ html_context = {
 # Register the theme as an extension to generate a sitemap.xml
 # extensions.append("guzzle_sphinx_theme")
 
-# Guzzle theme options (see theme.conf for more information)
-html_theme_options = {
-    # Set the name of the project to appear in the sidebar
-    "project_nav_name": project,
-}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -125,9 +120,9 @@ rst_epilog = r"""
 
 .. only:: html
 
-    .. tips::
+    .. tip::
 
-      1. Stuck? the `help page <NeedHelp>` is a useful page to start.
+      1. Stuck? the :ref:`help page <NeedHelp>` is a useful page to start.
       2. Please report workshop manual issues at `GitHub Issues`_. Please go from the page with problem as an automatical link will be inserted. Thanks.
 """
 
@@ -179,4 +174,4 @@ def source_read_handler(app, docname, source):
 def setup(app):
     app.connect('source-read', source_read_handler)
     # Fix equation formatting in the RTD-theme
-    app.add_stylesheet('fix-eq.css')
+    app.add_css_file('fix-eq.css')
