@@ -1,7 +1,7 @@
 .. _JN1:
 
 Jupyter Notebooks: setting up your research-oriented coding environment
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------------------------
 
 **Time taken will be:** ~ xx min
 
@@ -12,7 +12,7 @@ Jupyter Notebooks: setting up your research-oriented coding environment
 
 **Activity**
 
-- Lecture or Video
+- Video *******************
 
 - Basic operations (L)
    - command/edit mode
