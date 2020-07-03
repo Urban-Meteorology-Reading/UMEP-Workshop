@@ -15,7 +15,7 @@ Prior to the workshop, complete the steps in this section but not before we tell
    ../Hist1
    
  
-**Backgroud Material**
+**Background Material**
 
 Having a quick look at these links may help you know w you can return to when you need some thelp
 
