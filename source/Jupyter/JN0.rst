@@ -26,20 +26,19 @@ A good guide can be found `here <https://towardsdatascience.com/jupyter-notebook
 Among a variety of extensions, the following are considered essential and particularly
 useful for this course, and many other data-analysis-oriented ones:
 
-    #. Table of Contents: this extension helps building well-structured notebooks and allows easier navigation.
+    #. *Table of Contents*: this extension helps building well-structured notebooks and allows easier navigation.
 
-    #. Collapsible Headings: this tool further enhances the power of the above one by allowing collasible sections, particularly useful for large notebooks.
+    #. *Collapsible Headings*: this tool further enhances the power of the above one by allowing collasible sections, particularly useful for large notebooks.
 
-    #. ExecuteTime: this gadget reports the executation time of each cell so you can always have a measure of the code efficiency.
+    #. *ExecuteTime*: this gadget reports the executation time of each cell so you can always have a measure of the code efficiency.
 
-    #. Code prettify: this tool quickly formats your Python code with a pretty and tidy layout.
+    #. *Code prettify*: this tool quickly formats your Python code with a pretty and tidy layout.
 
 
-Best Practices
+Best Practice
 ----------------------------------
 
 A good guide can be found `here <https://towardsdatascience.com/jupyter-notebook-best-practices-f430a6ba8c69>`__.
 
-And we emphasise that **structuring your notebook** is the key.
-`This post <https://towardsdatascience.com/set-your-jupyter-notebook-up-right-with-this-extension-24921838a332>`__ helps you
-set up your Notebook with a good structure.
+**Structuring your notebook** is key. `This post <https://towardsdatascience.com/set-your-jupyter-notebook-up-right-with-this-extension-24921838a332>`__ helps you
+set up a Notebook with a good structure.
