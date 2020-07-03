@@ -3,7 +3,7 @@
 Python Tutorials
 ---------------
 
-The following tutorials show some basic data analysis and visualisation techniques using Python.
+These tutorials demonstrate some basic data analysis and visualisation techniques using Python.
 
 .. note:: These tutorials are in Jupyter notebooks and can be executed and viewed online.
 
