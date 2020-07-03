@@ -1,7 +1,7 @@
 .. _BEG1:
 
 Metrics for Model evaluation
-==============================
+----------------------------
 
 Methods commonly used to evaluate model performance, include:
 
