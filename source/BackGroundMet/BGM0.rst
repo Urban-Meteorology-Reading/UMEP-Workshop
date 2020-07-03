@@ -1,6 +1,6 @@
 .. _BGM0:
 
-Some basic principles
+Basic principles
 --------------------------
 
 Some introductory material, that is covered in many books and papers more thoroughly.
