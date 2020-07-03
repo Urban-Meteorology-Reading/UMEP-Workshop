@@ -1,4 +1,4 @@
-.._PY0:
+.. _PY0:
 
 Background to Python and Jupyter Notebooks
 ------------------------------------------
