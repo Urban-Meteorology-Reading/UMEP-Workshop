@@ -49,10 +49,10 @@ The Teams channel will be open for chat, and you can go into a DG (Discussion Gr
      - `What else can UMEP do? <WhatElseCanUMEP>`
      - Paris Olympics planning meeting
    * - Friday am
-     - `SuPY <SuPy>`
+     - `SuPy <SuPy>`
      -
    * - Friday pm
-     - `SuPY <SuPy>` and Wrap-up session
+     - `SuPy <SuPy>` and Wrap-up session
      -
 
 
