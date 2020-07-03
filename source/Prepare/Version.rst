@@ -16,7 +16,7 @@ As software is frequently updated, we give the versions that we will use in the 
      - Installation
    * - QGIS
      - 3.14
-     - Update
+     - QGIS gives a message & directions if a newer version is available
      - `Install <QGIS1>`
    * - UMEP
      - 12:30
