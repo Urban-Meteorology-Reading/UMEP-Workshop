@@ -1,7 +1,7 @@
 .. _PY2:
 
 Python Tutorials
----------------
+----------------
 
 These tutorials demonstrate some basic data analysis and visualisation techniques using Python.
 
