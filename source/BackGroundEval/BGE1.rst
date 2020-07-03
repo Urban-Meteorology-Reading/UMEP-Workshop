@@ -11,8 +11,8 @@ Methods commonly used to evaluate model performance, include:
 
     \mathrm{MAE}=\frac{1}{N} \sum_{i=1}^{N}\left|y_{i}-\hat{y}_{i}\right|
 
-where `N` is number of observations, `y_i` the actual expected output
-and `\hat{y}_{i}` the model’s prediction
+where :math:`N` is number of observations, :math:`y_i` the actual expected output
+and :math:`\hat{y}_{i}` the model’s prediction
 (same notations below if not indicated otherwise).
 
 * Mean bias error (MBE)
