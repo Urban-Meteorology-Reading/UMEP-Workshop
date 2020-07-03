@@ -56,7 +56,7 @@ Contributors to the workshop
 
 - Kit Benjamin (tester of all the Workshop activities)
 - Vicky Lucas, Sonja Thoms (and others) at IEA, University of Reading (Videos)
-- Hamid Omidvar, Meg Stretton (Jupyter videos)
+- `Hamid Omidvar <https://www.researchgate.net/profile/Hamidreza_Omidvar/experience>`_ (Jupyter videos, Python/Jupyter tutorials), Meg Stretton (Jupyter Video)
 - Nils Wallenberg and Oskar Bäcklin (GIS and UMEP assistants during the Workshop)
 
 
