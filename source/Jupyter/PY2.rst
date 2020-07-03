@@ -10,5 +10,6 @@ These tutorials demonstrate some basic data analysis and visualisation technique
 
 .. toctree::
   :maxdepth: 1
+  :glob:
 
-  tutorials/*
+  tutorials/tutorial*
