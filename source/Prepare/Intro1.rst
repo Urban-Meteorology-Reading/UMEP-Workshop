@@ -48,9 +48,9 @@ People
 
 Hosted By
 
-- Sue Grimmond
-- Fredrick Lindberg (lead UMEP developer)
-- Ting Sun (lead SuPy developer and current lead on SUEWS)
+- `Sue Grimmond <https://research.reading.ac.uk/meteorology/people/sue-grimmond/>`_
+- `Fredrick Lindberg (lead UMEP developer) <https://www.researchgate.net/profile/Fredrik_Lindberg2>`_
+- `Ting Sun (lead SuPy developer and current lead on SUEWS) <https://www.researchgate.net/profile/Ting_Sun2>`
 
 Contributors to the workshop
 
