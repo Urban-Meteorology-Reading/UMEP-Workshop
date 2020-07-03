@@ -51,6 +51,7 @@ extensions = [
     'sphinx.ext.mathjax',
     # "recommonmark",
     "sphinx_rtd_theme",
+    'sphinxcontrib.yt',
     # 'guzzle_sphinx_theme',
 ]
 

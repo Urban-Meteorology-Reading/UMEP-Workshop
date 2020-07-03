@@ -14,11 +14,13 @@ Installation of QGIS
 -  This `Video <https://www.youtube.com/watch?v=b9FwI0GyAGQ>`__  gives detailed
    installation instructions for Windows
 
+   .. youtube:: https://www.youtube.com/watch?v=b9FwI0GyAGQ
+
+
    -  The differences for **Other Operating systems** are also discussed in the video.
+
 - If you need to `update QGIS - go to need help <NeedHelp>`
 
 **Next:** You are now ready to install UMEP
-
-
 
 

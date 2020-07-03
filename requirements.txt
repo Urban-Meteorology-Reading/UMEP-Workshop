@@ -1,2 +1,4 @@
 nbsphinx
 sphinx>3
+sphinxcontrib-packages
+sphinxcontrib.yt
