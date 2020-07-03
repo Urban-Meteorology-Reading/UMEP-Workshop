@@ -15,11 +15,11 @@ UNDER PREPARATION
 
 **Activity**
 
--  Get aquainted with the ERA5 meteorological download tool in UMEP.
+-  Get acquainted with the ERA5 meteorological download tool in UMEP.
 
--  Get aquainted with the Meteorological Pre-processor in UMEP.
+-  Get acquainted with the Meteorological Pre-processor in UMEP.
 
--  `Video link <>`__ UNDER PREPARETION
+-  `Video link <>`__ UNDER PREPARATION
 
 
 **Constraints**
