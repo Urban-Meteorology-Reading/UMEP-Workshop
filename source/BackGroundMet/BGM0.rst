@@ -3,7 +3,7 @@
 Background Meteorology
 ----------------------
 
-This followingis some very introductory material, there are many books and papers that can provide more thorough coverage of each of these topics.
+This following is some very introductory material, there are many books and papers that can provide more thorough coverage of each of these topics.
 
 
 - `Surface Energy Balance <SEB>`
