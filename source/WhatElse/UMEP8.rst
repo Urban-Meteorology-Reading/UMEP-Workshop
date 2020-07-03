@@ -16,5 +16,4 @@ Workflow patterns - UMEP for the QGIS Processing toolbox
 
 -  Examples of workflow patterns in UMEP and introduction to `UMEP for processing <https://umep-docs.readthedocs.io/en/latest/UMEPforProcessing.html>`__.
 
--  `Tutorial
-   link <>`__ UNDER PREPARETION
+-  Tutorial **************************************************
