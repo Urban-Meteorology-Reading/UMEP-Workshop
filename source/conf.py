@@ -36,13 +36,15 @@ release = datetime.date.today().isoformat()
 
 default_role='any'
 
-source_suffix = ['.rst']
+source_suffix = ['.rst', '.md']
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
     'nbsphinx',
+    'sphinx_copybutton',  # for "copy to clipboard" buttons
+    'sphinx_gallery.load_style',  # load CSS for gallery (needs SG >= 0.6)
     'sphinx.ext.autodoc',
     'sphinx.ext.napoleon',
     'sphinx.ext.mathjax',
