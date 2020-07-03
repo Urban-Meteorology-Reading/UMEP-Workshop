@@ -1,7 +1,7 @@
 Preparing for the workshop
 --------------------------
 
-Prior to the workshop, complete the steps in the section but not before we tell you it is ready as we are updating a few things (and you would need to update the software).
+Prior to the workshop, complete the steps in this section but not before we tell you it is ready as we are updating a few things (and you would need to update the software).
 
 .. toctree::
    :maxdepth: 2
