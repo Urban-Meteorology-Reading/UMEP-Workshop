@@ -3,7 +3,7 @@
 Background Meteorology
 ----------------------
 
-This followins is some very introductory  material, there are many books and papers that can provide more thorough covereage of each of these topics.
+This followingis some very introductory material, there are many books and papers that can provide more thorough coverage of each of these topics.
 
 
 - `Radiation Balance <radB>`
