@@ -14,7 +14,7 @@ First QGIS and UMEP activity
 
 -  Simple example of how to create shadow maps using QGIS and UMEP.
 
--  Video link - UNDER PREPARATION
+-  Video link ***************************************
 
 -  `Tutorial Link <https://umep-docs.readthedocs.io/projects/tutorial/en/latest/Tutorials/DailyShading.html>`__
 
