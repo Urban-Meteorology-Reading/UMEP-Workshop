@@ -128,8 +128,7 @@ rst_epilog = r"""
     .. note::
 
       1. Stuck? the `help page <NeedHelp>` is a useful page to start.
-      2. Please report workshop manual issues at `GitHub Issues`_. Please go from the page with problem as an automatical link will be inserted. Thanks
-
+      2. Please report workshop manual issues at `GitHub Issues`_. Please go from the page with problem as an automatical link will be inserted. Thanks.
 """
 
 def source_read_handler(app, docname, source):
