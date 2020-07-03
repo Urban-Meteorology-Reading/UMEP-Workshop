@@ -59,8 +59,8 @@ The Teams channel will be open for chat, and you can go into a DG (Discussion Gr
 **Structure**
 
 -  Each section has its own page with links to relevant materials.
--  Initial material is general, later topics are more focused
--  The amount of time needed to undertake a topic is given
+-  Initial material is general, later topics are more focused.
+-  The amount of time needed to undertake a topic is given.
 -   If you have gone to a tutorial site (these are hosted separately) make certain you return to the Workshop pages! At the end of each Workshop page the 'Next' button takes you forward.
 -  On each page there is a link to the `Need help page <NeedHelp>` where you will see various ways to move forward if someone is not available to help you (suggestions for improving this would be good).
 
