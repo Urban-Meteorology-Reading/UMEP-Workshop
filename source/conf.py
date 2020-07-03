@@ -133,10 +133,10 @@ exclude_patterns = ['_build', '**.ipynb_checkpoints']
 html_sourcelink_suffix = ''
 
 # Execute notebooks before conversion: 'always', 'never', 'auto' (default)
-nbsphinx_execute = 'never'
+nbsphinx_execute = 'auto'
 
 # Use this kernel instead of the one stored in the notebook metadata:
-nbsphinx_kernel_name = 'python3'
+# nbsphinx_kernel_name = 'python3'
 
 # List of arguments to be passed to the kernel that executes the notebooks:
 nbsphinx_execute_arguments = ['--InlineBackend.figure_formats={"png", "pdf"}']
@@ -155,6 +155,47 @@ nbsphinx_prompt_width = '8ex'
 
 # If window is narrower than this, input/output prompts are on separate lines:
 nbsphinx_responsive_width = '700px'
+
+
+# This is processed by Jinja2 and inserted before each notebook
+nbsphinx_prolog = r"""
+{% set docname = env.doc2path(env.docname, base='docs') %}
+
+.. only:: html
+
+    .. role:: raw-html(raw)
+        :format: html
+
+    .. nbinfo::
+
+        This page was generated from `{{ docname }}`__.
+        Interactive online version:
+        :raw-html:`<a href="https://mybinder.org/v2/gh/Urban-Meteorology-Reading/UMEP-Workshop.io/master?filepath={{ docname }}"><img alt="Binder badge" src="https://mybinder.org/badge.svg" style="vertical-align:text-bottom"></a>`
+        Slideshow:
+        :raw-html:`<a href="https://nbviewer.jupyter.org/format/slides/github/Urban-Meteorology-Reading/UMEP-Workshop.io/tree/master/{{ docname }}"><img alt="Binder badge" src="https://img.shields.io/badge/render-nbviewer-orange.svg" style="vertical-align:text-bottom"></a>`
+
+    __ https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/blob/master/{{ docname }}
+
+.. raw:: latex
+
+    \vfil\penalty-1\vfilneg
+    \vspace{\baselineskip}
+    \textcolor{gray}{The following section was generated from
+    \texttt{\strut{}{{ docname }}}\\[-0.5\baselineskip]
+    \noindent\rule{\textwidth}{0.4pt}}
+    \vspace{-2\baselineskip}
+"""
+
+# This is processed by Jinja2 and inserted after each notebook
+nbsphinx_epilog = r"""
+.. raw:: latex
+
+    \textcolor{gray}{\noindent\rule{\textwidth}{0.4pt}\\
+    \hbox{}\hfill End of
+    \texttt{\strut{}{{ env.doc2path(env.docname, base='doc') }}}}
+    \vfil\penalty-1\vfilneg
+"""
+
 
 
 def source_read_handler(app, docname, source):
