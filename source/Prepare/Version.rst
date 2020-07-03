@@ -24,7 +24,7 @@ As software is frequently updated, we give the versions that we will use in the 
      - `Install <UMEP1>` 
    * - FUSION
      - 4.00
-     - `Used <QGIS3>`
+     - `Used <GIS3>`
      -  Install in tutorial
    * - SuPY
      -  2020.6.30
