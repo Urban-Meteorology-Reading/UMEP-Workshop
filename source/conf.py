@@ -202,6 +202,11 @@ def source_read_handler(app, docname, source):
         return
     src = source[0]
     # base location for `docname`
+    if ('"metadata":' in src) and ('"nbformat":' in src):
+        # consider this as an ipynb
+        return
+        # print('docname',docname)
+        # print('source',source)
     str_base='source'
     str_repo=html_context['github_repo']
     str_GHPage=f"""
