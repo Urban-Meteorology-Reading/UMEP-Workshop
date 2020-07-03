@@ -1,7 +1,7 @@
 .. _PY2:
 
 Python Tutorials
-=================
+---------------
 
 The following tutorials show some basic data analysis and visualisation techniques using Python.
 
@@ -10,6 +10,6 @@ The following tutorials show some basic data analysis and visualisation techniqu
 
 .. toctree::
   :maxdepth: 1
-  :glob:
+
 
   tutorials/*
