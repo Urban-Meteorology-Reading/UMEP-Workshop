@@ -17,11 +17,11 @@ Prior to the workshop, complete the steps in this section but not before we tell
  
 **Background Material**
 
-Having a quick look at these links may help you know w you can return to when you need some thelp
+Take a quick look at the following so you can return to then if you need some help
 
 - `Key papers and manuals <Background>`
 - `Helpful links <NeedHelp>`
 - `Meteorology <BGM0>`
-- `Metrics for Model evaluation <BGE0>`
+- `Metrics for model evaluation <BGE0>`
 
 
