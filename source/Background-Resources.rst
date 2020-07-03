@@ -40,6 +40,10 @@ Background Resources
       Demonstration. *Geosci. Model Dev.*, 12, 2781–2795
       https://doi.org/10.5194/gmd-12-2781-2019
 
+**Video instructions**
+
+- `UMEP YouTube channel <https://www.youtube.com/channel/UCTPkXncD3ghb5ZTdZe_u7gA/videos>`__
+
 **QGIS**
 
 - `QGIS software <https://qgis.org/en/site/>`__
@@ -48,7 +52,5 @@ Background Resources
 **Jupyter Notebooks**
 
 -  Jupyter Notebook Extension: `Installation <https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html>`_
-
 - `Introduction to Jupyter Notebooks  <Jupyter/JN0>`_   
-
 - `Jupyter Notebook Cheatsheet <https://cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/>`_

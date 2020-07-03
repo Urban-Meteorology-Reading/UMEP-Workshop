@@ -29,12 +29,18 @@ Preparation for using SuPy
       py3_env
       pip install notebook
 
-   - To start Jupyter Notebook type:
+   - To start Jupyter Notebook, in the same command window type:
 
    .. code-block:: SHELL
 
       jupyter notebook
 
+   - If you have closed your osgeo-command window. Open it again and type:
+
+   .. code-block:: SHELL
+
+      py3_env
+      jupyter notebook   
 
 **(or) General OS installation (all platforms)**: `Anaconda-based approach <https://docs.anaconda.com/anaconda/install/>`_
 
