@@ -20,7 +20,7 @@ As softwre is being updated all the time, here we give the versions that we will
      -  10:00
    * - UMEP
      - 12:30
-     - 13:30
+     - `Update <https://umep-docs.readthedocs.io/en/latest/Getting_Started.html#updating-the-umep-plugin>
      - 14:30   
    * - FUSION
      - 4.00
@@ -28,8 +28,8 @@ As softwre is being updated all the time, here we give the versions that we will
      -  10:00
    * - SuPY
      - 
-     - 
-     - 
+     - `Update <https://supy.readthedocs.io/en/latest/faq.html#how-can-i-upgrade-supy-to-an-up-to-date-version>`_
+     - `Update <https://supy.readthedocs.io/en/latest/faq.html#how-can-i-upgrade-supy-to-an-up-to-date-version>`_
  * - SUEWS
      - 
      - 
