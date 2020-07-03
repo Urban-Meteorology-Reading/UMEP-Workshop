@@ -57,4 +57,4 @@ Background Resources
 
 **Python**
 
-- 'Introduction to Python <Jupyter/PY1>`
+- `Introduction to Python <PY1>`
