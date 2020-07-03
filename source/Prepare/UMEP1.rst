@@ -11,7 +11,7 @@ Installation of UMEP
 
 -  Follow `video <https://www.youtube.com/watch?v=R3QQQtf7zWU>`__ for instructions
 
-   -  Note other operating systems will look different
+   .. note:: other operating systems will look different
 
    .. raw:: html
 
