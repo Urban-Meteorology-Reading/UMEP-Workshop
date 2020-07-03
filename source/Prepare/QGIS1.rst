@@ -11,7 +11,7 @@ Installation of QGIS
 
 -  Written instructions are available in the `UMEP
    manual <https://umep-docs.readthedocs.io/en/latest/Getting_Started.html>`__
--  This `Video <https://www.youtube.com/watch?v=HWW2TRwuM-8&t>`__  gives detailed
+-  This `Video <https://www.youtube.com/watch?v=b9FwI0GyAGQ>`__  gives detailed
    installation instructions for Windows
 
    -  The differences for **Other Operating systems** are also discussed in the video.

@@ -9,7 +9,7 @@ Installation of UMEP
 
 **Activity**
 
--  Follow `video <https://www.youtube.com/watch?v=0vcCBoFETkw>`__ for instructions
+-  Follow `video <https://www.youtube.com/watch?v=R3QQQtf7zWU>`__ for instructions
 
    -  Note other operating systems will look different
 
