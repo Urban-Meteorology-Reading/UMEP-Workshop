@@ -4,7 +4,7 @@ Software Version
 -----------------
 
 
-As software is frequently updated, we give the versions that we will use in the workshop. Please update or install QGIS and UMEP before the workshop. The rest you will install/update during thw workshop.
+As software is frequently updated, we give the versions used in the workshop. **Please update/install QGIS and UMEP before** the workshop. The rest you will install/update during thw workshop.
 
 .. list-table:: Software Version and methods to install or update
    :header-rows: 1
@@ -12,7 +12,7 @@ As software is frequently updated, we give the versions that we will use in the 
 
    * - Software
      - Version
-     - Upate
+     - Update
      - Installation
    * - QGIS
      - 3.14
