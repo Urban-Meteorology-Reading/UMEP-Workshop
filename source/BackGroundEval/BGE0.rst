@@ -3,6 +3,10 @@
 Background to Model Evalaution
 -------------------------------
 
-- `Model evaluation statistics <BGE1>`
-- Model Benchmark
--
+
+.. toctree::
+   :maxdepth: 2
+   
+   BGE1
+   
+   - Model Benchmark
