@@ -1,6 +1,6 @@
 .. _BGM0:
 
-Basic principles
+Meteorology
 --------------------------
 
 Some introductory material, that is covered in many books and papers more thoroughly.
