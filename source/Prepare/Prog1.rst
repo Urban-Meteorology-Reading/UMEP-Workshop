@@ -9,6 +9,8 @@ Given this is the first *urbisphere* Modelling workshop our main goal is to get 
 
 As this is an online workshop (rather than being at University of Reading as planned) we will meet twice a day via TEAMS formally but we will keep the TEAMS channels open throughout each session so you can ask questions of each other and the people ready to provide help.
 
+The Teams channel will be open for chat, and you can go into a DG (Discussion Group room)
+
 .. list-table:: We will meet at these times each day on Teams
    :header-rows: 1
    :widths: 20, 20, 20, 20
