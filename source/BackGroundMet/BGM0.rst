@@ -1,7 +1,7 @@
 .. _BGM0_
 
-Background Meteorology
-----------------------
+Some very basic meteorology
+--------------------------
 
 This following is some very introductory material, there are many books and papers that can provide more thorough coverage of each of these topics.
 
