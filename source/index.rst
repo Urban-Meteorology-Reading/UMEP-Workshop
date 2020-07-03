@@ -22,10 +22,10 @@ Welcome to the urbisphere UMEP July 2020 Online Workshop
    SUPY/SuPy
    NeedHelp
    Background-Resources
-   Jupyter/PY0
    BackGroundMet/BGM0
    BackGroundEval/BGE0
    Parameters/Consider0
+   Jupyter/PY0
    
    
 
