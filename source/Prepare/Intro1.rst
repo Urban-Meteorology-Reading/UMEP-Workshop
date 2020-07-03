@@ -11,7 +11,7 @@ The three main software tools that will be used in the workshop are:
 
 - **UMEP** - this is an urban climate services tool that has a large number of tools and models. It is an application add-on to QGIS.
 - **SUEWS** - this is an energy, water and carbon balance model that can be used to simulate urban and non-urban areas. This is both a standalone model and is also within UMEP. The UMEP environment is a good place to start to use SUEWS.
-- **SuPY** - this is a Python interface to SUEWS which allows SUEWS to be rapidly used to address research questions. It can also be used to couple SUEWS to other programs (e.g. DASH. STEBBS, EnergyPlus).
+- **SuPy** - this is a Python interface to SUEWS which allows SUEWS to be rapidly used to address research questions. It can also be used to couple SUEWS to other programs (e.g. DASH. STEBBS, EnergyPlus).
 
 Two user environments that we will use are:
 
@@ -20,12 +20,12 @@ Two user environments that we will use are:
 
 There are two main programming languages involved in the software
 
-- **Python** - the QGIS add-ins are written in Python as is SuPY. This has the advantage of having a large number of code libraries for graphics, statistics, *etc*.
+- **Python** - the QGIS add-ins are written in Python as is SuPy. This has the advantage of having a large number of code libraries for graphics, statistics, *etc*.
 - **Fortran** - SUEWS is written in this. This has the advantage of being more computationally efficient for processing larger volumes of data. It is also the language that many weather and climate models are written in.
 
 SUEWS coupling
 
-- SUEWS is in UMEP, SuPY, and coupled to WRF, as well as being a standalone code.
+- SUEWS is in UMEP, SuPy, and coupled to WRF, as well as being a standalone code.
 - SUEWS can be forced (i.e. the meteorological data that is needed to run the model) in the following way:
 
   - Observations
