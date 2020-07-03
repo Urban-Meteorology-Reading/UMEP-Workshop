@@ -3,7 +3,7 @@
 Some basic principles
 --------------------------
 
-This following is some very introductory material, there are many books and papers that can provide more thorough coverage of each of these topics.
+Some introductory material, that is covered in many books and papers more thoroughly.
 
 .. toctree::
    :maxdepth: 2
