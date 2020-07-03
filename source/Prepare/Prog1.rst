@@ -36,6 +36,8 @@ The Teams channel will be open for chat, and you can go into a DG (Discussion Gr
    * - Day Time
      - Topic
      - Other parallel activities
+   * - Before
+     - `Installation or Updating of Software <Version>` 
    * - Wednesday am
      - `Introduction <Intro1>` and `First UMEP Activity <FirstUMEPActivity>`
      - Observations database meeting
