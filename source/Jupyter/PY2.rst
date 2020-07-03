@@ -1,4 +1,4 @@
-.._PY2:
+.. _PY2:
 
 Python Tutorials
 =================
