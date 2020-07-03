@@ -45,7 +45,7 @@ As this is an online workshop (rather than being at University of Reading as pla
      -
    * - Thursday pm
      - `What else can UMEP do? <WhatElseCanUMEP>`
-     - Paris Olympics
+     - Paris Olympics planning meeting
    * - Friday am
      - `SuPY <SuPy>`
      -
