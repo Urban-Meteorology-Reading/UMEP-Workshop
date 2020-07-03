@@ -11,16 +11,16 @@ Prior to the workshop, complete the steps in this section but not before we tell
    GH1
    QGIS1
    UMEP1
-   ../Jupyter/JN0
-   ../Hist1
+  ../Hist1
    
  
-**Background Material**
+**Background Materials**
 
-Take a quick look at the following so you can return to then if you need some help
+Take a look through the following so you are familiar with what is avalable if you need help
 
 - `Key papers and manuals <Background>`
 - `Helpful links <NeedHelp>`
+- `Jupyter Notebooks and Python <PY0>`
 - `Meteorology <BGM0>`
 - `Metrics for model evaluation <BGE0>`
 
