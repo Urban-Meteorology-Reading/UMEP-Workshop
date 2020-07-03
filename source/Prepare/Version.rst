@@ -4,7 +4,7 @@ Software Version
 -----------------
 
 
-As softwre is being updated all the time, here we give the versions that we will use in this workshop. If you need to `update your version <NeedHelp>` please do so before the workshop. If you do not have thftwar installed please see the installation pages in this doucment.
+As software is frequently updated, we give the versions that we will use in the workshop. If you need to `update your version <NeedHelp>` please do so before the workshop. If you do not have thftwar installed please see the installation pages in this doucment.
 
 .. list-table:: Software Version
    :header-rows: 1
@@ -30,7 +30,7 @@ As softwre is being updated all the time, here we give the versions that we will
      - 
      - `Update <https://supy.readthedocs.io/en/latest/faq.html#how-can-i-upgrade-supy-to-an-up-to-date-version>`_
      - `Update <https://supy.readthedocs.io/en/latest/faq.html#how-can-i-upgrade-supy-to-an-up-to-date-version>`_
- * - SUEWS
+   * - SUEWS
      - 
      - 
      - 
