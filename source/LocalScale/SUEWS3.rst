@@ -14,7 +14,7 @@ Spatial analysis urban energy and water balance
 
 **Activity**
 
--  In this tutorial you model spatial variations of local scale surface energy and water balance 
+-  In this tutorial you model spatial variations in the local scale surface energy and water balance 
 
 -  `Tutorial link <https://umep-docs.readthedocs.io/projects/tutorial/en/latest/Tutorials/SuewsSpatial.html>`__
 
