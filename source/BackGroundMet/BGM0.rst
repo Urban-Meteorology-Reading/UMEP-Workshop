@@ -1,4 +1,4 @@
-.. _BGM0_
+.. _BGM0:
 
 Some very basic meteorology
 --------------------------
