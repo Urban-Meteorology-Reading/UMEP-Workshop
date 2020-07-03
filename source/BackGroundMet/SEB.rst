@@ -1,5 +1,6 @@
+Fluxes
+------
 .. _SEB:
-
 
 Surface energy balance
 ~~~~~~~~~~~~~~~~~~~~~~
