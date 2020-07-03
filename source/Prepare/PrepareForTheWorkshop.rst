@@ -11,7 +11,7 @@ Prior to the workshop, complete the steps in this section but not before we tell
    GH1
    QGIS1
    UMEP1
-  ../Hist1
+   ../Hist1
    
  
 **Background Materials**
