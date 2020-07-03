@@ -1,7 +1,7 @@
 .. _Stab:
 
 Stability
-=========
+---------
 
 
 Modifications to the logarithmic profile are required in conditions of
