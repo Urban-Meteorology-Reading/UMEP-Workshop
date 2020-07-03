@@ -35,7 +35,7 @@ and :math:`\hat{y}_{i}` the model’s prediction
     \mathrm{RMSE}=\sqrt{\frac{1}{N} \sum_{i=1}^{N}\left(y_{i}-\hat{y}_{i}\right)^{2}}
 
 
-* Coefficient of determination (`R^2`)
+* Coefficient of determination (:math:`R^2`)
 
 .. math::
 
@@ -46,7 +46,8 @@ and :math:`\hat{y}_{i}` the model’s prediction
     \mathrm{MSE}(\text { baseline })=
     \frac{1}{N} \sum_{i=1}^{N}\left(y_{i}-\overline{y}\right)^{2}
 
-where `\overline{y}` is mean of observed `y_i`.
+where :math:`\overline{y}` is mean of observed :math:`y_i`.
+
 
 Combined with plots (e.g. scatter, time series) allows identification of periods
 when a model performs well/poorly relative to observations.
