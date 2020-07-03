@@ -6,9 +6,7 @@
 Model Parameters
 ================
 
-Land surface models use parameters to describe the surface. For example
-to model the latent heat flux using the `Penman Monteith equation
-<Penman.rst>`__ the following parameters are needed.
+Land surface models use parameters to describe the surface. 
 
 .. _albedo:
 
