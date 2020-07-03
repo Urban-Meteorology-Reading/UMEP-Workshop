@@ -8,13 +8,13 @@ This following is some very introductory material, there are many books and pape
 .. toctree::
    :maxdepth: 2
 
-   BGM1
+   SEB
    BGM2
    BGM3
    BGM4
    BGM5
-   BGM6
-
+   BGM1
+   
 - `Surface Energy Balance <SEB>`
 - `Radiation Balance <radB>`
 - `Albedo <albedo>`
