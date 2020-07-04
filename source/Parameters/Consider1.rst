@@ -38,58 +38,41 @@ Site Information
 ================
 
 
-
 - `Site parameters <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_SiteInfo.html>`_
 
  .. list-table:: Site parameters
    :header-rows: 1
    :widths: 40, 70, 50
 
-   * - Name
-     - Type
-     - How to determine
-   * - SUEWS_AnthropogenicEmission.txt 
-     - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_AnthropogenicEmission.html>`_
-     - :ref:`T1-QF`
-   * - SUEWS_BiogenCO2.txt 
-     - `Function, Biophysical <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_BiogenCO2.html>`_
-     - :ref:`T1-w`
-   * - SUEWS_Conductance.txt
-     - `Biophysical <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Conductance.html>`_
-     - :ref:`T1-gs`_
-   * - SUEWS_Irrigation.txt
-     - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Irrigation.html>`_
-     - :ref:`T1-w`,  :ref:`T1-f`
-   * - SUEWS_NonVeg.txt
-     - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_NonVeg.html>`_
-     -  :ref:`T1-m`
-   * - SUEWS_OHMCoefficients.txt
-     - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_OHMCoefficients.html>`_
+   * - Function
+     - Materials
+     - Biophysical
+     - Water
+   * - :ref:`T1-f`
      - :ref:`T1-m`
-   * - SUEWS_Profiles.txt
-     - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Profiles.html>`_
-     - :ref:`T1-f`
-   * - SUEWS_SiteSelect.txt
-     - `all <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_SiteSelect.html>`_
-     - :ref:`T1-a`
-   * - SUEWS_Snow.txt
-     - `Function,materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Snow.html>`_
-     -  :ref:`T1-w`,  :ref:`T1-f`
-   * - SUEWS_Soil.txt
-     - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Soil.html>`_
-     -  :ref:`T1-w`
-   * - SUEWS_Veg.txt
-     - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Veg.html>`_
-     -  :ref:`T1-a`
-   * - SUEWS_Water.txt
-     - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Water.html>`_
-     -  :ref:`T1-m`
-   * - SUEWS_WithinGridWaterDist.txt
-     - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_WithinGridWaterDist.html>`_
-     -  :ref:`T1-w`
+     - :ref:`T1-gs`
+     - :ref:`T1-w`
+   * - `SUEWS_AnthropogenicEmission <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_AnthropogenicEmission.html>`_
+     - `SUEWS_NonVeg <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_NonVeg.html>`_
+     - `SUEWS_BiogenCO2 <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_BiogenCO2.html>`_
+     - `SUEWS_Irrigation <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Irrigation.html>`_
+   * - `SUEWS_Irrigation <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Irrigation.html>`_ 
+     - `SUEWS_OHMCoefficients <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_OHMCoefficients.html>`_
+     - `SUEWS_Conductance.txt<https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Conductance.html>`_
+     - `SUEWS_Profiles.txt <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Profiles.html>`_
+   * - 
+     - SUEWS_Soil <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Soil.html>`_
+     - 
+     - `SUEWS_Snow <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Snow.html>`  
+   * - `SUEWS_Veg <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Veg.html>`_
+     - `SUEWS_Water <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Water.html>`_
+     -  `SUEWS_WithinGridWaterDist <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_WithinGridWaterDist.html>`_
+     - `SUEWS_SiteSelect <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_SiteSelect.html>`_
+      
 
 
 
+ 
 
 Initial Conditions
 ==================
