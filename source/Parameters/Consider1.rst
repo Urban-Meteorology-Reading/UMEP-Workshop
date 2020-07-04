@@ -17,8 +17,7 @@ Model Inputs
 
 *Consideration of Heights of forcing data*
 
-  This is some text :ref:`T1-gs`
-  
+ 
 - `Height summary <Height>`
 
 **Site Information**
@@ -34,19 +33,19 @@ Model Inputs
      - How to determine
    * - SUEWS_AnthropogenicEmission.txt 
      - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_AnthropogenicEmission.html>`_
-     - 
+     - :ref:`T1-QF`
    * - SUEWS_BiogenCO2.txt 
      - `Function, Biophysical <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_BiogenCO2.html>`_
-     - `Approach <T1-w>`_
+     - :ref:`T1-w`
    * - SUEWS_Conductance.txt
      - `Biophysical <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Conductance.html>`_
-     - `Coefficients <T1-gs>`_
+     - :ref:`T1-gs`_
    * - SUEWS_Irrigation.txt
      - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Irrigation.html>`_
-     - `Approach <T1-w>`_
+     - :ref:`T1-w`
    * - SUEWS_NonVeg.txt
      - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_NonVeg.html>`_
-     - `Approach <T1-w>`_
+     -  :ref:`T1-m`
    * - SUEWS_OHMCoefficients.txt
      - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_OHMCoefficients.html>`_
      - `Approach <T1-m>`_
@@ -55,22 +54,22 @@ Model Inputs
      - `Approach <T1-f>`_
    * - SUEWS_SiteSelect.txt
      - `all <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_SiteSelect.html>`_
-     - `Approach <T1-a>`_
+     - :ref:`T1-a`
    * - SUEWS_Snow.txt
      - `Function,materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Snow.html>`_
      - `Approach <T1-m>`_
    * - SUEWS_Soil.txt
      - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Soil.html>`_
-     - `Approach <T1-m>`_
+     -  :ref:`T1-w`
    * - SUEWS_Veg.txt
      - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Veg.html>`_
-     - `Approach <T1-m>`_
+     -  :ref:`T1-a`
    * - SUEWS_Water.txt
      - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Water.html>`_
-     - `Approach <T1-m>`_
+     -  :ref:`T1-m`
    * - SUEWS_WithinGridWaterDist.txt
      - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_WithinGridWaterDist.html>`_
-     - `Approach <T1-w>`_
+     -  :ref:`T1-w`
 
 
 
