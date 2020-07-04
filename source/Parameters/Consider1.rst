@@ -4,23 +4,30 @@ Model Inputs
 ------------
 
 - `Files required to run SUEWS <https://suews.readthedocs.io/en/latest/input_files/input_files.html>`_
+- The data are needed for every grid (can be any shape) area in the doamin to be modelled.
 
-**Forcing data**
+Forcing data
+============
 
-- `Data needed <https://suews.readthedocs.io/en/latest/input_files/met_input.html>`_
+- ` Meteorological variables needed <https://suews.readthedocs.io/en/latest/input_files/met_input.html>`_
 
-*Data Sources*
+Data Sources
+~~~~~~~~~~~~~
 
 - Observations
 - Climate data e.g. ERA5, projections
 - Coupled Model e.g. WRF
 
-*Consideration of Heights of forcing data*
+Height consideration of the forcing data
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- 
 - `Height summary <Height>`
 
-**Site Information**
+
+Site Information
+================
+
+
 
 - `Site parameters <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_SiteInfo.html>`_
 
