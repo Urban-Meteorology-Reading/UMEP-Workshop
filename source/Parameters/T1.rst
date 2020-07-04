@@ -1,6 +1,5 @@
-.. _T1:
-
 .. _T1-QF:
+
 Approach to Anthropogenic Heat
 ------------------------------
 
@@ -10,10 +9,10 @@ Approach to Anthropogenic Heat
 
  
  
- .. _T1-gs:
+.. _T1-gs:
  
- Conductances
- ------------
+Conductances
+------------
  
   - Hamid paper
  - Grimmond and Oke (1991)
