@@ -21,7 +21,7 @@ Model Inputs
 
 **Site Information**
 
-- Site parameters <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_SiteInfo.html>
+- `Site parameters <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_SiteInfo.html>`_
 
  .. list-table:: Heights important for SUEWS
    :header-rows: 1
@@ -34,19 +34,19 @@ Model Inputs
      - Function
      - Energy Use
    * - SUEWS_BiogenCO2.txt
-     - Function, Ecological
+     - Function, Biophysical
      -
    * - SUEWS_Conductance.txt
-     -
+     - Biophysical
      -
    * - SUEWS_Irrigation.txt
-     -
+     - Function
      -
    * - SUEWS_NonVeg.txt
      -
      -
    * - SUEWS_OHMCoefficients.txt
-     -
+     - Materials
      -
    * - SUEWS_Profiles.txt
      - Function
@@ -55,7 +55,7 @@ Model Inputs
      -
      -
    * - SUEWS_Snow.txt
-     -
+     - Function
      -
    * - SUEWS_Soil.txt
      -
