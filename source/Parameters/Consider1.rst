@@ -42,22 +42,22 @@ Model Inputs
      - :ref:`T1-gs`_
    * - SUEWS_Irrigation.txt
      - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Irrigation.html>`_
-     - :ref:`T1-w`
+     - :ref:`T1-w`,  :ref:`T1-f`
    * - SUEWS_NonVeg.txt
      - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_NonVeg.html>`_
      -  :ref:`T1-m`
    * - SUEWS_OHMCoefficients.txt
      - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_OHMCoefficients.html>`_
-     - `Approach <T1-m>`_
+     - :ref:`T1-m`
    * - SUEWS_Profiles.txt
      - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Profiles.html>`_
-     - `Approach <T1-f>`_
+     - :ref:`T1-f`
    * - SUEWS_SiteSelect.txt
      - `all <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_SiteSelect.html>`_
      - :ref:`T1-a`
    * - SUEWS_Snow.txt
      - `Function,materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Snow.html>`_
-     - `Approach <T1-m>`_
+     -  :ref:`T1-w`,  :ref:`T1-f`
    * - SUEWS_Soil.txt
      - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Soil.html>`_
      -  :ref:`T1-w`
