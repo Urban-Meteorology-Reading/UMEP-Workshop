@@ -42,7 +42,7 @@ Site Information
 
  .. list-table:: Site parameters
    :header-rows: 1
-   :widths: 40, 70, 50
+   :widths: 30, 30, 30, 30
 
    * - Function
      - Materials
