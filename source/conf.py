@@ -158,7 +158,7 @@ nbsphinx_responsive_width = '700px'
 
 # This is processed by Jinja2 and inserted before each notebook
 nbsphinx_prolog = r"""
-{% set docname = env.doc2path(env.docname, base='docs') %}
+{% set docname = env.doc2path(env.docname, base=None) %}
 
 .. only:: html
 
@@ -191,7 +191,7 @@ nbsphinx_epilog = r"""
 
     \textcolor{gray}{\noindent\rule{\textwidth}{0.4pt}\\
     \hbox{}\hfill End of
-    \texttt{\strut{}{{ env.doc2path(env.docname, base='doc') }}}}
+    \texttt{\strut{}{{ env.doc2path(env.docname, base=None) }}}}
     \vfil\penalty-1\vfilneg
 """
 
