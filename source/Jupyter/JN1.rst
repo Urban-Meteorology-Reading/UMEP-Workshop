@@ -12,6 +12,7 @@ Jupyter Notebooks: setting up your research-oriented coding environment
 
 **Activity**
 
+.. todo #8
 - Video ******************************************************************************
 
 - Basic operations (L)
