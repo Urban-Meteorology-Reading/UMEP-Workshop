@@ -30,8 +30,8 @@ Model Inputs
    * - Name
      - Type
      - How to determine
-   * - `SUEWS_AnthropogenicEmission.txt <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_AnthropogenicEmission.html>`____
-     - Function
+   * - `SUEWS_AnthropogenicEmission.txt 
+     - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_AnthropogenicEmission.html>`_
      - Energy Use
    * - `SUEWS_BiogenCO2.txt <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_BiogenCO2.html>`___
      - Function, Biophysical
