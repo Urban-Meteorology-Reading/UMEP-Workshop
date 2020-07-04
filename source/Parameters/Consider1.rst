@@ -6,6 +6,16 @@ Model Inputs
 - `Files required to run SUEWS <https://suews.readthedocs.io/en/latest/input_files/input_files.html>`_
 - The data are needed for every grid (can be any shape) area in the doamin to be modelled.
 
+Model Physics options
+=====================
+
+- `RunControl <https://suews.readthedocs.io/en/latest/input_files/RunControl/RunControl.html>`_
+
+- the selection of which submodels are to be used
+- choose after the other decisions
+ 
+
+
 Forcing data
 ============
 
@@ -21,7 +31,7 @@ Data Sources
 Height consideration of the forcing data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- `Height summary <Height>`
+- `The different Height summary <Height>`
 
 
 Site Information
