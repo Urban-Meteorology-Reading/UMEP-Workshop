@@ -102,7 +102,7 @@ Initial Conditions
 
    -  these can be determined from a wide range of data
    
- - snow conditions
+- snow conditions
  
    - this needs to be done very carefully if only a short model run.  A long model run starting from snow-free conditons would ensure that the snow accumulation occurs at the right time etc
  
