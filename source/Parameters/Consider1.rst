@@ -32,7 +32,7 @@ Model Inputs
      - How to determine
    * - SUEWS_AnthropogenicEmission.txt 
      - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_AnthropogenicEmission.html>`_
-     - Approach <T1-QF>
+     - `Approach <T1-QF>`
    * - SUEWS_BiogenCO2.txt 
      - `Function, Biophysical <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_BiogenCO2.html>`_
      - `Approach <T1-w>`
@@ -47,25 +47,25 @@ Model Inputs
      - `Approach <T1-w>`
    * - SUEWS_OHMCoefficients.txt
      - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_OHMCoefficients.html>`_
-     - `Approach <T1-w>`
+     - `Approach <T1-m>`
    * - SUEWS_Profiles.txt
      - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Profiles.html>`_
-     - `Approach <T1-w>`
+     - `Approach <T1-f>`
    * - SUEWS_SiteSelect.txt
      - `all <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_SiteSelect.html>`_
-     - `Approach <T1-w>`
+     - `Approach <T1-a>`
    * - SUEWS_Snow.txt
      - `Function,materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Snow.html>`_
-     - `Approach <T1-w>`
+     - `Approach <T1-m>`
    * - SUEWS_Soil.txt
      - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Soil.html>`_
-     - `Approach <T1-w>`
+     - `Approach <T1-m>`
    * - SUEWS_Veg.txt
      - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Veg.html>`_
-     - `Approach <T1-w>`
+     - `Approach <T1-m>`
    * - SUEWS_Water.txt
      - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Water.html>`_
-     - `Approach <T1-w>`
+     - `Approach <T1-m>`
    * - SUEWS_WithinGridWaterDist.txt
      - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_WithinGridWaterDist.html>`_
      - `Approach <T1-w>`
