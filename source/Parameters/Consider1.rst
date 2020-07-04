@@ -25,14 +25,14 @@ Model Inputs
 
  .. list-table:: Site parameters
    :header-rows: 1
-   :widths: 40, 7, 50
+   :widths: 40, 70, 50
 
    * - Name
      - Type
      - How to determine
    * - SUEWS_AnthropogenicEmission.txt 
      - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_AnthropogenicEmission.html>`_
-     -  Approach <T1>
+     -  `Approach <T1>`
    * - SUEWS_BiogenCO2.txt 
      - `Function, Biophysical <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_BiogenCO2.html>`___
      -
@@ -68,7 +68,7 @@ Model Inputs
      -
    * - SUEWS_WithinGridWaterDist.txt
      - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_WithinGridWaterDist.html>`_
-     - <T1>
+     - `Approach <T1-a>`
 
 
 
