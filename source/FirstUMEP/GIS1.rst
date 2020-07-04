@@ -17,8 +17,7 @@ Basics of UMEP, QGIS and Spatial data
    - QGIS and UMEP basic functionality
    - Spatial data for UMEP (Vector-Raster, DSM, Land cover etc.)
 
-- `Watch this video <https://github.com/Urban-Meteorology-Reading/ViewpointVideos/wiki/Spatial-data-in-UMEP---Video-structure>`__
-
+- Video ***********************************************************************************
 
 
 
