@@ -17,6 +17,8 @@ Model Inputs
 
 *Consideration of Heights of forcing data*
 
+  :ref:`T1-QF`
+  
 - `Height summary <Height>`
 
 **Site Information**
@@ -32,7 +34,7 @@ Model Inputs
      - How to determine
    * - SUEWS_AnthropogenicEmission.txt 
      - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_AnthropogenicEmission.html>`_
-     - :ref:`T1-QF`
+     - 
    * - SUEWS_BiogenCO2.txt 
      - `Function, Biophysical <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_BiogenCO2.html>`_
      - `Approach <T1-w>`_
