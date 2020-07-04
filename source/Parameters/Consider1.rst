@@ -23,17 +23,17 @@ Model Inputs
 
 - `Site parameters <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_SiteInfo.html>`_
 
- .. list-table:: Heights important for SUEWS
+ .. list-table:: Site parameters
    :header-rows: 1
    :widths: 40, 7, 50
 
    * - Name
      - Type
      - How to determine
-   * - SUEWS_AnthropogenicEmission.txt
+   * - `SUEWS_AnthropogenicEmission.txt <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_AnthropogenicEmission.html>`____
      - Function
      - Energy Use
-   * - SUEWS_BiogenCO2.txt
+   * - `SUEWS_BiogenCO2.txt <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_BiogenCO2.html>`___
      - Function, Biophysical
      -
    * - SUEWS_Conductance.txt
