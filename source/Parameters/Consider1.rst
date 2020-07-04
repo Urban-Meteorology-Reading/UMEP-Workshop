@@ -30,44 +30,44 @@ Model Inputs
    * - Name
      - Type
      - How to determine
-   * - `SUEWS_AnthropogenicEmission.txt 
+   * - SUEWS_AnthropogenicEmission.txt 
      - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_AnthropogenicEmission.html>`_
      - Energy Use
-   * - `SUEWS_BiogenCO2.txt <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_BiogenCO2.html>`___
-     - Function, Biophysical
+   * - SUEWS_BiogenCO2.txt 
+     - `Function, Biophysical <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_BiogenCO2.html>`___
      -
    * - SUEWS_Conductance.txt
-     - Biophysical
+     - `Biophysical <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Conductance.html>`_
      -
    * - SUEWS_Irrigation.txt
-     - Function
+     - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Irrigation.html>`_
      -
    * - SUEWS_NonVeg.txt
-     -
+     - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_NonVeg.html>`_
      -
    * - SUEWS_OHMCoefficients.txt
-     - Materials
+     - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_OHMCoefficients.html>`_
      -
    * - SUEWS_Profiles.txt
-     - Function
+     - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Profiles.html>`_
      -
    * - SUEWS_SiteSelect.txt
-     -
+     - `all <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_SiteSelect.html>`_
      -
    * - SUEWS_Snow.txt
-     - Function
+     - `Function,materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Snow.html>`_
      -
    * - SUEWS_Soil.txt
-     -
+     -` Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Soil.html>`_
      -
    * - SUEWS_Veg.txt
-     -
+     - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Veg.html>`_
      -
    * - SUEWS_Water.txt
-     -
+     - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Water.html>`_
      -
    * - SUEWS_WithinGridWaterDist.txt
-     -
+     - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_WithinGridWaterDist.html>`_
      -
 
 
