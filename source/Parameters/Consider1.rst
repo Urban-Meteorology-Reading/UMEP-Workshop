@@ -32,43 +32,43 @@ Model Inputs
      - How to determine
    * - SUEWS_AnthropogenicEmission.txt 
      - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_AnthropogenicEmission.html>`_
-     - `Approach <T1-QF>`
+     - ` QF methods <T1-QF>`_
    * - SUEWS_BiogenCO2.txt 
      - `Function, Biophysical <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_BiogenCO2.html>`_
-     - `Approach <T1-w>`
+     - `Approach <T1-w>`_
    * - SUEWS_Conductance.txt
      - `Biophysical <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Conductance.html>`_
-     - `Approach <T1-gs>`
+     - `Coefficients <T1-gs>`_
    * - SUEWS_Irrigation.txt
      - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Irrigation.html>`_
-     - `Approach <T1-w>`
+     - `Approach <T1-w>`_
    * - SUEWS_NonVeg.txt
      - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_NonVeg.html>`_
-     - `Approach <T1-w>`
+     - `Approach <T1-w>`_
    * - SUEWS_OHMCoefficients.txt
      - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_OHMCoefficients.html>`_
-     - `Approach <T1-m>`
+     - `Approach <T1-m>`_
    * - SUEWS_Profiles.txt
      - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Profiles.html>`_
-     - `Approach <T1-f>`
+     - `Approach <T1-f>`_
    * - SUEWS_SiteSelect.txt
      - `all <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_SiteSelect.html>`_
-     - `Approach <T1-a>`
+     - `Approach <T1-a>`_
    * - SUEWS_Snow.txt
      - `Function,materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Snow.html>`_
-     - `Approach <T1-m>`
+     - `Approach <T1-m>`_
    * - SUEWS_Soil.txt
      - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Soil.html>`_
-     - `Approach <T1-m>`
+     - `Approach <T1-m>`_
    * - SUEWS_Veg.txt
      - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Veg.html>`_
-     - `Approach <T1-m>`
+     - `Approach <T1-m>`_
    * - SUEWS_Water.txt
      - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Water.html>`_
-     - `Approach <T1-m>`
+     - `Approach <T1-m>`_
    * - SUEWS_WithinGridWaterDist.txt
      - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_WithinGridWaterDist.html>`_
-     - `Approach <T1-w>`
+     - `Approach <T1-w>`_
 
 
 
