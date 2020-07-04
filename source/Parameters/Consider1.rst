@@ -9,7 +9,7 @@ Model Inputs
 Forcing data
 ============
 
-- ` Meteorological variables needed <https://suews.readthedocs.io/en/latest/input_files/met_input.html>`_
+- `Meteorological variables needed <https://suews.readthedocs.io/en/latest/input_files/met_input.html>`_
 
 Data Sources
 ~~~~~~~~~~~~~
@@ -83,4 +83,17 @@ Site Information
 
 Initial Conditions
 ==================
+
+- `Initial conditions <https://suews.readthedocs.io/en/latest/input_files/Initial_Conditions/Initial_Conditions.html>`
+
+- Conducting a model spinup for a number of years allows for the influence of the conditions selected to begin with being no longer critical.
+- Key ones to consider 
+  
+   - leaf area index (leaf-on, leaf-off)
+   - soil moisture state
+   
+ - less critical
+  
+   - surface state (as long as modelling for a long period
+   
 
