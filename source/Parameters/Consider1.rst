@@ -94,7 +94,7 @@ Site Information
 Initial Conditions
 ==================
 
-- `Initial conditions <https://suews.readthedocs.io/en/latest/input_files/Initial_Conditions/Initial_Conditions.html>`
+- `Initial conditions <https://suews.readthedocs.io/en/latest/input_files/Initial_Conditions/Initial_Conditions.html>`_
 
 - Conducting a model spinup for a number of years allows for the influence of the conditions selected to begin with being no longer critical.
 - Key ones to consider 
