@@ -51,7 +51,7 @@ Preparation for using SuPy
    <iframe width="100%" height="350" src="https://www.youtube.com/embed/AnPHtLf7gYc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
    </div>
 
-- Install Anaconda3:
+- Install Anaconda3 (Jupyter Notebook included):
 
 .. raw:: html
 
@@ -59,6 +59,15 @@ Preparation for using SuPy
    <iframe width="100%" height="350" src="https://www.youtube.com/embed/qCZW5Esh3O8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
    </div>
 
+- Launch Jupyter Notebook:
+
+.. raw:: html
+
+   <div style="text-align: center; margin-bottom: 2em;">
+   <iframe width="100%" height="350" src="https://www.youtube.com/embed/PG2laJaHNsU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+   </div>
+
+- Install Jupyter Notebook Extensions (Optional, but recommended):
 After you have completed the above follow these instructions to install Jupyter Notebook you are likely to want to install some extensions. We `recommend <JN0>` these.
 The method to `install the extensions is here <https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html>`_
 
