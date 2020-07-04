@@ -92,8 +92,15 @@ Initial Conditions
    - leaf area index (leaf-on, leaf-off)
    - soil moisture state
    
- - less critical
+- less critical
   
-   - surface state (as long as modelling for a long period
+   - surface state (as long as modelling for a long period) as these will change rapdidly
    
+- meteorological variables
 
+   -  these can be determined from a wide range of data
+   
+ - snow conditions
+ 
+   - this needs to be done very carefully if only a short model run.  A long model run starting from snow-free conditons would ensure that the snow accumulation occurs at the right time etc
+ 
