@@ -81,10 +81,8 @@ As the source area of EC and scintillometer sensors varies with wind direction, 
 
 
 Generally, to calculate a convective or conductive flux, data are needed to determine the size of the gradient
-(e.g. temperature difference) and the ability of the medium (e.g. air,
-soil) to transfer heat (or mass). The latter may use a resistance
-scheme, an eddy diffusivity, or other approach, which changes with the
-state of the medium (e.g. stability if air, moisture state if soil).
+(e.g. temperature difference) and the ability of the medium (e.g. air, soil) to transfer heat (or mass). The latter may use a resistance
+scheme, an eddy diffusivity, or other approach, which changes with the state of the medium (e.g. stability if air, moisture state if soil).
 
 
 
