@@ -25,6 +25,8 @@ Preparation for using SuPy
 
 **Windows+QGIS:** ``osgeo``-based approach
 
+Video link ************************************************************
+
    - With your already `installed QGIS <QGIS1>`,  go to the start menu in Windows, locate **OSGeo4W Shell** and open it. If you automatically do not have administrative rights you need to right-click on **OSGeo4W Shell**, *Open file Location*, Right-click on **OSGeo4W Shell** again and choose *Run as Administrator*; type the following two commands:
 
    .. code-block:: SHELL
