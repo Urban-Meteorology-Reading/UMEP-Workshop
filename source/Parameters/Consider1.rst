@@ -25,7 +25,7 @@ Model Inputs
 
  .. list-table:: Heights important for SUEWS
    :header-rows: 1
-   :widths: 40, 7, 50, 50
+   :widths: 40, 7, 50
 
    * - Name
      - Type
