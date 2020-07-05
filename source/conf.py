@@ -158,7 +158,7 @@ nbsphinx_responsive_width = '700px'
 
 # This is processed by Jinja2 and inserted before each notebook
 nbsphinx_prolog = r"""
-{% set docname = env.doc2path(env.docname, base=None) %}
+{% set docname = 'source/'+ env.doc2path(env.docname, base=False) %}
 
 .. only:: html
 
@@ -204,16 +204,19 @@ def source_read_handler(app, docname, source):
     # base location for `docname`
     if ('"metadata":' in src) and ('"nbformat":' in src):
         # consider this as an ipynb
+        # and do nothing
         return
         # print('docname',docname)
         # print('source',source)
+
+    # modify the issue link to provide page specific URL
     str_base='source'
     str_repo=html_context['github_repo']
     str_GHPage=f"""
 .. _GitHub Issues: https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/issues/new?assignees=&labels=docs&template=docs-issue-report.md&body=[page-link](https://github.com/Urban-Meteorology-Reading/{str_repo}/blob/master/{str_base}/{docname}.rst)&title=[Docs]{docname}
 """
     rendered='\n'.join([str_GHPage,src])
-    source[0]=rendered
+    source[0]=rendered.rstrip('\n')
 
 # app setup hook
 def setup(app):
