@@ -18,6 +18,9 @@ Glossary
         and committed to producing
         and sharing high quality eddy covariance data.
 
+    ERA5
+        `Reanalys data <https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5>`_
+    
     LAI
         Leaf Area Index
 
@@ -38,7 +41,7 @@ Glossary
 
     SEB
         Surface Energy Balance
-        `General definition <SEB>`_
+        `General definition :ref:SEB`_
         
     SUEWS
         Surface [Urban] Energy and Water Balance Scheme 
