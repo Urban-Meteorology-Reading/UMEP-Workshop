@@ -24,14 +24,11 @@ Glossary
     LAI
         Leaf Area Index
 
-    FAO
-        Food and Agriculture Organisation, a specialised agency of the United Nations that leads international efforts to defeat hunger.
-
     EC
-        Eddy Covariance
+        Eddy Covariance - a technique to measure turbulent heat, mass (e.g. water, :math:`CO_2`) and momentum fluxes.
 
     Fetch
-        Area influencing a sensor. Typically the area upwind of the sensor.
+        Area influencing a sensor. For EC the area is upwind of the sensor.
 
     OHM
         Objective Hysteresis Model
@@ -40,8 +37,7 @@ Glossary
         `University of Reading Atmospheric Observatory <http://www.met.reading.ac.uk/observatorymain/>`_
 
     SEB
-        Surface Energy Balance
-        `General definition :ref:SEB`_
+        Surface Energy Balance. `The general definition :ref:SEB`_ and an `urban definition <https://suews.readthedocs.io/en/latest/introduction.html>`_
         
     SUEWS
         Surface [Urban] Energy and Water Balance Scheme 
