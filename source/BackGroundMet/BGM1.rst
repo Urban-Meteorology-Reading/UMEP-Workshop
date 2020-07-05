@@ -37,7 +37,7 @@ Glossary
         `University of Reading Atmospheric Observatory <http://www.met.reading.ac.uk/observatorymain/>`_
 
     SEB
-        Surface Energy Balance. `The general definition :ref:SEB`_ and an `urban definition <https://suews.readthedocs.io/en/latest/introduction.html>`_
+        Surface Energy Balance. The general definition :ref:`SEB` and an `urban definition <https://suews.readthedocs.io/en/latest/introduction.html>`_
         
     SUEWS
         Surface [Urban] Energy and Water Balance Scheme 
