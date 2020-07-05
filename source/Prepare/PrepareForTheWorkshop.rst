@@ -1,7 +1,7 @@
 Preparing for the workshop
 --------------------------
 
-Prior to the workshop, complete the steps in this section but not before we tell you it is ready as we are updating a few things (and you would need to update the software).
+Prior to the workshop, complete the steps in this section.
 
 .. toctree::
    :maxdepth: 2
@@ -24,5 +24,6 @@ Take a look through the following so you are familiar with what is avalable if y
 - `Jupyter Notebooks and Python <PY0>`
 - `Meteorology <BGM0>`
 - `Metrics for model evaluation <BGE0>`
+- `Glossary <BGM1>`
 
 
