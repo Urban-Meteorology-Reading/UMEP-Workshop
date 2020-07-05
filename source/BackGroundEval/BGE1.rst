@@ -8,6 +8,7 @@ Methods commonly used to evaluate model performance, include:
 * Mean absolute error (MAE)
 
 .. math::
+    :label: mae
 
     \mathrm{MAE}=\frac{1}{N} \sum_{i=1}^{N}\left|y_{i}-\hat{y}_{i}\right|
 
@@ -18,12 +19,14 @@ and :math:`\hat{y}_{i}` the model’s prediction
 * Mean bias error (MBE)
 
 .. math::
+    :label: mbe
 
     \mathrm{MBE}=\frac{1}{N} \sum_{i=1}^{N}\left(y_{i}-\hat{y}_{i}\right)
 
 * Mean square error (MSE)
 
 .. math::
+    :label: mse
 
     \mathrm{MSE}=\frac{1}{N} \sum_{i=1}^{N}\left(y_{i}-\hat{y}_{i}\right)^{2}
 
@@ -31,6 +34,7 @@ and :math:`\hat{y}_{i}` the model’s prediction
 * Root mean square error (RMSE)
 
 .. math::
+    :label: rmse
 
     \mathrm{RMSE}=\sqrt{\frac{1}{N} \sum_{i=1}^{N}\left(y_{i}-\hat{y}_{i}\right)^{2}}
 
@@ -38,6 +42,7 @@ and :math:`\hat{y}_{i}` the model’s prediction
 * Coefficient of determination (:math:`R^2`)
 
 .. math::
+    :label: r2
 
     R^{2}=
     1-\frac{\mathrm{MSE}(\text { model })}

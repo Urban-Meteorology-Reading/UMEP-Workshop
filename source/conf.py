@@ -223,3 +223,12 @@ def setup(app):
     app.connect('source-read', source_read_handler)
     # Fix equation formatting in the RTD-theme
     app.add_css_file('fix-eq.css')
+
+
+
+
+# math options
+numfig = True
+math_numfig = True
+numfig_secnum_depth = 1
+math_eqref_format = "Eq.{number}"

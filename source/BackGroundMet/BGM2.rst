@@ -6,7 +6,7 @@
 Model Parameters
 ================
 
-Land surface models use parameters to describe the surface. 
+Land surface models use parameters to describe the surface.
 
 .. _albedo:
 
@@ -37,6 +37,7 @@ sector. If you have a period with a lot of *neutral* conditions you may be
 able to get a lot of samples rapidly.
 
 .. math::
+    :label: z0
 
     z_0 = (z-d) \exp[−(U_z \kappa)/u_∗]
 
