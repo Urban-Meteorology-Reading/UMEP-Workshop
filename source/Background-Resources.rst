@@ -52,7 +52,7 @@ Background Resources
 **Jupyter Notebooks**
 
 -  Jupyter Notebook Extension: `Installation <https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html>`_
-- `Introduction to Jupyter Notebooks  <Jupyter/JN0>`_   
+- Introduction to Jupyter Notebooks  :ref:`JN0`   
 - `Jupyter Notebook Cheatsheet <https://cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/>`_
 
 **Python**
