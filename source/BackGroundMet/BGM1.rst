@@ -31,10 +31,7 @@ Glossary
         Area influencing a sensor. For EC the area is upwind of the sensor.
 
     OHM
-        Objective Hysteresis Model
-
-    URAO
-        `University of Reading Atmospheric Observatory <http://www.met.reading.ac.uk/observatorymain/>`_
+        Objective Hysteresis Model. Example coeffcients are given `here <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Typical_Values.html?highlight=ohm#ohm-coefficients>`_
 
     SEB
         Surface Energy Balance. The general definition :ref:`SEB` and an `urban definition <https://suews.readthedocs.io/en/latest/introduction.html>`_
@@ -59,7 +56,7 @@ Glossary
         
         
     Jupyter Notebook
-        A tool to help organize a project with progamming involved
+        A tool to help organize a project with progamming involved. An introduction is given here :ref:`JN1`
         
     Fortran 
         A computer programming language
