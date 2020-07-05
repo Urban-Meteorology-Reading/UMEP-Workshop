@@ -38,9 +38,30 @@ Glossary
 
     SEB
         Surface Energy Balance
+        `General definition <SEB>`_
+        
+    SUEWS
+        Surface [Urban] Energy and Water Balance Scheme 
+        `Manual <https://suews-docs.readthedocs.io/en/latest/>`_
+        
+    SuPy
+         SUEWS that speaks Python
+         `Manual <https://supy.readthedocs.io/en/latest/>`_
+         
+    UMEP
+         Urban Multi-scale Environmental Predictor 
+         `Manual <https://umep-docs.readthedocs.io/en/latest/>`_
 
     Obukhov Length (:math:`L`)
         A parameter with dimension of length that gives a relation between parameters characterizing dynamic, thermal, and buoyant processes. More detailed explanation refers to `AMS wiki <http://glossary.ametsoc.org/wiki/Obukhov_length>`_.
 
-
+    Python
+        A computer programming language
+        
+        
+    Jupyter Notebook
+        A tool to help organize a project with progamming involved
+        
+    Fortran 
+        A computer programming language
 
