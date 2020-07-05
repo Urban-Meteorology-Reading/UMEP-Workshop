@@ -19,7 +19,7 @@ Glossary
         and sharing high quality eddy covariance data.
 
     ERA5
-        `Reanalys data <https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5>`_
+        `Reanalysis data <https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5>`_
     
     LAI
         Leaf Area Index
