@@ -34,7 +34,7 @@ Glossary
         Objective Hysteresis Model. Example coeffcients are given `here <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Typical_Values.html?highlight=ohm#ohm-coefficients>`_
 
     SEB
-        Surface Energy Balance. The general definition :ref:`SEB` and an `urban definition <https://suews.readthedocs.io/en/latest/introduction.html>`_
+        :ref:`SEB`. An `urban definition <https://suews.readthedocs.io/en/latest/introduction.html>`_
         
     SUEWS
         Surface [Urban] Energy and Water Balance Scheme 
