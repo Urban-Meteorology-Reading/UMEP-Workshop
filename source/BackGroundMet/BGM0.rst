@@ -13,6 +13,5 @@ Some introductory material, that is covered in many books and papers more thorou
    BGM3
    BGM4
    BGM5
-   BGM1
    BGM7
    
