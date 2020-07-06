@@ -19,8 +19,13 @@ UNDER PREPARATION
 
 -  Get acquainted with the Meteorological Pre-processor in UMEP.
 
--  Video link  ********************************************************
+-  `Link to Video <https://www.youtube.com/watch?v=31hhG2xoFKQ>`__
 
+   .. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="350" src="https://www.youtube.com/embed/31hhG2xoFKQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
 
 **Constraints**
 

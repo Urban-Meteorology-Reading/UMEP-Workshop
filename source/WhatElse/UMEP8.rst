@@ -9,11 +9,10 @@ Workflow patterns - UMEP for the QGIS Processing toolbox
 
 -  `UMEP2`
 -  `GIS1`
--  `SUEWS3`
--  `UMEP6`
+-  `UMEP3`
 
 **Activity**
 
 -  Examples of workflow patterns in UMEP and introduction to `UMEP for processing <https://umep-docs.readthedocs.io/en/latest/UMEPforProcessing.html>`__.
 
--  Tutorial **************************************************
+-  `Link to Tutorial <https://umep-docs.readthedocs.io/projects/tutorial/en/latest/Tutorials/IntrodutionToProcessingSEBE.html>`__

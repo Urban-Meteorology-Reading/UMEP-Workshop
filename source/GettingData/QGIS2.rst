@@ -14,5 +14,11 @@ Generate modelling grid in QGIS
 
 -  Learn how to generate a grid for local scale modelling using built-in functionallity in QGIS.
 
--  Video ***************************
+-  `Link to Video <https://www.youtube.com/watch?v=nJ5oG5KFnNk>`__
+
+   .. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="350" src="https://www.youtube.com/embed/nJ5oG5KFnNk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
 
