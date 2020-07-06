@@ -14,6 +14,6 @@ UMEP - model parameters (z0, h/w etc)
 
 **Activity**
 
--  Get aquainted with tools in UMEP fro estimating morphologiacl parameters.
+-  Get aquainted with tools in UMEP used for estimating morphological parameters.
 
 -  Video link ********************************************************************
