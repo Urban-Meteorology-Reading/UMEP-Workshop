@@ -24,6 +24,6 @@ Take a look through the following so you are familiar with what is avalable if y
 - `Jupyter Notebooks and Python <PY0>`
 - `Meteorology <BGM0>`
 - `Metrics for model evaluation <BGE0>`
-- `Glossary <BGM1>`
+- `Glossary <BGM1>`_
 
 
