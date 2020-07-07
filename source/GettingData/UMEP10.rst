@@ -12,7 +12,7 @@ Making use of online Web Services in QGIS
 
 **Activity**
 
--  Learn on how to connect to external data sources
+-  Learn how to connect to external data sources
 -  Learn how to acquire population density data from a Web Coverage Service. 
 
 -  `Link to Video <https://www.youtube.com/watch?v=Zvc0ccQc1ds>`__
