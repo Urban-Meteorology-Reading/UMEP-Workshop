@@ -31,18 +31,19 @@ Preparation for using SuPy
    <iframe width="100%" height="350" src="https://www.youtube.com/embed/bvZOOYZ0QOU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
    </div>
 
-   - With your already `installed QGIS <QGIS1>`,  go to the start menu in Windows, locate **OSGeo4W Shell** and open it. If you automatically do not have administrative rights you need to right-click on **OSGeo4W Shell**, *Open file Location*, Right-click on **OSGeo4W Shell** again and choose *Run as Administrator*; type the following two commands:
 
-   .. code-block:: SHELL
+- With your already `installed QGIS <QGIS1>`,  go to the start menu in Windows, locate **OSGeo4W Shell** and open it. If you automatically do not have administrative rights you need to right-click on **OSGeo4W Shell**, *Open file Location*, Right-click on **OSGeo4W Shell** again and choose *Run as Administrator*; type the following two commands:
 
-      py3_env
-      pip install notebook
+.. code-block:: SHELL
 
-   - To start Jupyter Notebook type:
+   py3_env
+   pip install notebook
 
-   .. code-block:: SHELL
+- To start Jupyter Notebook type:
 
-      jupyter notebook
+.. code-block:: SHELL
+
+   jupyter notebook
 
 
 .. _jpt_gen:
