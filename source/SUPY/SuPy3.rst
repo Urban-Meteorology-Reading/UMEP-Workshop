@@ -7,14 +7,14 @@ SuPy - Impact study
 
 **Prior to this activity**
 
-- `Basics for running SuPy <SuPy2>`_
+- `Basics for running SuPy <SuPy2>`
 
 
 **Activity**
 
 
 -  In this activity you use will use SuPy to conduct an `impact
-   study <https://SuPy.readthedocs.io/en/latest/tutorial/impact-studies-parallel.html>`__
+   study <https://supy.readthedocs.io/en/latest/tutorial/impact-studies.html>`__
 
    You will explore the urban climate response to two scenarios:
 
