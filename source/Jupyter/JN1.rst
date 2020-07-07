@@ -13,27 +13,40 @@ Jupyter Notebooks: setting up your research-oriented coding environment
 **Activity**
 
 
-- Video ******************************************************************************
+- Basic operations (V, L)
 
-- Basic operations (L)
+   .. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="350" src="https://www.youtube.com/embed/FZ1aNbH178Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
    - command/edit mode
    - code/markdown cell
-      - run your code
-      - take notes
+    - run your code
+    - take notes
+
+- Advanced tips (L)
+
+   .. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="350" src="https://www.youtube.com/embed/Ts5DC5-5xVw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
    - add cells above/below
+   - stop/restart kernel
    - cut (delete) / copy / paste cells
    - merge/split cells
 
-
-- Advanced tips (L)
    - structuring your notebook
-      - main storyline
-      - scratch pad
+    - main storyline
+    - scratch pad
    - note-taking in markdown
-      - basics
-      - equation
+    - basics
+    - equation
    - magic with ``line/cell-magic``
-      - terminal commands
-      - external modules (e.g., Fortran)
+    - terminal commands
+    - external modules (e.g., Fortran)
 
 
