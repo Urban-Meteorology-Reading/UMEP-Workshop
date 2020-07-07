@@ -3,8 +3,6 @@
 Meteorological data for UMEP
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-UNDER PREPARATION
-
 **This will this take:** ~10 minutes
 
 **Expected knowledge/activity before this**
