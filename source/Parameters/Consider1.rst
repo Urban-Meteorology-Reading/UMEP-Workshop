@@ -88,7 +88,7 @@ Initial Conditions
 
 - `Initial conditions <https://suews.readthedocs.io/en/latest/input_files/Initial_Conditions/Initial_Conditions.html>`_
 
-- Conducting a model spinup for a number of years allows for the influence of the conditions selected to begin with being no longer critical.
+- Conducting a model spinup for a number of years allows for the influence of the conditions selected to begin with, to become no longer critical.
 - Key ones to consider 
   
    - leaf area index (leaf-on, leaf-off)
@@ -96,7 +96,7 @@ Initial Conditions
    
 - less critical
   
-   - surface state (as long as modelling for a long period) as these will change rapdidly
+   - surface state (as long as modelling for a long period) as these will change rapidly
    
 - meteorological variables
 
@@ -104,5 +104,5 @@ Initial Conditions
    
 - snow conditions
  
-   - this needs to be done very carefully if only a short model run.  A long model run starting from snow-free conditons would ensure that the snow accumulation occurs at the right time etc
+   - this needs to be done very carefully for a short model run.  A long model run starting from snow-free conditons would ensure that the snow accumulation occurs at the right time etc
  
