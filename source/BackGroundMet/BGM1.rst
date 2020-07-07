@@ -1,4 +1,4 @@
-.. _BG1:
+.. _BGM1:
 
 Glossary
 ========
@@ -20,7 +20,7 @@ Glossary
 
     ERA5
         `Reanalysis data <https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5>`_
-    
+
     LAI
         Leaf Area Index
 
@@ -35,17 +35,17 @@ Glossary
 
     SEB
         :ref:`SEB`. An `urban definition <https://suews.readthedocs.io/en/latest/introduction.html>`_
-        
+
     SUEWS
-        Surface [Urban] Energy and Water Balance Scheme 
+        Surface [Urban] Energy and Water Balance Scheme
         `Manual <https://suews-docs.readthedocs.io/en/latest/>`_
-        
+
     SuPy
          SUEWS that speaks Python
          `Manual <https://supy.readthedocs.io/en/latest/>`_
-         
+
     UMEP
-         Urban Multi-scale Environmental Predictor 
+         Urban Multi-scale Environmental Predictor
          `Manual <https://umep-docs.readthedocs.io/en/latest/>`_
 
     Obukhov Length (:math:`L`)
@@ -53,11 +53,11 @@ Glossary
 
     Python
         A computer programming language
-        
-        
+
+
     Jupyter Notebook
         A tool to help organize a project with progamming involved. An introduction is given here :ref:`JN1`
-        
-    Fortran 
+
+    Fortran
         A computer programming language
 
