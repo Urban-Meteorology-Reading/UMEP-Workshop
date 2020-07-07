@@ -32,7 +32,7 @@ Roughness length (:math:`z_0`) and displacement height (:math:`d`)
 If the displacement height is known, or is negligible, the logarithmic
 law equation can be rearranged with observed :math:`z_0` and mean wind
 speed to allow :math:`z_0` to be determined. As this may vary we
-normally take median of a minimum of 20 results for a wind direction
+normally take the median of a minimum of 20 results for a wind direction
 sector. If you have a period with a lot of *neutral* conditions you may be
 able to get a lot of samples rapidly.
 
