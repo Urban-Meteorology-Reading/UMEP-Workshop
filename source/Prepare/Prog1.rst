@@ -69,4 +69,4 @@ The Teams channel will be open for chat, and you can go into a DG (Discussion Gr
 
 **Delivery**
 
-Beyond the workshop manual there are videos, tutorials, lectures and links to other material (e.g. manuals, articles). This a hands on workshop. People will be avalable to help throughout.
+Beyond the workshop manual there are videos, tutorials, lectures and links to other material (e.g. manuals, articles). This a hands on workshop. People will be available to help throughout.
