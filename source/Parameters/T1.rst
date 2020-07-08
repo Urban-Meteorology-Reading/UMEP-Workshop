@@ -44,7 +44,7 @@ Site parameters
 Anthropogenic Heat
 ==============================
 
-- This varies significantly across a city and between cites.
+- This varies significantly across a city and between cities.
 - This can be modelled offline (e.g. using LUCY, LQF) and then values supplied in the meterological input. The disadvantage of this is that the results are static (e.g. do not repond to temperature) but may allow for more sophisticated/detailed modeling of the values. 
 - The offline models can be used to derive parameters for models within SUEWS  (e.g. Ward and Grimmond 2017). This allows for the responses to conditions to be captured and then modelling for other conditions to be predicted.
 
@@ -174,3 +174,5 @@ Water within Grid
 
 All
 ====
+
+- all the different characteristic types need to be considered
