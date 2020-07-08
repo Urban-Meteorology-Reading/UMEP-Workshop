@@ -3,101 +3,153 @@
 Site parameters
 ----------------
 
+
  .. list-table:: Site parameters
    :header-rows: 1
-   :widths: 40, 70, 50
+   :widths: 40, 70
 
    * - Name
      - Type
-     - How to determine
-   * - SUEWS_AnthropogenicEmission.txt 
-     - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_AnthropogenicEmission.html>`_
+   * - `SUEWS_AnthropogenicEmission.txt <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_AnthropogenicEmission.html>`_
      - :ref:`T1-QF`
-   * - SUEWS_BiogenCO2.txt 
-     - `Function, Biophysical <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_BiogenCO2.html>`_
+   * - `SUEWS_BiogenCO2.txt <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_BiogenCO2.html>`_
      - :ref:`T1-w`
-   * - SUEWS_Conductance.txt
-     - `Biophysical <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Conductance.html>`_
+   * - `SUEWS_Conductance.txt <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Conductance.html>`_
      - :ref:`T1-gs`
-   * - SUEWS_Irrigation.txt
-     - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Irrigation.html>`_
+   * - `SUEWS_Irrigation.txt <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Irrigation.html>`_
      - :ref:`T1-w`,  :ref:`T1-f`
-   * - SUEWS_NonVeg.txt
-     - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_NonVeg.html>`_
+   * - `SUEWS_NonVeg.txt <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_NonVeg.html>`_
      -  :ref:`T1-m`
-   * - SUEWS_OHMCoefficients.txt
-     - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_OHMCoefficients.html>`_
+   * - `SUEWS_OHMCoefficients.txt <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_OHMCoefficients.html>`_
      - :ref:`T1-m`
-   * - SUEWS_Profiles.txt
-     - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Profiles.html>`_
+   * - `SUEWS_Profiles.txt <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Profiles.html>`_
      - :ref:`T1-f`
-   * - SUEWS_SiteSelect.txt
-     - `all <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_SiteSelect.html>`_
+   * - `SUEWS_SiteSelect.txt <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_SiteSelect.html>`_
      - :ref:`T1-a`
-   * - SUEWS_Snow.txt
-     - `Function,materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Snow.html>`_
+   * - `SUEWS_Snow.txt <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Snow.html>`_
      -  :ref:`T1-w`,  :ref:`T1-f`
-   * - SUEWS_Soil.txt
-     - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Soil.html>`_
-     -  :ref:`T1-w`
-   * - SUEWS_Veg.txt
-     - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Veg.html>`_
-     -  :ref:`T1-a`
-   * - SUEWS_Water.txt
-     - `Materials <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Water.html>`_
+   * - `SUEWS_Soil.txt <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Soil.html>`_
      -  :ref:`T1-m`
-   * - SUEWS_WithinGridWaterDist.txt
-     - `Function <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_WithinGridWaterDist.html>`_
+   * - `SUEWS_Veg.txt <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Veg.html>`_
+     -  :ref:`T1-m`
+   * - `SUEWS_Water.txt <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Water.html>`_
+     -  :ref:`T1-w`
+   * - `SUEWS_WithinGridWaterDist.txt <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_WithinGridWaterDist.html>`_
      -  :ref:`T1-w`
 
 
 
 .. _T1-QF:
 
-Approach to Anthropogenic Heat
+Anthropogenic Heat
 ==============================
 
-- U approach
-- V approach
-- DASH approach
+- This varies significantly across a city and between cites.
+- This can be modelled offline (e.g. using LUCY, LQF) and then values supplied in the meterological input. The disadvantage of this is that the results are static (e.g. do not repond to temperature) but may allow for more sophisticated/detailed modeling of the values. 
+- The offline models can be used to derive parameters for models within SUEWS  (e.g. Ward and Grimmond 2017). This allows for the responses to conditions to be captured and then modelling for other conditions to be predicted.
 
- 
- 
+**Approaches**
+
+- U approach  (Ao et al. 2018)
+- V approach  (Jarvi et al. 2011)
+- DASH approach (Capel-Timms et al. 2020)
+- LUCY/LQF approach (Allen et al. 2011, Lindberg et al. 2013, Gabey et al. 2019 ) 
+- GQF approach (Iamarino et al. 2012, Gabey et al. 2019)
+
+**References**
+
+- Allen L, F Lindberg, CSB Grimmond 2011: Global to city scale model for anthropogenic heat flux, International J. of Climatology, 31, 1990-2005 10.1002/joc.2210
+- Ao Xiangyu, CSB Grimmond, HC Ward, AM Gabey, Jianguo Tan, Xiuqun Yang, Dongwei Liu, Xing Zhi, Hongya Liu, Ning Zhang Evaluation of the Surface Urban Energy and Water balance Scheme (SUEWS) at a dense urban site in Shanghai: Sensitivity to anthropogenic heat and irrigation J Hydrometeorology 19, 1983–2005,https://doi.org/10.1175/JHM-D-18-0057.1
+- Capel-Timms I, ST Smith, T Sun, S Grimmond Dynamic Anthropogenic activitieS impacting Heat emissions (DASH v1.0): Development and evaluation. In reivew
+- Gabey A, S Grimmond, I Capel-Timms 2019: Anthropogenic Heat Flux: advisable spatial resolutions when input data are scarce Theoretical and Applied Climatology 135 (1-2), 791-807 https://doi.org/10.1007/s00704-018-2367-y 
+- Iamarino M, Beevers S, CSB Grimmond 2012: High Resolution (Space, Time) Anthropogenic Heat Emissions: London 1970-2025 International J. of Climatology 32, 1754-1767 10.1002/joc.2390
+- Järvi L, CSB Grimmond, A Christen 2011: The Surface Urban Energy and Water Balance Scheme (SUEWS): Evaluation in Vancouver and Los Angeles. J. of Hydrology, 411, 219-237 10.1016/j.jhydrol.2011.10.001
+- Lindberg F, CSB Grimmond, N Yogeswaran, S Kotthaus, L Allen 2013: Impact of city changes and weather on anthropogenic heat flux in Europe 1995-2015 Urban Climate,4, 1–15 10.1016/j.uclim.2013.03.002
+- Ward HC, S Grimmond 2017: Using biophysical modelling to assess the impact of various scenarios on summertime urban climate across Greater London Landscape and Urban Planning 165, 142–161, https://doi.org/10.1016/j.landurbplan.2017.04.001
+
 .. _T1-gs:
  
 Conductances
 ------------
+
+- For urban areas, at the moement, we *recommend* the values that the model come with. However, for areas which are largely vegetated we *recommend* that other values are used.  Omidvar et al. (2020) provides values for a range of different vegetation types.
+
+*How to determine your own values?* 
+
+- if you have observations for a long period (e.g. changing phenology) then you can calculate your own values. The following paper explian how:
  
-- Hamid paper
-- Grimmond and Oke (1991)
- -
+  - Omdivar et al. (2020) - there are Jupyter Notebooks with code for may model parameters *start here*
+  - Ward et al. (2016)
+  - Jarvi et al. (2011)
+  - Grimmond and Oke (1991)
+ 
+**References**
+
+- Grimmond CSB, TR Oke 1991: An evaporation-interception model for urban areas. Water Resources Research, 27, 1739-1755.
+- Järvi L, CSB Grimmond, A Christen 2011: The Surface Urban Energy and Water Balance Scheme (SUEWS): Evaluation in Vancouver and Los Angeles. J. of Hydrology, 411, 219-237 10.1016/j.jhydrol.2011.10.001-
+- Omidvar H, T Sun, S Grimmond, D Bilesbach, A Black, J Chen, Z Duan, Z Gao, H Iwata, JP McFadden. Surface [Urban] Energy and Water Balance Scheme in non-urban areas: developments, parameters and performance,  (in review)
+- Ward HC. S Kotthaus, L Järvi, CSB Grimmond 2016: Surface Urban Energy and Water Balance Scheme (SUEWS): development and evaluation at two UK sites Urban Climate 18, 1–32 https://doi.org/10.1016/j.uclim.2016.05.001
 
 .. _T1-m:
 
 Materials
 ---------
 
+For each material type there are different characteristics needed for the radiative, conductive and water behaviour.
 
+ .. list-table:: Material related parameters
+   :header-rows: 1
+   :widths: 40, 70
+
+   * - Type
+     - Comment
+   * - Height
+     - for larger roughness elements  this is needed
+   * - Albedo **important**
+     -
+   * - Emissivity
+     -
+   * - Surface water storage capacity 
+     - amount of water that is intercepted before drainage occurs
+   * - Runoff/drainge of water from the surface
+     - drainage rate after interception water storage is full
+   * - Storage Heat 
+     - there are two sub-models OHM and ESTM to choose from, parameters needed vary with which is chosen
+   * - Phenology **important**
+     - for vegetation it is necessary to capture the seasonal response of the vegetation
+  
 .. _T1-f:
 
 Function
 --------
 
+- Does day light savings occur?
+- **Profiles:** 
 
-**Profiles**
+.. list-table:: Profile types 
+   :header-rows: 1
+   :widths: 40, 70
 
-- When do people do things on work days? non-work days?
-- DASH
+   * - Type
+     - Comment
+   * - Energy Use
+     - When do people do things on work days? non-work days?
+   * - External Water use
+     - garden irrigation, car cleaning, street cleaning
+   * - Snow clearing
+     - when does this occur? what is the prioriy order for a region (e.g. major vs minor roads)
 
 
-
- 
  
 .. _T1-w:
 
 Water within Grid
 -----------------
 
+ - How does water move between areas?
+ - Does the water from the roof all go in to drains or does some go on to grass?
+ 
+ 
 
 .. _T1-a:
 

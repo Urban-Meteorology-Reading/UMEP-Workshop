@@ -44,15 +44,11 @@ Site Information
    :header-rows: 1
    :widths: 30, 30, 30, 30
 
-   * - Function
-     - Materials
-     - Biophysical
-     - Water
-   * - :ref:`T1-f`
-     - :ref:`T1-m`
-     - :ref:`T1-gs`
-     - :ref:`T1-w`
-   * - `SUEWS_AnthropogenicEmission <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_AnthropogenicEmission.html>`_
+   * - Function  :ref:`T1-f`
+     - Materials :ref:`T1-m`
+     - Biophysical :ref:`T1-gs`
+     - Water :ref:`T1-w`
+  * - `SUEWS_AnthropogenicEmission <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_AnthropogenicEmission.html>`_
      - `SUEWS_NonVeg <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_NonVeg.html>`_
      - `SUEWS_BiogenCO2 <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_BiogenCO2.html>`_
      - `SUEWS_Irrigation <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/SUEWS_Irrigation.html>`_
@@ -104,5 +100,5 @@ Initial Conditions
    
 - snow conditions
  
-   - this needs to be done very carefully for a short model run.  A long model run starting from snow-free conditons would ensure that the snow accumulation occurs at the right time etc
+   - This needs to be done very carefully for a short model run.  A long model run starting from snow-free conditons would ensure that the snow accumulation occurs at the right time etc
  
