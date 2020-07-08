@@ -68,5 +68,4 @@ The Teams channel will be open for chat, and you can go into a DG (Discussion Gr
 -  On each page there is a link to the `Need help page <NeedHelp>` where you will see various ways to move forward if someone is not available to help you (suggestions for improving this would be good).
 
 **Delivery**
-
-Beyond the workshop manual there are videos, tutorials, lectures and links to other material (e.g. manuals, articles). This a hands on workshop. People will be available to help throughout.
+Beyond the workshop manual there are videos, tutorials, lectures and links to other material (e.g. manuals, articles). This is a hands on workshop. People will be available to help throughout.
