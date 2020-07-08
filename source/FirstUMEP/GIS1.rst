@@ -7,7 +7,7 @@ Basics of UMEP, QGIS and Spatial data
 
 **Assumed prior knowledge**
 
-- Completed `A First QGIS and UMEP activity <https://urban-meteorology-reading.github.io/UMEP-Workshop.io/FirstUMEP/UMEP2.html>`_
+- Completed `A First QGIS and UMEP activity <UMEP2>`
 
 
 **Activity**
