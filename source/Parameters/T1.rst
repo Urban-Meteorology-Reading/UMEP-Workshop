@@ -76,9 +76,9 @@ Conductances
 
 *How to determine your own values?* 
 
-- if you have observations for a long period (e.g. changing phenology) then you can calculate your own values. The following paper explian how:
+- if you have observations for a long period (e.g. changing phenology) then you can calculate your own values. The following papers explain how:
  
-  - Omdivar et al. (2020) - there are Jupyter Notebooks with code for may model parameters *start here*
+  - Omdivar et al. (2020) - there are Jupyter Notebooks with Python code for many model parameters *start here*
   - Ward et al. (2016)
   - Jarvi et al. (2011)
   - Grimmond and Oke (1991)
@@ -106,7 +106,7 @@ For each material type there are different characteristics needed for the radiat
    * - Height
      - for larger roughness elements  this is needed
    * - Albedo **important**
-     -
+     - This changes with phenology
    * - Emissivity
      -
    * - Surface water storage capacity 
@@ -115,16 +115,27 @@ For each material type there are different characteristics needed for the radiat
      - drainage rate after interception water storage is full
    * - Storage Heat 
      - there are two sub-models OHM and ESTM to choose from, parameters needed vary with which is chosen
-   * - Phenology **important**
-     - for vegetation it is necessary to capture the seasonal response of the vegetation
+   * - LAI/Phenology **important**
+     - for vegetation it is necessary to capture the seasonal response of the vegetation. 
+   * - Infiltration rate
+     - does water pond on the surface or drain into the soil?
   
+ 
+*How to determine your own values?* 
+
+- If you have observations for a long period (e.g. changing phenology) then you can calculate your own values. The following paper explains how:
+ 
+  - Omdivar et al. (2020) - there are Jupyter Notebooks with Python code for many model parameters *start here*
+
+
 .. _T1-f:
 
 Function
 --------
 
+-
 - Does day light savings occur?
-- **Profiles:** 
+
 
 .. list-table:: Profile types 
    :header-rows: 1
@@ -135,11 +146,16 @@ Function
    * - Energy Use
      - When do people do things on work days? non-work days?
    * - External Water use
-     - garden irrigation, car cleaning, street cleaning
+     - garden irrigation, car cleaning, street cleaning, dust suppression,automatic or manual, flood irrigation to maintain a soil mositure content
    * - Snow clearing
      - when does this occur? what is the prioriy order for a region (e.g. major vs minor roads)
+   * - Population density
+     -  day time densities (work, school relate)(Night - census where people live); DASH model allows fopoy dynamic occupancy (Capel-Timms et al. 2020)
 
 
+**References**
+
+- Capel-Timms I, ST Smith, T Sun, S Grimmond Dynamic Anthropogenic activitieS impacting Heat emissions (DASH v1.0): Development and evaluation. In reivew
  
 .. _T1-w:
 
@@ -148,7 +164,9 @@ Water within Grid
 
  - How does water move between areas?
  - Does the water from the roof all go in to drains or does some go on to grass?
- 
+ - All surfaces can be set to move water fronn one land cover to another - the constraint is that is it must add up to 100%
+ - this will influence the soil moisture available (or not) to plants
+ - does irrgation all go to vegetation or does flow to the roads if too wet
  
 
 .. _T1-a:
