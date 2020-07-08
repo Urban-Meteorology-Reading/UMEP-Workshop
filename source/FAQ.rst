@@ -3,7 +3,7 @@
 FAQ (Frequently Asked Questions)
 --------------------------------
 
-Here we ensemble common questions that appear throughout the workshop. 
+Here are common questions that appear throughout the workshop. 
 
 **Daily shading**
 
