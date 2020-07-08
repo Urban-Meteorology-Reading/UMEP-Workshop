@@ -70,7 +70,7 @@ Anthropogenic Heat
 .. _T1-gs:
  
 Conductances
-------------
+============
 
 - For urban areas, at the moement, we *recommend* the values that the model come with. However, for areas which are largely vegetated we *recommend* that other values are used.  Omidvar et al. (2020) provides values for a range of different vegetation types.
 
@@ -93,7 +93,7 @@ Conductances
 .. _T1-m:
 
 Materials
----------
+==========
 
 For each material type there are different characteristics needed for the radiative, conductive and water behaviour.
 
@@ -114,11 +114,13 @@ For each material type there are different characteristics needed for the radiat
    * - Runoff/drainge of water from the surface
      - drainage rate after interception water storage is full
    * - Storage Heat 
-     - there are two sub-models OHM and ESTM to choose from, parameters needed vary with which is chosen
+     - Choice from three sub-models (OHM, AnOHM, ESTM) parameters needed vary with which is used
    * - LAI/Phenology **important**
      - for vegetation it is necessary to capture the seasonal response of the vegetation. 
    * - Infiltration rate
      - does water pond on the surface or drain into the soil?
+   * - Soil 
+     -  soil density, hydraulid conducitivity, depth,  
   
  
 *How to determine your own values?* 
@@ -131,9 +133,8 @@ For each material type there are different characteristics needed for the radiat
 .. _T1-f:
 
 Function
---------
+=========
 
--
 - Does day light savings occur?
 
 
@@ -160,7 +161,7 @@ Function
 .. _T1-w:
 
 Water within Grid
------------------
+=================
 
  - How does water move between areas?
  - Does the water from the roof all go in to drains or does some go on to grass?
@@ -172,4 +173,4 @@ Water within Grid
 .. _T1-a:
 
 All
----
+====
