@@ -80,24 +80,24 @@ Materials
 
 For each material type there are different characteristics needed for the radiative, conductive and water behaviour.
 
- .. list-table:: Site parameters
+ .. list-table:: Material related parameters
    :header-rows: 1
    :widths: 40, 70
 
    * - Type
      - Comment
    * - Height
-     -
+     - 
    * - Albedo
      -
    * - Emissivity
      -
-   * - Surface storage of water
-     -
-   * - Runoff of water from the surface
-     -
+   * - Surface water storage capacity 
+     - amount of water that is intercepted before drainage occurs
+   * - Runoff/drainge of water from the surface
+     - drainage rate after interception water storage is full
    * - Storage Heat 
-     -
+     - - there  are two models OHM and ESTM to choose from, parameters needed vary with which is chosen
      
 
 
@@ -106,12 +106,21 @@ For each material type there are different characteristics needed for the radiat
 Function
 --------
 
+- Does day light savings occur?
+- **Profiles:** 
 
-**Profiles**
+.. list-table:: Profile types 
+   :header-rows: 1
+   :widths: 40, 70
 
-- When do people do things on work days? non-work days?
-- DASH
-
+   * - Type
+     - Comment
+   * - Energy Use
+     - When do people do things on work days? non-work days?
+   * - External Water use
+     - garden irrigation, car cleaning, street cleaning
+   * - Snow clearing
+     - when does this occur? what is the prioriy order for a region
 
 
  
@@ -121,6 +130,9 @@ Function
 Water within Grid
 -----------------
 
+ - How does water move between areas?
+ - Does the water from the roof all go to drains  or does some go on to grass?
+ 
 
 .. _T1-a:
 
