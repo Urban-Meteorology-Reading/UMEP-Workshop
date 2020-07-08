@@ -34,10 +34,12 @@ Trees porosity may change through the year with phenology. For example, when dec
 **Measurement of LAI**
 
 -  Direct measurements
+
     * Destructive sampling - measuring the area of all the leaves of a tree
     * Collect all the leaves that fall off and measuring their area
 
 -  Indirect measurements
+
     * Measurements (above and below the canopy) of radiation (e.g. using LAI-2000, LI-COR) which are then used to infer LAI
     * Satellite based products e.g. MODIS
 
