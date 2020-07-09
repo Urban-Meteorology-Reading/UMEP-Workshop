@@ -3,6 +3,8 @@
 Heights that need to be considered in SUEWS
 --------------------------------------------
 
+A wide number of height needs to be considered before applying SUEWS. The following figure and table help to clarify the differences between these
+
 
 .. list-table:: Heights important for SUEWS
    :header-rows: 1
