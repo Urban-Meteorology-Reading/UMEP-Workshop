@@ -4,8 +4,8 @@ Site parameters
 ----------------
 
 A wide range of parameters can be set to characterise each grid in your study area.  The following explains what things you should consider as you decide on the amount of effort needs to be spent on each fo these. Somed data can be obtained from literature and others are very site specifice. Dpending on your goal for applying the model you may want to spend more or less effort ensuring the parameters values are good/reasonable/OK for your site. A good starting point is to concentrate  on the  parameters that are initially most importnat and update the others once you have some initial runs.
- 
- Make certain you have read this `section <https://suews.readthedocs.io/en/latest/prepare-to-run-the-model.html#preparation-of-data>`_  and this `section <https://suews.readthedocs.io/en/latest/prepare-to-run-the-model.html#analyse-the-output> of the SUEWS manual.
+
+ Make certain you have read this `section <https://suews.readthedocs.io/en/latest/prepare-to-run-the-model.html#preparation-of-data>`_  and this `section <https://suews.readthedocs.io/en/latest/prepare-to-run-the-model.html#analyse-the-output>`_ of the SUEWS manual.
 
 
 
@@ -50,7 +50,7 @@ Anthropogenic Heat
 ==============================
 
 - This varies significantly across a city and between cities.
-- This can be modelled offline (e.g. using LUCY, LQF) and then values supplied in the meterological input. The disadvantage of this is that the results are static (e.g. do not repond to temperature) but may allow for more sophisticated/detailed modeling of the values. 
+- This can be modelled offline (e.g. using LUCY, LQF) and then values supplied in the meterological input. The disadvantage of this is that the results are static (e.g. do not repond to temperature) but may allow for more sophisticated/detailed modeling of the values.
 - The offline models can be used to derive parameters for models within SUEWS  (e.g. Ward and Grimmond 2017). This allows for the responses to conditions to be captured and then modelling for other conditions to be predicted.
 
 **Approaches**
@@ -58,7 +58,7 @@ Anthropogenic Heat
 - U approach  (Ao et al. 2018)
 - V approach  (Jarvi et al. 2011)
 - DASH approach (Capel-Timms et al. 2020)
-- LUCY/LQF approach (Allen et al. 2011, Lindberg et al. 2013, Gabey et al. 2019 ) 
+- LUCY/LQF approach (Allen et al. 2011, Lindberg et al. 2013, Gabey et al. 2019 )
 - GQF approach (Iamarino et al. 2012, Gabey et al. 2019)
 
 **References**
@@ -66,28 +66,28 @@ Anthropogenic Heat
 - Allen L, F Lindberg, CSB Grimmond 2011: Global to city scale model for anthropogenic heat flux, International J. of Climatology, 31, 1990-2005 10.1002/joc.2210
 - Ao Xiangyu, CSB Grimmond, HC Ward, AM Gabey, Jianguo Tan, Xiuqun Yang, Dongwei Liu, Xing Zhi, Hongya Liu, Ning Zhang Evaluation of the Surface Urban Energy and Water balance Scheme (SUEWS) at a dense urban site in Shanghai: Sensitivity to anthropogenic heat and irrigation J Hydrometeorology 19, 1983–2005,https://doi.org/10.1175/JHM-D-18-0057.1
 - Capel-Timms I, ST Smith, T Sun, S Grimmond Dynamic Anthropogenic activitieS impacting Heat emissions (DASH v1.0): Development and evaluation. In reivew
-- Gabey A, S Grimmond, I Capel-Timms 2019: Anthropogenic Heat Flux: advisable spatial resolutions when input data are scarce Theoretical and Applied Climatology 135 (1-2), 791-807 https://doi.org/10.1007/s00704-018-2367-y 
+- Gabey A, S Grimmond, I Capel-Timms 2019: Anthropogenic Heat Flux: advisable spatial resolutions when input data are scarce Theoretical and Applied Climatology 135 (1-2), 791-807 https://doi.org/10.1007/s00704-018-2367-y
 - Iamarino M, Beevers S, CSB Grimmond 2012: High Resolution (Space, Time) Anthropogenic Heat Emissions: London 1970-2025 International J. of Climatology 32, 1754-1767 10.1002/joc.2390
 - Järvi L, CSB Grimmond, A Christen 2011: The Surface Urban Energy and Water Balance Scheme (SUEWS): Evaluation in Vancouver and Los Angeles. J. of Hydrology, 411, 219-237 10.1016/j.jhydrol.2011.10.001
 - Lindberg F, CSB Grimmond, N Yogeswaran, S Kotthaus, L Allen 2013: Impact of city changes and weather on anthropogenic heat flux in Europe 1995-2015 Urban Climate,4, 1–15 10.1016/j.uclim.2013.03.002
 - Ward HC, S Grimmond 2017: Using biophysical modelling to assess the impact of various scenarios on summertime urban climate across Greater London Landscape and Urban Planning 165, 142–161, https://doi.org/10.1016/j.landurbplan.2017.04.001
 
 .. _T1-gs:
- 
+
 Conductances
 ============
 
 - For urban areas, at the moement, we *recommend* the values that the model come with. However, for areas which are largely vegetated we *recommend* that other values are used.  Omidvar et al. (2020) provides values for a range of different vegetation types.
 
-*How to determine your own values?* 
+*How to determine your own values?*
 
 - if you have observations for a long period (e.g. changing phenology) then you can calculate your own values. The following papers explain how:
- 
+
   - Omdivar et al. (2020) - there are Jupyter Notebooks with Python code for many model parameters *start here*
   - Ward et al. (2016)
   - Jarvi et al. (2011)
   - Grimmond and Oke (1991)
- 
+
 **References**
 
 - Grimmond CSB, TR Oke 1991: An evaporation-interception model for urban areas. Water Resources Research, 27, 1739-1755.
@@ -114,24 +114,24 @@ For each `material type <https://suews.readthedocs.io/en/latest/prepare-to-run-t
      - This changes with phenology
    * - Emissivity
      -
-   * - Surface water storage capacity 
+   * - Surface water storage capacity
      - amount of water that is intercepted before drainage occurs
    * - Runoff/drainge of water from the surface
      - drainage rate after interception water storage is full
-   * - Storage Heat 
+   * - Storage Heat
      - Choice from three sub-models (OHM, AnOHM, ESTM) parameters needed vary with which is used
    * - LAI/Phenology **important**
-     - for vegetation it is necessary to capture the seasonal response of the vegetation. 
+     - for vegetation it is necessary to capture the seasonal response of the vegetation.
    * - Infiltration rate
      - does water pond on the surface or drain into the soil?
-   * - Soil 
-     -  soil density, hydraulid conducitivity, depth,  
-  
- 
-*How to determine your own values?* 
+   * - Soil
+     -  soil density, hydraulid conducitivity, depth,
+
+
+*How to determine your own values?*
 
 - If you have observations for a long period (e.g. changing phenology) then you can calculate your own values. The following paper explains how:
- 
+
   - Omdivar et al. (2020) - there are Jupyter Notebooks with Python code for many model parameters *start here*
 
 
@@ -143,7 +143,7 @@ Function
 - Does day light savings occur?
 
 
-.. list-table:: Profile types 
+.. list-table:: Profile types
    :header-rows: 1
    :widths: 40, 70
 
@@ -162,7 +162,7 @@ Function
 **References**
 
 - Capel-Timms I, ST Smith, T Sun, S Grimmond Dynamic Anthropogenic activitieS impacting Heat emissions (DASH v1.0): Development and evaluation. In reivew
- 
+
 .. _T1-w:
 
 Water within Grid
@@ -173,7 +173,7 @@ Water within Grid
  - All surfaces can be set to move water fronn one land cover to another - the constraint is that is it must add up to 100%
  - this will influence the soil moisture available (or not) to plants
  - does irrgation all go to vegetation or does flow to the roads if too wet
- 
+
 
 .. _T1-a:
 
