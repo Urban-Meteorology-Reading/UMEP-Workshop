@@ -14,7 +14,7 @@ Here are common questions that appear throughout the workshop.
     Yes. You are in Sweden with very low sun elevations and 4-5 level buildings. That results in no vegetation shadows reaching the ground.
 
 
-**UMEP installation on macOS**
+**Software installation**
 
 .. _supy_umep_install:
 
@@ -91,4 +91,10 @@ Here are common questions that appear throughout the workshop.
 
 
 
+.. _jn_install:
 
+* Jupyter notebooks are not?
+    The recommended version ``2020.6.30`` seems to have installation issues due to a third-party package that prevents installation.
+If unfortunately such issue happens, please manually install a development version of SuPy manually following these steps:
+
+    1. Prepare utility functions in QGIS-python console by running the following:

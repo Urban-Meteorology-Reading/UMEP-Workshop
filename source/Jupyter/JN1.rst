@@ -27,12 +27,12 @@ Jupyter Notebooks: setting up your research-oriented coding environment
       <iframe width="100%" height="350" src="https://www.youtube.com/embed/PG2laJaHNsU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </div>
 
-  - from **QGIS** (see the end of the Video at time : XX)
+  - from **OSGeo4W Shell** (the video below automatically starts at: 2:40)
 
    .. raw:: html
 
       <div style="text-align: center; margin-bottom: 2em;">
-      <iframe width="100%" height="350" src="https://www.youtube.com/embed/R3QQQtf7zWU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <iframe width="100%" height="350" src="https://www.youtube.com/embed/bvZOOYZ0QOU?start=160" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </div>
 
 
@@ -48,10 +48,10 @@ Jupyter Notebooks: setting up your research-oriented coding environment
       <iframe width="100%" height="350" src="https://www.youtube.com/embed/FZ1aNbH178Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </div>
 
-   - command/edit mode
-   - code/markdown cell
-   - run your code
-   - take notes
+   - editing and saving a notebook
+   - adding and running cells
+   - edit/command mode
+   - take notes using Markdown
 
  - Advanced tips (L)
 
@@ -67,13 +67,13 @@ Jupyter Notebooks: setting up your research-oriented coding environment
    - merge/split cells
 
    - structuring your notebook
-   - main storyline
-   - scratch pad
-   - note-taking in markdown
-   - basics
-   - equation
-   - magic with ``line/cell-magic``
-   - terminal commands
-   - external modules (e.g., Fortran)
+    - main storyline
+    - scratch pad
+    - note-taking in markdown
+    - basics
+    - equation
+    - magic with ``line/cell-magic``
+    - terminal commands
+    - external modules (e.g., Fortran)
 
 
