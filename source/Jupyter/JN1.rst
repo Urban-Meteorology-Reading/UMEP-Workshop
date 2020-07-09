@@ -12,13 +12,17 @@ Jupyter Notebooks: setting up your research-oriented coding environment
 
 **Activity**
 
-- Launch Jupyter Notebook:
+
+- Launching  Jupyter Notebook - for those using **Anaconda**:
 
 .. raw:: html
 
    <div style="text-align: center; margin-bottom: 2em;">
    <iframe width="100%" height="350" src="https://www.youtube.com/embed/PG2laJaHNsU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
    </div>
+
+ - Launching from **QGIS** (see the end of the Video at time : XX)
+
 
 - Install Jupyter Notebook Extensions (Optional, but recommended):
 After you have completed the above, you are likely to want to install some Jupyter extensions. We `recommend <JN0>` these.
