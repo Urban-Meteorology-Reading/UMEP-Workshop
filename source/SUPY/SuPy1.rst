@@ -82,7 +82,7 @@ Preparation for using SuPy
    <iframe width="100%" height="350" src="https://www.youtube.com/embed/PG2laJaHNsU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
    </div>
 
-** Everyone**
+**Everyone**
 
 - Install Jupyter Notebook Extensions (Optional, but recommended):
 After you have completed the above, you are likely to want to install some Jupyter extensions. We `recommend <JN0>` these.
