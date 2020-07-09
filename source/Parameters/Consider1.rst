@@ -31,7 +31,7 @@ Data Sources
 Height consideration of the forcing data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- `The different Height summary <Height>`
+- `Several heights need to be considered <Height>`
 
 
 Site Information
@@ -84,19 +84,20 @@ Initial Conditions
 
 - `Initial conditions <https://suews.readthedocs.io/en/latest/input_files/Initial_Conditions/Initial_Conditions.html>`_
 
-- Conducting a model spinup for a number of years allows for the influence of the conditions selected to begin with, to become no longer critical.
-- Key ones to consider 
+- Conducting a model spinup for a number of years allows for the influence of the conditions selected to begin with to become less critical.
+- Key conditions to consider 
   
-   - leaf area index (leaf-on, leaf-off)
-   - soil moisture state
+   - leaf area index (leaf-on, leaf-off) - this is critical for evaporation
+   - soil moisture state - this is critical for evaporation
    
 - less critical
   
-   - surface state (as long as modelling for a long period) as these will change rapidly
+   - surface state (as long as modelling for many days) as these will change rapidly. 
+   - it is easy to just set this to be dry (e.g. summer) or wet (e.g. if rain has just occured)
    
 - meteorological variables
 
-   -  these can be determined from a wide range of data
+   -  These can be determined from a wide range of data (i.e. the same source as your forcing data)
    
 - snow conditions
  
