@@ -3,7 +3,7 @@
 Spatial and Meteorological data for UMEP
 ----------------------------------------
 
-This section includes examples on how generate and process appropriate data for UMEP.
+This section includes examples on how to generate and process appropriate data for UMEP.
 
 .. toctree::
    :maxdepth: 2
