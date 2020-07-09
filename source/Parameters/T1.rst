@@ -99,7 +99,7 @@ Conductances
 Materials
 ==========
 
-For each material type there are different characteristics needed for the radiative, conductive and water behaviour.
+For each `material type <https://suews.readthedocs.io/en/latest/prepare-to-run-the-model.html#land-cover>`_ there are different characteristics needed for the radiative, conductive and water behaviour.
 
  .. list-table:: Material related parameters
    :header-rows: 1
