@@ -13,9 +13,10 @@ Here are common questions that appear throughout the workshop.
 * On the 21. Dec there is not really a clear difference between Building Shadows and Building+Veg Shadows as there was on 21. June, is that correct?
     Yes. You are in Sweden with very low sun elevations and 4-5 level buildings. That results in no vegetation shadows reaching the ground.
 
-.. _supy_umep_install:
 
 **UMEP installation on macOS**
+
+.. _supy_umep_install:
 
 * SuPy couldn't be installed automatically on my Mac. What should I do?
     The recommended version ``2020.6.30`` seems to have installation issues due to a third-party package that prevents installation.
@@ -77,6 +78,8 @@ Here are common questions that appear throughout the workshop.
     This code snippet should determine the actual path of Python interpreter QGIS is using.
 
     2. install a development version of SuPy:
+
+    Also in the QGIS-python console, run this:
 
     .. code-block:: python
 

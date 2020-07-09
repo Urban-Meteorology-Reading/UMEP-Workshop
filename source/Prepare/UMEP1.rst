@@ -11,7 +11,7 @@ Installation of UMEP
 
 -  Follow `video <https://www.youtube.com/watch?v=R3QQQtf7zWU>`__ for instructions
 
-   
+
    .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
@@ -30,6 +30,10 @@ Installation of UMEP
    packages.
 
 - If you need to `update QGIS - go to need help <NeedHelp>`
+
+.. note:: macOS users, if you have issues in UMEP installation due to ``supy``, please follow `the instructions here <supy_umep_install>` for a solution.
+
+
 
 **Next:** You are now ready to run UMEP.
 
