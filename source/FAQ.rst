@@ -93,8 +93,35 @@ Here are common questions that appear throughout the workshop.
 
 .. _jn_install:
 
-* Jupyter notebooks are not?
-    The recommended version ``2020.6.30`` seems to have installation issues due to a third-party package that prevents installation.
-If unfortunately such issue happens, please manually install a development version of SuPy manually following these steps:
+* Jupyter notebooks CANNOT be launched? What should I do?
+   Please check the following in your command line tool (e.g., Terminal on macOS, OSGeo4W prompt on Windows given QGIS installed):
 
-    1. Prepare utility functions in QGIS-python console by running the following:
+   .. note:: if using OSGeo4W prompt, please run ``py3_env`` first to switch to your python3 environment.
+
+   1. Check if Jupyter notebook is installed:
+
+    .. code-block:: shell
+
+        python3 -m pip show notebook
+
+    if not, please install it:
+
+    .. code-block:: shell
+
+        python3 -m pip install notebook --user --upgrade
+
+   2. Jupyter notebook is installed but cannot be properly launched:
+
+    try to re-install it:
+
+    uninstall it first:
+
+    .. code-block:: shell
+
+        python3 -m pip uninstall notebook -y
+
+    then install it:
+
+    .. code-block:: shell
+
+        python3 -m pip install notebook --user --upgrade
