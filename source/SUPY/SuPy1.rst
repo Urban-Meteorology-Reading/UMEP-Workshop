@@ -14,7 +14,8 @@ Preparation for using SuPy
 - `Jupyter Notebook Cheatsheet <https://cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/>`_
 
 
-.. note: It is very important you do the right thing at this point.
+.. note:: 
+ It is very important you do the right thing at this point.
  (1) Are you a **Windows** user without a version of Pyhton on you computer except for QGIS if so go `here <jpt_win>`
  (2) If you already have Jupyter Notebooks installed use that
  (3) Otherwise - follow `these instructions <jpt_gen>`
