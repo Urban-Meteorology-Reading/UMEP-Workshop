@@ -15,7 +15,7 @@ Preparation for using SuPy
 
 
 .. note:: 
- It is very important you do the right thing at this point.
+ It is very important you do the right thing at this point. **Only do one of the following**
   
   #. If you are a **Windows** user without a version of Python on you computer except for QGIS if so go `here <jpt_win>`
   #. If you already have Jupyter Notebooks installed use that
@@ -73,20 +73,6 @@ Preparation for using SuPy
    <div style="text-align: center; margin-bottom: 2em;">
    <iframe width="100%" height="350" src="https://www.youtube.com/embed/qCZW5Esh3O8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
    </div>
-
-- Launch Jupyter Notebook:
-
-.. raw:: html
-
-   <div style="text-align: center; margin-bottom: 2em;">
-   <iframe width="100%" height="350" src="https://www.youtube.com/embed/PG2laJaHNsU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-   </div>
-
-**Everyone**
-
-- Install Jupyter Notebook Extensions (Optional, but recommended):
-After you have completed the above, you are likely to want to install some Jupyter extensions. We `recommend <JN0>` these.
-The method to `install the extensions is here <https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html>`_
 
 
 .. note::
