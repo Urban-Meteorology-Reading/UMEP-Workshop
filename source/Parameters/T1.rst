@@ -2,6 +2,9 @@
 
 Site parameters
 ----------------
+ A wide range of parameters can be set to characterise each grid in your study area.  The following explains what things you should consider as you decide on the amount of effort needs to be spent on each fo these. Somed data can be obtained from literature and others are very site specifice. Dpending on your goal for applying the model you may want to spend more or less effort ensuring the parameters values are good/reasonable/OK for your site. A good starting point is to concentrate  on the  parameters that are initially most importnat and update the others once you have some initial runs.
+ 
+ 
 
 
  .. list-table:: Site parameters
