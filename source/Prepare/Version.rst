@@ -19,7 +19,7 @@ As software is frequently updated, here are the versions used in the workshop. *
      - Follow QGIS instructions
      - `Install <QGIS1>`
    * - UMEP
-     - 3.15
+     - Update new version from Teams or GitHub
      - `Update UMEP <https://umep-docs.readthedocs.io/en/latest/Getting_Started.html#updating-the-umep-plugin>`_
      - `Install <UMEP1>`
    * - FUSION
