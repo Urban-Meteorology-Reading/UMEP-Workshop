@@ -13,42 +13,53 @@ Jupyter Notebooks: setting up your research-oriented coding environment
 **Activity**
 
 
-- Launching  Jupyter Notebook - for those using **Anaconda**:
+- Launching Jupyter Notebook
 
-.. raw:: html
-
-   <div style="text-align: center; margin-bottom: 2em;">
-   <iframe width="100%" height="350" src="https://www.youtube.com/embed/PG2laJaHNsU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-   </div>
-
- - Launching from **QGIS** (see the end of the Video at time : XX)
+.. note::
+   Only choose **ONE** of the two below that applies to your system
 
 
-- Install **Jupyter Notebook Extensions** (Optional, but recommended):
-We `recommend <JN0>` these. The method to `install the extensions is here <https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html>`_
-
-
-
-- Basic operations (V, L)
+  - using **Anaconda Navigator**:
 
    .. raw:: html
 
-    <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" height="350" src="https://www.youtube.com/embed/FZ1aNbH178Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    </div>
+      <div style="text-align: center; margin-bottom: 2em;">
+      <iframe width="100%" height="350" src="https://www.youtube.com/embed/PG2laJaHNsU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+
+  - from **QGIS** (see the end of the Video at time : XX)
+
+   .. raw:: html
+
+      <div style="text-align: center; margin-bottom: 2em;">
+      <iframe width="100%" height="350" src="https://www.youtube.com/embed/R3QQQtf7zWU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+
+
+- Install **Jupyter Notebook Extensions** (Optional, but recommended): We `recommend <JN0>` these. The method to `install the extensions is here <https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html>`_
+
+
+- Jupyter Notebook operations:
+ - Basic operations (V, L)
+
+   .. raw:: html
+
+      <div style="text-align: center; margin-bottom: 2em;">
+      <iframe width="100%" height="350" src="https://www.youtube.com/embed/FZ1aNbH178Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
 
    - command/edit mode
    - code/markdown cell
-    - run your code
-    - take notes
+   - run your code
+   - take notes
 
-- Advanced tips (L)
+ - Advanced tips (L)
 
    .. raw:: html
 
-    <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" height="350" src="https://www.youtube.com/embed/Ts5DC5-5xVw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    </div>
+      <div style="text-align: center; margin-bottom: 2em;">
+      <iframe width="100%" height="350" src="https://www.youtube.com/embed/Ts5DC5-5xVw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
 
    - add cells above/below
    - stop/restart kernel
@@ -56,13 +67,13 @@ We `recommend <JN0>` these. The method to `install the extensions is here <https
    - merge/split cells
 
    - structuring your notebook
-    - main storyline
-    - scratch pad
+   - main storyline
+   - scratch pad
    - note-taking in markdown
-    - basics
-    - equation
+   - basics
+   - equation
    - magic with ``line/cell-magic``
-    - terminal commands
-    - external modules (e.g., Fortran)
+   - terminal commands
+   - external modules (e.g., Fortran)
 
 
