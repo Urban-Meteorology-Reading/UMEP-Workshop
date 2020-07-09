@@ -1,8 +1,8 @@
  .. _CalcParam:
  
- Caculating Your \own parameters
+ Caculating your own parameters
  --------------------------------
  
-If you have observations for a long period (e.g. changing phenology) then you can calculate many paremeters. 
+In this tutorial you will learn how to calculate some parameters from observations. You need observations for a long period (e.g. changing phenology). 
 
 Omdivar et al. (2020) 
