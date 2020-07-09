@@ -4,7 +4,7 @@ Model Inputs
 ------------
 
 - `Files required to run SUEWS <https://suews.readthedocs.io/en/latest/input_files/input_files.html>`_
-- The data are needed for every grid (can be any shape) area in the doamin to be modelled.
+- The data are needed for every grid (can be any shape) area in the domain to be modelled.
 
 Model Physics options
 =====================
