@@ -1,7 +1,7 @@
 .. _Consider0:
 
-Considerations for applying SUEWS
----------------------------------
+Considerations when applying SUEWS to your own study area
+---------------------------------------------------------
 
 .. toctree::
    :maxdepth: 2
