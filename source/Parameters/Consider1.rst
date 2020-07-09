@@ -97,7 +97,7 @@ Initial Conditions
    
 - meteorological variables
 
-   -  These can be determined from a wide range of data (i.e. the same source as your forcing data)
+   -  These can be determined from a wide range of data (e.g. the same source as your forcing data)
    
 - snow conditions
  
