@@ -25,6 +25,12 @@ Meteorological data for UMEP
     <iframe width="100%" height="350" src="https://www.youtube.com/embed/31hhG2xoFKQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
+.. note::
+    The ERA5 downloader needs CDSAPI configured before using.
+    Please follow the official `guide here <https://cds.climate.copernicus.eu/api-how-to>`_ to finish the configuration.
+
+
+
 **Constraints**
 
 - The actual download of data takes a long time (hours).
