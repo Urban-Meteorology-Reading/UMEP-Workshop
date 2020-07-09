@@ -16,9 +16,10 @@ Preparation for using SuPy
 
 .. note:: 
  It is very important you do the right thing at this point.
- #. If you are a **Windows** user without a version of Python on you computer except for QGIS if so go `here <jpt_win>`
- #. If you already have Jupyter Notebooks installed use that
- #. Otherwise follow `these instructions <jpt_gen>`
+  
+  #. If you are a **Windows** user without a version of Python on you computer except for QGIS if so go `here <jpt_win>`
+  #. If you already have Jupyter Notebooks installed use that
+  #. Otherwise follow `these instructions <jpt_gen>`
 
 
 **Activity**
