@@ -24,9 +24,8 @@ Jupyter Notebooks: setting up your research-oriented coding environment
  - Launching from **QGIS** (see the end of the Video at time : XX)
 
 
-- Install Jupyter Notebook Extensions (Optional, but recommended):
-After you have completed the above, you are likely to want to install some Jupyter extensions. We `recommend <JN0>` these.
-The method to `install the extensions is here <https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html>`_
+- Install **Jupyter Notebook Extensions** (Optional, but recommended):
+We `recommend <JN0>` these. The method to `install the extensions is here <https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html>`_
 
 
 
