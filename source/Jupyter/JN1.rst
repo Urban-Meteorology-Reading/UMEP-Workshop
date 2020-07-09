@@ -3,7 +3,7 @@
 Jupyter Notebooks: setting up your research-oriented coding environment
 -----------------------------------------------------------------------
 
-**Time taken will be:** ~ xx min
+**Time taken will be:** ~ 20 min
 
 **Prior to this**
 
