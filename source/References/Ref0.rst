@@ -71,6 +71,11 @@ References
 
 -  Sun T, Grimmond CSB (2019) A Python-Enhanced Urban Land Surface Model SuPy (SUEWS in Python, v2019.2): Development, Deployment and Demonstration. *Geosci. Model Dev.*, 12, 2781–2795 `https://doi.org/10.5194/gmd-12-2781-2019 <https://doi.org/10.5194/gmd-12-2781-2019>`_
 
+
+.. _Sun2020:
+
+- Sun T, H Omidvar, S Grimmond 2020: SuPy Documentation Release 2020.7.8dev Jul 10, 2020 `https://supy.readthedocs.io/en/latest/# <https://supy.readthedocs.io/en/latest/#>`_
+
 .. _Ward2017:
 
 - Ward HC, S Grimmond 2017: Using biophysical modelling to assess the impact of various scenarios on summertime urban climate across Greater London *Landscape and Urban Planning* 165, 142–161, `https://doi.org/10.1016/j.landurbplan.2017.04.001 <https://doi.org/10.1016/j.landurbplan.2017.04.001>`_
