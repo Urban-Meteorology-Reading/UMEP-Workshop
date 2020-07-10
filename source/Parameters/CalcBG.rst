@@ -57,7 +57,7 @@ Background
  
    * -  Name
      -  Definition
-   * - :math:`alpha_LAImax`
+   * - :math:`alpha _{LAImax}`
      - Albedo of vegetation when LAI is equal to LAI_max
    * - \alpha_LAImin
      - Albedo of vegetation when LAI is equal to LAI_min
