@@ -2,7 +2,7 @@
 
 
 
-Definitons in the Python Notebooks
+Terminology used in the following Python Notebooks
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **For Leaf Area Index**
