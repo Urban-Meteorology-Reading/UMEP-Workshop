@@ -29,9 +29,9 @@ In this example we use meteorological observations from AmeriFlux (https://ameri
 Steps to using these notebooks:
 
 
-1-  Download the following files and codes:
+1-  Download the following files and codes (all the files are available `here <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/tree/master/source/Parameters/files>`_. You need to unzip the folders.):
 
- -  `data <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps/data>`_ : data that are necessary to calculate parameters (put them in the same directory as notebooks)
+ -  `data <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps/data>`_ : data that are necessary to calculate parameters (put them in the same directory as notebooks) :download:`files/data.zip>`
  - Utility functions: these are the utility functions that are called in notebooks. Put them in the same directory as notebooks. 
  
    - `Albedo and LAI utility <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/blob/master/docs/source/steps/alb_LAI_util.py>`_
