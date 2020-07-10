@@ -11,7 +11,7 @@ In these tutorials you can calculate various SUEWS parameters before running the
 
 The Figures below shows the order in which parameters should be derived:
 
-These tutorials are based on the calcuations undertaken in Omidvar et al. (2020).
+These tutorials are based on the calculations undertaken in Omidvar et al. (2020).
 
 .. _fig_params:
 
