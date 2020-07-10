@@ -1,14 +1,11 @@
 .. _CalcBG:
 
 
- .. list-table:: Terms Used
-   :header-rows: 1
-   :widths: 40, 70, 30
 
 Background
 ~~~~~~~~~~
 
- .. list-table:: Terms Used in LAI
+.. list-table:: Terms Used in LAI
    :header-rows: 1
    :widths: 40, 70, 30
    
