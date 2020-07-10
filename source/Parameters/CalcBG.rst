@@ -38,7 +38,7 @@ For Leaf  Area Index
      - 
      -
  
- 
+All or Multiple
  
 .. list-table:: Terms Used in All/Multiple
    :header-rows: 1
@@ -59,7 +59,8 @@ For Leaf  Area Index
    * - `SWOUT <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=Kup#cmdoption-arg-kup>`__
      - Outgoing shortwave radiation (Kup) [W m-2]
      - 
-     
+   
+Albedo
   
 .. list-table:: Terms Used in Albedo
    :header-rows: 1
@@ -72,15 +73,19 @@ For Leaf  Area Index
      - Albedo of vegetation when LAI is equal to LAI_min
      - 
      
- .. list-table:: Terms Used in Conductances
+Conductances
+
+.. list-table:: Terms Used in Conductances
    :header-rows: 1
    :widths: 40, 70, 30    
   
    * - `SMD <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=SMD#cmdoption-arg-smd>`__
      - Soil moisture deficit for bare soil surface [mm]
      - 
-     
- .. list-table:: Terms Used in Roughness
+
+Roughness
+
+.. list-table:: Terms Used in Roughness
    :header-rows: 1
    :widths: 40, 70, 30        
      
