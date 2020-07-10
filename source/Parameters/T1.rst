@@ -83,7 +83,7 @@ Conductances
 
 - if you have observations for a long period (e.g. changing phenology) then you can calculate your own values. The following papers explain how:
 
-  - Omdivar et al. (2020) - there are Jupyter Notebooks with Python code for many model parameters *start here*
+  - Omdivar et al. (2020) - there are Jupyter Notebooks with Python code for many model parameters `*start here* <CalcParam0>`
   - Ward et al. (2016)
   - Jarvi et al. (2011)
   - Grimmond and Oke (1991)
@@ -132,7 +132,7 @@ For each `material type <https://suews.readthedocs.io/en/latest/prepare-to-run-t
 
 - If you have observations for a long period (e.g. changing phenology) then you can calculate your own values. The following paper explains how:
 
-  - Omdivar et al. (2020) - there are Jupyter Notebooks with Python code for many model parameters *start here*
+  - Omdivar et al. (2020) - there are Jupyter Notebooks with Python code for many model parameters `*start here* <CalcParam0>`
 
 
 .. _T1-f:
