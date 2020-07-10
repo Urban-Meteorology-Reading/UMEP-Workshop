@@ -40,23 +40,20 @@ Definitions
    * -  `DecTr <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-DecTr>`__
      - Deciduous trees and shrubs
      - All
-   * -  EveTr
-     -
+   * - `EveTr <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-EveTr>`__
+     - Evergreen trees and shrubs
      - All
-   * -  Grass
-     -
+   * - `Grass <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-Grass>`__
+     - Grass surface
      - All
-   * - \alpha
-     -
-     - Albedo
    * - \alpha_LAImax
-     -
+     - Albedo of vegetation when LAI is equal to LAI_max
      - Albedo
    * - \alpha_LAImin
-     -
+     - Albedo of vegetation when LAI is equal to LAI_min
      - Albedo
    * - SWIN
-     -
+     - 
      - All
    * - SWOUT
      -
