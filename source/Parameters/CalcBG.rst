@@ -34,6 +34,7 @@ All or Multiple
    :header-rows: 1
    :widths: 40, 70
   
+  
    * -  Name
      -  Definition
    * -  DecTr, `SUEWS <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-DecTr>`__
@@ -68,6 +69,7 @@ Conductances
    :header-rows: 1
    :widths: 40, 70 
   
+  
    * -  Name
      -  Definition
    * - SMD 'SuPy Y<https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=SMD#cmdoption-arg-smd>`__
@@ -80,6 +82,7 @@ Roughness
 .. list-table:: Terms Used in Roughness
    :header-rows: 1
    :widths: 40, 70, 30        
+   
    
    * -  Name
      -  Definition
