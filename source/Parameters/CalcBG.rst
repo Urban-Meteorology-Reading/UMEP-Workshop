@@ -52,10 +52,10 @@ Definitions
    * - \alpha_LAImin
      - Albedo of vegetation when LAI is equal to LAI_min
      - Albedo
-   * - SWIN
-     - 
+   * - `SWIN <https://suews-docs.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=Kdown#cmdoption-arg-kdown>`__
+     - Incoming shortwave radiation (Kdown) [W m-2]
      - All
-   * - SWOUT
-     -
-     - all
+   * - `SWOUT <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=Kup#cmdoption-arg-kup>`__
+     - Outgoing shortwave radiation (Kup) [W m-2]
+     - All
      
