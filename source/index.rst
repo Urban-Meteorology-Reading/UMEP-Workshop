@@ -5,7 +5,7 @@ UMEP Workshop 2020
    :target: https://umep-workshop.readthedocs.io/en/latest/?badge=latest
    :alt: Documentation Status
 
-Welcome to the urbisphere UMEP July 2020 Online Workshop
+Welcome to the `urbisphere <http://urbisphere.eu/>`_ UMEP July 2020 Online Workshop
 
 
 
