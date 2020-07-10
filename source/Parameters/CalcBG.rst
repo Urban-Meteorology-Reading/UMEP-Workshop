@@ -83,9 +83,9 @@ Background
    
    * -  Name
      -  Definition
-   * - :math:`z_0`, `SuPy <https://supy.readthedocs.io/en/latest/data-structure/df_state.html?highlight=z0#cmdoption-arg-z0m-in`
+   * - :math:`z_0`, `SuPy <https://supy.readthedocs.io/en/latest/data-structure/df_state.html?highlight=z0#cmdoption-arg-z0m-in>`_
      - Roughness length for momentum [m]
-   * - d, 'SuPy <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=displacement%20height#cmdoption-arg-zdm>`__
+   * - d, `SuPy <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=displacement%20height#cmdoption-arg-zdm>`__
      - Zero-plane displacement height [m]
    * - Obukhov length, `SuPy <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=Obukhov%20Length%20#cmdoption-arg-lob>`__
      - Stability parameter
