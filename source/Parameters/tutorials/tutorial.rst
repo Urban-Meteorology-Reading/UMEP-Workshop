@@ -12,4 +12,4 @@ These tutorials demonstrate how to determine SUEWS parameters using Python and J
   :maxdepth: 1
   :glob:
 
-  tutorials/param*
+  param*
