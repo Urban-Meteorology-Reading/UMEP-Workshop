@@ -5,7 +5,7 @@
 Background
 ~~~~~~~~~~
 
-For Leaf Area Index
+**For Leaf Area Index**
 
 .. list-table:: Terms Used in LAI
    :header-rows: 1
@@ -28,29 +28,28 @@ For Leaf Area Index
     
  
  
-All or Multiple
+** All or Multiple**
  
 .. list-table:: Terms Used in All/Multiple
    :header-rows: 1
    :widths: 40, 70
   
-  
    * -  Name
      -  Definition
    * -  DecTr, `SUEWS <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-DecTr>`__
      -  Deciduous trees and shrubs
-   * -  EveTr , `SUEWS <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-EveTr>`__
-     -  Evergreen trees and shrubw
+   * -  EveTr, `SUEWS <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-EveTr>`__
+     -  Evergreen trees and shrubs
    * -  Grass, `SUEWS <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-Grass>`__
      -  Grass surface 
    * -  SWIN, `SUEWS <https://suews-docs.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=Kdown#cmdoption-arg-kdown>`__
      -  Incoming shortwave radiation (Kdown) [W m-2]
-   * -  `SWOUT <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=Kup#cmdoption-arg-kup>`__
+   * -  SWOUT, 'SuPY <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=Kup#cmdoption-arg-kup>`__
      -  Outgoing shortwave radiation (Kup) [W m-2]
 
      
    
-Albedo
+**Albedo**
   
 .. list-table:: Terms Used in Albedo
    :header-rows: 1
@@ -63,26 +62,24 @@ Albedo
    * - \alpha_LAImin
      - Albedo of vegetation when LAI is equal to LAI_min
      
-Conductances
+**Conductances**
 
 .. list-table:: Terms Used in Conductances
    :header-rows: 1
    :widths: 40, 70 
   
-  
    * -  Name
      -  Definition
-   * - SMD 'SuPy Y<https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=SMD#cmdoption-arg-smd>`__
+   * - SMD, 'SuPy Y<https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=SMD#cmdoption-arg-smd>`__
      - Soil moisture deficit for bare soil surface [mm]
     
      
 
-Roughness
+**Roughness**
 
 .. list-table:: Terms Used in Roughness
    :header-rows: 1
    :widths: 40, 70, 30        
-   
    
    * -  Name
      -  Definition
