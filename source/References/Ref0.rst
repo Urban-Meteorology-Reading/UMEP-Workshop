@@ -46,6 +46,15 @@ References
 
 - Lindberg F, CSB Grimmond, N Yogeswaran, S Kotthaus, L Allen 2013: Impact of city changes and weather on anthropogenic heat flux in Europe 1995-2015 *Urban Climate*, 4, 1–15 `https://doi.org/10.1016/j.uclim.2013.03.002 <https://doi.org/10.1016/j.uclim.2013.03.002>`
 
+
+.. _Lindberg2018:
+-  Lindberg F, Grimmond CSB, Gabey A, Huang B, Kent CW, Sun T, Theeuwes N, Järvi L, Ward H, Capel- Timms I, Chang YY, Jonsson P, Krave N, Liu D, Meyer D, Olofson F, Tan JG, Wästberg D, Xue L, Zhang Z 2018: Urban Multi-scale Environmental Predictor (UMEP) - An integrated tool for city-based climate services. *Environmental Modelling and Software*, 99, 70-87 `https://doi.org/10.1016/j.envsoft.2017.09.020 <https://www.sciencedirect.com/science/article/pii/S1364815217304140>`__
+
+
+
+
+  
+
 .. _Oke2017: 
 
 - Oke TR, Mills G, Christen A, Voogt JA 2017: *Urban Climates*. Cambridge University Press `https://doi.org/10.1017/9781139016476 <https://doi.org/10.1017/9781139016476>`
@@ -53,6 +62,11 @@ References
 .. _Hamid2020:
 
 - Omidvar H, T Sun, S Grimmond, D Bilesbach, A Black, J Chen, Z Duan, Z Gao, H Iwata, JP McFadden. Surface [Urban] Energy and Water Balance Scheme in non-urban areas: developments, parameters and performance, *(in review)*
+
+
+.._Sun2019:
+
+-  Sun T, Grimmond CSB (2019) A Python-Enhanced Urban Land Surface Model SuPy (SUEWS in Python, v2019.2): Development, Deployment and Demonstration. *Geosci. Model Dev.*, 12, 2781–2795 `https://doi.org/10.5194/gmd-12-2781-2019 <https://doi.org/10.5194/gmd-12-2781-2019>`
 
 .. _Ward2017:
 
