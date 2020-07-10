@@ -70,7 +70,7 @@ Background
   
    * -  Name
      -  Definition
-   * - SMD, `SuPy Y<https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=SMD#cmdoption-arg-smd>`__
+   * - SMD, `SuPy <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=SMD#cmdoption-arg-smd>`__
      - Soil moisture deficit for bare soil surface [mm]
     
      
