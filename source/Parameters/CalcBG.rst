@@ -79,7 +79,7 @@ Background
 
 .. list-table:: Terms Used in Roughness
    :header-rows: 1
-   :widths: 40, 70, 30        
+   :widths: 40, 70      
    
    * -  Name
      -  Definition
