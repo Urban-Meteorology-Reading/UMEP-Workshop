@@ -2,8 +2,8 @@
 
 
 
-Background
-~~~~~~~~~~
+Definitons in the Python Notebooks
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **For Leaf Area Index**
 
