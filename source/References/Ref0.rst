@@ -18,11 +18,11 @@ References
 
 .. _Cleugh2012:
 
-- Cleugh HA and S Grimmond 2012: Urban Climates and Global Climate Change. in Henderson – Sellers A & Mc Guffie K (ed). *The Future of the World’s Climate*. Elsevier Chapter 3, 47-76 + references, `https://doi.org/10.1016/B978-0-12-386917-3.00003-8 <https://doi.org/10.1016/B978-0-12-386917-3.00003-8>`
+- Cleugh HA and S Grimmond 2012: Urban Climates and Global Climate Change. in Henderson – Sellers A & Mc Guffie K (ed). *The Future of the World’s Climate*. Elsevier Chapter 3, 47-76 + references, `https://doi.org/10.1016/B978-0-12-386917-3.00003-8 <https://doi.org/10.1016/B978-0-12-386917-3.00003-8>`_
 
 .. _Gabey2019:
 
-- Gabey A, S Grimmond, I Capel-Timms 2019: Anthropogenic Heat Flux: advisable spatial resolutions when input data are scarce *Theoretical and Applied Climatology*, 135 (1-2), 791-807 `https://doi.org/10.1007/s00704-018-2367-y <https://doi.org/10.1007/s00704-018-2367-y>`
+- Gabey A, S Grimmond, I Capel-Timms 2019: Anthropogenic Heat Flux: advisable spatial resolutions when input data are scarce *Theoretical and Applied Climatology*, 135 (1-2), 791-807 `https://doi.org/10.1007/s00704-018-2367-y <https://doi.org/10.1007/s00704-018-2367-y>`_
 
 
 .. _GO91:
@@ -31,7 +31,7 @@ References
 
 .. _Grimmond1998:
 
-- Grimmond CSB, King T, Roth M. Oke T 1998: Aerodynamic Roughness of Urban Areas Derived from Wind Observations. *Boundary-Layer Meteorology* 89, 1–24  `https://doi.org/10.1023/A:1001525622213 <https://doi.org/10.1023/A:1001525622213>`
+- Grimmond CSB, King T, Roth M. Oke T 1998: Aerodynamic Roughness of Urban Areas Derived from Wind Observations. *Boundary-Layer Meteorology* 89, 1–24  `https://doi.org/10.1023/A:1001525622213 <https://doi.org/10.1023/A:1001525622213>`_
 
 
 .. _Iamarino2012:
@@ -40,11 +40,11 @@ References
 
 .. _Jarvi2011:
 
-- Järvi L, CSB Grimmond, A Christen 2011: The Surface Urban Energy and Water Balance Scheme (SUEWS): Evaluation in Vancouver and Los Angeles. *J. of Hydrology*, 411, 219-237 `https://doi.org/10.1016/j.jhydrol.2011.10.001 <https://doi.org/10.1016/j.jhydrol.2011.10.001>`
+- Järvi L, CSB Grimmond, A Christen 2011: The Surface Urban Energy and Water Balance Scheme (SUEWS): Evaluation in Vancouver and Los Angeles. *J. of Hydrology*, 411, 219-237 `https://doi.org/10.1016/j.jhydrol.2011.10.001 <https://doi.org/10.1016/j.jhydrol.2011.10.001>`_
 
 .. _Lindberg2013:
 
-- Lindberg F, CSB Grimmond, N Yogeswaran, S Kotthaus, L Allen 2013: Impact of city changes and weather on anthropogenic heat flux in Europe 1995-2015 *Urban Climate*, 4, 1–15 `https://doi.org/10.1016/j.uclim.2013.03.002 <https://doi.org/10.1016/j.uclim.2013.03.002>`
+- Lindberg F, CSB Grimmond, N Yogeswaran, S Kotthaus, L Allen 2013: Impact of city changes and weather on anthropogenic heat flux in Europe 1995-2015 *Urban Climate*, 4, 1–15 `https://doi.org/10.1016/j.uclim.2013.03.002 <https://doi.org/10.1016/j.uclim.2013.03.002>`_
 
 
 .. _Lindberg2018:
@@ -53,7 +53,7 @@ References
 
 .. _Oke2017: 
 
-- Oke TR, Mills G, Christen A, Voogt JA 2017: *Urban Climates*. Cambridge University Press `https://doi.org/10.1017/9781139016476 <https://doi.org/10.1017/9781139016476>`
+- Oke TR, Mills G, Christen A, Voogt JA 2017: *Urban Climates*. Cambridge University Press `https://doi.org/10.1017/9781139016476 <https://doi.org/10.1017/9781139016476>`_
 
 .. _Hamid2020:
 
@@ -62,12 +62,12 @@ References
 
 .. _Sun2019:
 
--  Sun T, Grimmond CSB (2019) A Python-Enhanced Urban Land Surface Model SuPy (SUEWS in Python, v2019.2): Development, Deployment and Demonstration. *Geosci. Model Dev.*, 12, 2781–2795 `https://doi.org/10.5194/gmd-12-2781-2019 <https://doi.org/10.5194/gmd-12-2781-2019>`
+-  Sun T, Grimmond CSB (2019) A Python-Enhanced Urban Land Surface Model SuPy (SUEWS in Python, v2019.2): Development, Deployment and Demonstration. *Geosci. Model Dev.*, 12, 2781–2795 `https://doi.org/10.5194/gmd-12-2781-2019 <https://doi.org/10.5194/gmd-12-2781-2019>`_
 
 .. _Ward2017:
 
-- Ward HC, S Grimmond 2017: Using biophysical modelling to assess the impact of various scenarios on summertime urban climate across Greater London *Landscape and Urban Planning* 165, 142–161, `https://doi.org/10.1016/j.landurbplan.2017.04.001 <https://doi.org/10.1016/j.landurbplan.2017.04.001>`
+- Ward HC, S Grimmond 2017: Using biophysical modelling to assess the impact of various scenarios on summertime urban climate across Greater London *Landscape and Urban Planning* 165, 142–161, `https://doi.org/10.1016/j.landurbplan.2017.04.001 <https://doi.org/10.1016/j.landurbplan.2017.04.001>`_
 
 .. _Ward2016:
 
-- Ward HC. S Kotthaus, L Järvi, CSB Grimmond 2016: Surface Urban Energy and Water Balance Scheme (SUEWS): development and evaluation at two UK sites *Urban Climate* 18, 1–32 `https://doi.org/10.1016/j.uclim.2016.05.001  <https://doi.org/10.1016/j.uclim.2016.05.001>`
+- Ward HC. S Kotthaus, L Järvi, CSB Grimmond 2016: Surface Urban Energy and Water Balance Scheme (SUEWS): development and evaluation at two UK sites *Urban Climate* 18, 1–32 `https://doi.org/10.1016/j.uclim.2016.05.001  <https://doi.org/10.1016/j.uclim.2016.05.001>`_
