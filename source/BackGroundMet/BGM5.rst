@@ -74,7 +74,7 @@ where the **turbulent temperature scale** is given by
 and :math:`\Psi_{h}` is the integral stability correction function for heat. Note that
 both :math:`T_*` and :math:`z’/L` have the opposite sign to :math:`Q_H` (which is positive in unstable conditions and negative in stable conditions).
 If :math:`z'/z \gg 1` then the third term can assumed to be negligible
-(Garratt 1992)
+(`Garratt 1994 <Garratt1994>`)
 
 
 **Profiles and fluxes of moisture**
