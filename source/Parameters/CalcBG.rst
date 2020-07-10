@@ -39,6 +39,7 @@ For Leaf Area Index
      - 
      -
  
+ 
 All or Multiple
  
 .. list-table:: Terms Used in All/Multiple
@@ -60,6 +61,7 @@ All or Multiple
    * -  `SWOUT <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=Kup#cmdoption-arg-kup>`__
      -  Outgoing shortwave radiation (Kup) [W m-2]
      - 
+     
    
 Albedo
   
@@ -83,6 +85,7 @@ Conductances
    * - `SMD <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=SMD#cmdoption-arg-smd>`__
      - Soil moisture deficit for bare soil surface [mm]
      - 
+     
 
 Roughness
 
