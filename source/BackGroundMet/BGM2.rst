@@ -55,6 +55,6 @@ sectors?
 The wind profile can also be used to determine :math:`z_0` and :math:`d`
 if there are more than 2 levels in the profile. This requires fitting a
 straight line (linear regression) through the data to determine the
-intercept, which provides the :math`z_0+d` value.
-See equations 1-2 in `Grimmond et al. (1998) <https://doi.org/10.1023/A:1001525622213>`_
+intercept, which provides the :math:`z_0+d` value.
+See equations 1-2 in `Grimmond et al. (1998) <Grimmond1998>`_
 
