@@ -6,6 +6,7 @@ FAQ (Frequently Asked Questions)
 Here are common questions that appear throughout the workshop.
 
 **General**
+
 * I have a Mac computer. Can I still participate in the workshop?
    Yes, QGIS and UMEP are software independent but some of the tutorials are just for windows users. The tutorial on Lidar processing, `section 4.4 <https://umep-workshop.readthedocs.io/en/latest/GettingData/GIS3.html>`__ is for Windows user only. Otherwise, all other activities is for all OS. Installation of UMEP can be a bit cjallenging on a Mac, but help instructions are included below (see below).
 
@@ -18,6 +19,7 @@ Here are common questions that appear throughout the workshop.
     Yes. You are in Sweden with very low sun elevations and 4-5 level buildings. That results in no vegetation shadows reaching the ground.
 
 **LIDAR processing**
+
 * I cannot start the FUSION viewer in QGIS. What I have been doing wrong?
     One common misstake is that FUSION is not installed on your computer. To use FUSION within QGIS yo first need to install the actual software form `<http://forsys.sefs.uw.edu/fusion/fusionlatest.html>`__. Then you should install the plugin FUSION for processing and make the settings according to the tutorial instructions.
 
