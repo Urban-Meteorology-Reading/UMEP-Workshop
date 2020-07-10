@@ -14,7 +14,7 @@ References
 
 .. _Capel2020:
 
-- Capel-Timms I, ST Smith, T Sun, S Grimmond Dynamic Anthropogenic activitieS impacting Heat emissions (DASH v1.0): Development and evaluation. *In reivew*
+- Capel-Timms I, ST Smith, T Sun, S Grimmond Dynamic Anthropogenic activitieS impacting Heat emissions (DASH v1.0): Development and evaluation. *In review*
 
 .. _Cleugh2012:
 
@@ -31,11 +31,11 @@ References
 
 .. _Iamarino2012:
 
-- Iamarino M, Beevers S, CSB Grimmond 2012: High Resolution (Space, Time) Anthropogenic Heat Emissions: London 1970-2025 International J. of Climatology 32, 1754-1767 `https://doi.org/10.1002/joc.2390 <https://doi.org/10.1002/joc.2390>`
+- Iamarino M, Beevers S, CSB Grimmond 2012: High Resolution (Space, Time) Anthropogenic Heat Emissions: London 1970-2025 *International J. of Climatology*, 32, 1754-1767 `https://doi.org/10.1002/joc.2390 <https://doi.org/10.1002/joc.2390>`
 
 .. _Jarvi2011:
 
-- Järvi L, CSB Grimmond, A Christen 2011: The Surface Urban Energy and Water Balance Scheme (SUEWS): Evaluation in Vancouver and Los Angeles. J. of Hydrology, 411, 219-237 `https://doi.org/10.1016/j.jhydrol.2011.10.001 <https://doi.org/10.1016/j.jhydrol.2011.10.001>`
+- Järvi L, CSB Grimmond, A Christen 2011: The Surface Urban Energy and Water Balance Scheme (SUEWS): Evaluation in Vancouver and Los Angeles. *J. of Hydrology*, 411, 219-237 `https://doi.org/10.1016/j.jhydrol.2011.10.001 <https://doi.org/10.1016/j.jhydrol.2011.10.001>`
 
 .. _Lindberg2013:
 
@@ -51,8 +51,8 @@ References
 
 .. _Ward2017:
 
-- Ward HC, S Grimmond 2017: Using biophysical modelling to assess the impact of various scenarios on summertime urban climate across Greater London Landscape and Urban Planning 165, 142–161, `https://doi.org/10.1016/j.landurbplan.2017.04.001 <https://doi.org/10.1016/j.landurbplan.2017.04.001>`
+- Ward HC, S Grimmond 2017: Using biophysical modelling to assess the impact of various scenarios on summertime urban climate across Greater London *Landscape and Urban Planning* 165, 142–161, `https://doi.org/10.1016/j.landurbplan.2017.04.001 <https://doi.org/10.1016/j.landurbplan.2017.04.001>`
 
 .. _Ward2016:
 
-- Ward HC. S Kotthaus, L Järvi, CSB Grimmond 2016: Surface Urban Energy and Water Balance Scheme (SUEWS): development and evaluation at two UK sites Urban Climate 18, 1–32 `https://doi.org/10.1016/j.uclim.2016.05.001  <https://doi.org/10.1016/j.uclim.2016.05.001>`
+- Ward HC. S Kotthaus, L Järvi, CSB Grimmond 2016: Surface Urban Energy and Water Balance Scheme (SUEWS): development and evaluation at two UK sites *Urban Climate* 18, 1–32 `https://doi.org/10.1016/j.uclim.2016.05.001  <https://doi.org/10.1016/j.uclim.2016.05.001>`
