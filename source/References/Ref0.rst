@@ -48,4 +48,4 @@ References
 
 .. _Ward2016:
 
-- Ward HC. S Kotthaus, L Järvi, CSB Grimmond 2016: Surface Urban Energy and Water Balance Scheme (SUEWS): development and evaluation at two UK sites Urban Climate 18, 1–32 https://doi.org/10.1016/j.uclim.2016.05.001
+- Ward HC. S Kotthaus, L Järvi, CSB Grimmond 2016: Surface Urban Energy and Water Balance Scheme (SUEWS): development and evaluation at two UK sites Urban Climate 18, 1–32 `https://doi.org/10.1016/j.uclim.2016.05.001  <https://doi.org/10.1016/j.uclim.2016.05.001>
