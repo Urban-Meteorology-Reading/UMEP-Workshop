@@ -59,7 +59,7 @@ Background
      -  Definition
    * - :math:`\alpha_{LAImax}`
      - Albedo of vegetation when LAI is equal to LAI_max
-   * - \alpha_LAImin
+   * - :math:`\alpha_{LAImin}`
      - Albedo of vegetation when LAI is equal to LAI_min
      
 **Conductances**
