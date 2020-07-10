@@ -27,7 +27,7 @@ References
 
 .. _GO91:
 
-- Grimmond CSB, TR Oke 1991: An evaporation-interception model for urban areas. *Water Resources Research*, 27, 1739-1755. ` https://doi.org/10.1029/91WR00557 <https://doi.org/10.1029/91WR00557>`_
+- Grimmond CSB, TR Oke 1991: An evaporation-interception model for urban areas. *Water Resources Research*, 27, 1739-1755. `https://doi.org/10.1029/91WR00557 <https://doi.org/10.1029/91WR00557>`_
 
 .. _Grimmond1998:
 
@@ -66,11 +66,9 @@ References
 
 - Omidvar H, T Sun, S Grimmond, D Bilesbach, A Black, J Chen, Z Duan, Z Gao, H Iwata, JP McFadden. Surface [Urban] Energy and Water Balance Scheme in non-urban areas: developments, parameters and performance, *(in review)*
 
-
 .. _Sun2019:
 
 -  Sun T, Grimmond CSB (2019) A Python-Enhanced Urban Land Surface Model SuPy (SUEWS in Python, v2019.2): Development, Deployment and Demonstration. *Geosci. Model Dev.*, 12, 2781–2795 `https://doi.org/10.5194/gmd-12-2781-2019 <https://doi.org/10.5194/gmd-12-2781-2019>`_
-
 
 .. _Sun2020:
 
