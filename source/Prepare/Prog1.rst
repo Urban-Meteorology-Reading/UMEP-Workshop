@@ -1,7 +1,7 @@
 .. _Prog1:
 
-Workshop Program: 8 - 10 July 2020
-----------------------------------
+urbisphere Workshop Program: 8 - 10 July 2020
+----------------------------------------
 
 **Welcome to the** `urbisphere <http://urbisphere.eu/>`_ **2020 Modelling Workshop**
 
