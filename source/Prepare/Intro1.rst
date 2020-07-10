@@ -9,9 +9,9 @@ Topics to be Covered
 
 The three main software tools that will be used in the workshop are:
 
-- **UMEP** - this is an urban climate services tool that has a large number of tools and models. It is an application add-on to QGIS.
-- **SUEWS** - this is an energy, water and carbon balance model that can be used to simulate urban and non-urban areas. This is both a standalone model and is also within UMEP. The UMEP environment is a good place to start to use SUEWS.
-- **SuPy** - this is a Python interface to SUEWS which allows SUEWS to be rapidly used to address research questions. It can also be used to couple SUEWS to other programs (e.g. DASH. STEBBS, EnergyPlus).
+- **UMEP** - this is an urban climate services tool that has a large number of tools and models. It is an application add-on to QGIS (`Lindberg et al. 2018 <Lindberg2018>`)
+- **SUEWS** - this is an energy, water and carbon balance model that can be used to simulate urban and non-urban areas (`Järvi et al. 2011 <Jarvi2011>`). This is both a standalone model and is also within UMEP. The UMEP environment is a good place to start to use SUEWS.
+- **SuPy** - this is a Python interface to SUEWS which allows SUEWS to be rapidly used to address research questions (`Sun and Grimmond 2019 <Sun2019>`). It can also be used to couple SUEWS to other programs (e.g. DASH. STEBBS, EnergyPlus).
 
 Two user environments that we will use are:
 
