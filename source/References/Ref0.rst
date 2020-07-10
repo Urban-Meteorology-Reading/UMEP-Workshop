@@ -16,6 +16,11 @@ References
 
 - Capel-Timms I, ST Smith, T Sun, S Grimmond Dynamic Anthropogenic activitieS impacting Heat emissions (DASH v1.0): Development and evaluation. In reivew
 
+.. _Cleugh2012:
+
+- Cleugh and Grimmond 2012 <https://doi.org/10.1016/B978-0-12-386917-3.00003-8>
+
+
 .. _Gabey2019:
 
 - Gabey A, S Grimmond, I Capel-Timms 2019: Anthropogenic Heat Flux: advisable spatial resolutions when input data are scarce Theoretical and Applied Climatology 135 (1-2), 791-807 https://doi.org/10.1007/s00704-018-2367-y
@@ -37,6 +42,9 @@ References
 
 - Lindberg F, CSB Grimmond, N Yogeswaran, S Kotthaus, L Allen 2013: Impact of city changes and weather on anthropogenic heat flux in Europe 1995-2015 Urban Climate,4, 1–15 10.1016/j.uclim.2013.03.002
 
+.. _Oke2017: 
+
+- Oke et al. 2017 <https://doi.org/10.1017/9781139016476>
 
 .. _Hamid2020:
 
