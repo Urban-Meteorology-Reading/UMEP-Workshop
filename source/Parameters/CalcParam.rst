@@ -7,6 +7,7 @@ Preparing to Calculate your own parameters
 
 **Prior to this activity**
 
+- `Install and run notebooks Jupyter Notebooks <https://umep-workshop.readthedocs.io/en/latest/Jupyter/JN1.html>`_
 - Basics for running SuPy
 
 **Activity**
@@ -80,5 +81,5 @@ After all the packages are installed, type
 
 This activates the the created environment. In the same environment, open Jupyter notebook.
  
-3- Then you can run each notebook in the same order as below. `Here <https://umep-workshop.readthedocs.io/en/latest/Jupyter/JN1.html>`_ are the instructions how to install and run notebooks.
+3- Then you can run each notebook in the same order as the tutorials taht follow. `
 
