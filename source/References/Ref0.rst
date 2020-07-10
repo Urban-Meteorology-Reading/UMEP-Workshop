@@ -27,7 +27,12 @@ References
 
 .. _GO91:
 
-- Grimmond CSB, TR Oke 1991: An evaporation-interception model for urban areas. Water Resources Research, 27, 1739-1755.
+- Grimmond CSB, TR Oke 1991: An evaporation-interception model for urban areas. *Water Resources Research*, 27, 1739-1755.
+
+.. _Grimmond1998:
+
+- Grimmond CSB, King T, Roth M. Oke T 1998: Aerodynamic Roughness of Urban Areas Derived from Wind Observations. *Boundary-Layer Meteorology* 89, 1–24  `https://doi.org/10.1023/A:1001525622213 <https://doi.org/10.1023/A:1001525622213>`
+
 
 .. _Iamarino2012:
 
