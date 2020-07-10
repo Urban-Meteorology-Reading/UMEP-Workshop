@@ -22,6 +22,7 @@ For Leaf  Area Index
    * -  `BaseT1 
      -   Base Temperature for initiating growing degree days (GDD) for leaf growth. [°C]
      -  `SUEWS <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=baseTe#cmdoption-arg-BaseT>`__
+     -
    * -  `LAI_max <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html#cmdoption-arg-LAIMax>`__
      -  full leaf-on summertime value
      -
