@@ -22,7 +22,7 @@ import datetime
 
 project = "UMEP Workshop"
 year_today=datetime.date.today().isocalendar()[0]
-list_author=['Sue Grimmond','Fredrik Lindberg','Ting Sun']
+list_author=['Sue Grimmond','Fredrik Lindberg','Ting Sun','Hamidreza Omdidvar']
 author = ' and '.join([', '.join(list_author[:-1]),list_author[-1]])
 copyright = f"{year_today}, {author}"
 
