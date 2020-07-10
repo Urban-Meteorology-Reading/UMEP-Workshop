@@ -25,6 +25,16 @@ In this example we use meteorological observations from AmeriFlux (https://ameri
 
 - Omidvar H, T Sun, S Grimmond, D Bilesbach, A Black, J Chen, Z Duan, Z Gao, H Iwata, JP McFadden. Surface [Urban] Energy and Water Balance Scheme in non-urban areas: developments, parameters and performance, (in review)
 
+
+Steps to using these notebooks
+
+- download file
+
+- how to run python notebook **link**
+
+
+
+
 Leaf Area Index
 ===============
 
