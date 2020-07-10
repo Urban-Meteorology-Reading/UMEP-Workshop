@@ -14,3 +14,5 @@ Future Topics
 - Using SuPY with EnergyPLus
 - DASH
 - LUCY/LQF
+
+- Suggestions add to GitHub
