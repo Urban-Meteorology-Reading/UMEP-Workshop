@@ -9,9 +9,10 @@ The SUEWS manual provides some `guidance  <https://suews.readthedocs.io/en/lates
 .. toctree::
    :maxdepth: 2
 
+   Consider1
+   Height
+   T1
    CalcParam
    CalcBG
    tutorials/tutorial
-   Consider1 
-   Height
-   T1
+   
