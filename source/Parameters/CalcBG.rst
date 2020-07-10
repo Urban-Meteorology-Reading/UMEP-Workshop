@@ -57,7 +57,7 @@ Background
    * - `SMD <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=SMD#cmdoption-arg-smd>`__
      - Soil moisture deficit for bare soil surface [mm]
      - Conductances
-   * - :math: `Z0 <https://supy.readthedocs.io/en/latest/data-structure/df_state.html?highlight=z0#cmdoption-arg-z0m-in>`__
+   * - :math:`z_0 <https://supy.readthedocs.io/en/latest/data-structure/df_state.html?highlight=z0#cmdoption-arg-z0m-in>`__
      - Roughness length for momentum [m]
      - Roughness
    * - `d <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=displacement%20height#cmdoption-arg-zdm>`__
@@ -66,6 +66,6 @@ Background
    * - `Obukhov length <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=Obukhov%20Length%20#cmdoption-arg-lob>`__
      - Stability parameter
      - Roughness
-   * - :math: `USTAR`__
+   * - :math:`USTAR`
      - Friction velocity
      - Roughness
