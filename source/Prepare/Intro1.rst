@@ -68,7 +68,7 @@ Acknowledgements
 - NERC
 - FORMAS: Swedish Research Council for Sustainable Development
 
-A large number of individuals have worked on the development of the software (SUEWS `Grimmond et al. 2020 <Grimmond2020>`, UMEP `Lindberg et al. 2020 <Lindberg2020>`, SuPy 'Sun et al. 2020 <Sun2020>`) and the collection of the various datasets that are used in the tutorials. These are all gratefully acknowledged.
+A large number of individuals have worked on the development of the software (SUEWS `Grimmond et al. 2020 <Grimmond2020>`_, UMEP `Lindberg et al. 2020 <Lindberg2020>`_, SuPy `Sun et al. 2020 <Sun2020>`_) and the collection of the various datasets that are used in the tutorials. These are all gratefully acknowledged.
 
 We thank the following organisations whose **data** are used, including:
 
