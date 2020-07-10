@@ -5,8 +5,7 @@ New Tutorials
 
 - Recently added tutorials are to:
   
-  - `calculate your own SUEWS parameters <CP0>`
-
+  - `Calculate your own SUEWS parameters <CalcParam0>`
 
 
 Future Topics
@@ -14,3 +13,4 @@ Future Topics
 
 - Using SuPY with EnergyPLus
 - DASH
+- LUCY/LQF
