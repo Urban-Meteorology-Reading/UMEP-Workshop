@@ -36,11 +36,12 @@ Background
      - 
      -
  
+ 
+ 
 .. list-table:: Terms Used in All/Multiple
    :header-rows: 1
    :widths: 40, 70, 30
- 
- 
+  
    * -  `DecTr <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-DecTr>`__
      - Deciduous trees and shrubs
      - 
