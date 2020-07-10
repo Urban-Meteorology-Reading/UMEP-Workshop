@@ -89,8 +89,6 @@ Roughmess Parameters
 
 - `Roughness related  <https://suews-parameters-docs.readthedocs.io/en/latest/steps/roughness.html>`_
 
--  `SuPy- roughness <https://suews-parameters-docs.readthedocs.io/en/latest/steps/roughness-SuPy.html>`_ 
-
 
 Surface Conductance Parameters
 ==============================
