@@ -17,6 +17,8 @@ Emeis, Stefan. Surface-Based Remote Sensing of the Atmospheric Boundary Layer. V
 
 Foken, Thomas. Micrometeorology. Volume 2. Springer Berlin Heidelberg, 2017. ISBN 9783642254390, 9783642254406. doi:10.1007/978-3-642-25440-6. Very good overview of Micrometeorology
 
+.. _Garratt1994:
+
 Garratt, J. R. The atmospheric boundary layer. Cambridge University Press, 1994. ISBN 9780521467452. Rigorous mathematical treatment, lots of experimental data
 
 Kaimal, J. C. and Finnigan, J. J. Atmospheric Boundary Layer Flows : Their Structure and Measurement. Oxford University Press, Incorporated, 1994. ISBN 9780195362770. Particularly good for flow over changing surfaces and obervational techniques. Chapters 2 and 6 are strongly recommended.
