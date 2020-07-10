@@ -5,6 +5,10 @@ FAQ (Frequently Asked Questions)
 
 Here are common questions that appear throughout the workshop.
 
+**General**
+* I have a Mac computer. Can I still participate in the workshop?
+   Yes, QGIS and UMEP are software independent but some of the tutorials are just for windows users. The tutorial on Lidar processing, `section 4.4 <https://umep-workshop.readthedocs.io/en/latest/GettingData/GIS3.html>` is for Windows user only. Otherwise, all other activities is for all OS. Installation of UMEP can be a bit cjallenging on a Mac, but help instructions are included below (see below).
+
 **Daily shading**
 
 * I can see shadow patterns during the sunshine hours which is logical. Is it also possible to get a complete dark profile during nights? Because in the shadow animation I can only see the pictures during the day.(What IF I want to have for the complete day)?
@@ -13,8 +17,11 @@ Here are common questions that appear throughout the workshop.
 * On the 21. Dec there is not really a clear difference between Building Shadows and Building+Veg Shadows as there was on 21. June, is that correct?
     Yes. You are in Sweden with very low sun elevations and 4-5 level buildings. That results in no vegetation shadows reaching the ground.
 
+**LIDAR processing**
+* I cannot start the FUSION viewer in QGIS. What I have been doing wrong?
+    One common misstake is that FUSION is not installed on your computer. To use FUSION within QGIS yo first need to install the actual software
 
-**Software installation**
+**Software installation - Mac**
 
 .. _supy_umep_install:
 
