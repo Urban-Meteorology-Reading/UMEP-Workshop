@@ -13,6 +13,5 @@ The SUEWS manual provides some `guidance  <https://suews.readthedocs.io/en/lates
    Height
    T1
    CalcParam
+   tutorials/Param
    CalcBG
-   tutorials/tutorial
-   
