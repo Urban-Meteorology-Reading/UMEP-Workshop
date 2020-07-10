@@ -3,7 +3,7 @@
 Considerations when applying SUEWS to your own study area
 ---------------------------------------------------------
 
-The SUEWS manual provides some `guidance  <https://suews.readthedocs.io/en/latest/prepare-to-run-the-model.html>`_ for the running at a new site. In particular read this `section
+The SUEWS manual (`Grimmond et al. 2020 <Grimmond2020>`_)  provides some `guidance <https://suews.readthedocs.io/en/latest/prepare-to-run-the-model.html>`_ for the running at a new site. In particular read this `section
 <https://suews.readthedocs.io/en/latest/prepare-to-run-the-model.html#preparation-of-data>`_.  `You can <CalcParam0>` calculate some parameters from observations.
 
 .. toctree::
