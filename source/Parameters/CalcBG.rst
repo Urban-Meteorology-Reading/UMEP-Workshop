@@ -5,7 +5,7 @@
 Background
 ~~~~~~~~~~
 
-For Leaf  Area Index
+For Leaf Area Index
 
 .. list-table:: Terms Used in LAI
    :header-rows: 1
@@ -19,11 +19,11 @@ For Leaf  Area Index
      -  Base temperature for initiating sensence degree days (SDD) for leaf off. [°C]
      -  `SuPy <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=baseTe#cmdoption-arg-BaseTe>`__
      -  SUEWS
-   * -  `BaseT1 
+   * -  :math:`BaseT1` 
      -   Base Temperature for initiating growing degree days (GDD) for leaf growth. [°C]
      -  `SUEWS <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=baseTe#cmdoption-arg-BaseT>`__
      -
-   * -  `LAI_max <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html#cmdoption-arg-LAIMax>`__
+   * -  math:`LAI_max`  `SUEWS<https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html#cmdoption-arg-LAIMax>`__
      -  full leaf-on summertime value
      -
    * -  `LAI_min <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html#cmdoption-arg-LAIMin>`__
