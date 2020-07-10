@@ -34,11 +34,11 @@ Definitions
    * -  `GDD <https://suews.readthedocs.io/en/latest/notation.html?highlight=GDD#term-GDD>`__
      - Growing degree days
      - LAI
-   * -  SDD
-     -
+   * -  `SDD <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=SDD#cmdoption-arg-sdd-dectr>`__
+     - Senescence degree days
      - LAI
-   * -  DecTr
-     -
+   * -  `DecTr <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-DecTr>`__
+     - Deciduous trees and shrubs
      - All
    * -  EveTr
      -
