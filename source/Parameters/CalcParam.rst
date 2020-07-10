@@ -48,13 +48,11 @@ Steps to using these notebooks:
  
  - `Fig <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps/figs>`_ folder to write the figure into (it can be empty initially). Put them in the same directory as the notebook.
  
- - `outpust <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps/outputs>`_ folder to write down pickle files. The structure of the file should be as it is in the link, but the folders (LAI, albedo etc.) can be empty initially. Put them in the same directory as notebook.
+ - `outputs <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps/outputs>`_ folder to write down pickle files. The structure of the file should be as it is in the link, but the folders (LAI, albedo etc.) can be empty initially. Put them in the same directory as notebook.
  
  **Note**: after downloading the above files an folders, the structure of the directory where you are running the notebooks should be as same as `here <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps>`_.
    
-- how to run python notebook **link**
-
-
+2- Then you can run each notebook in the same order as below. `Here <https://umep-workshop.readthedocs.io/en/latest/Jupyter/JN1.html>`_ are the instructions how to install and run notebooks.
 
 
 Leaf Area Index
