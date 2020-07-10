@@ -11,7 +11,7 @@ Background
    :header-rows: 1
    :widths: 40, 70
    
-   * -  Name
+   * -  Name, SUEWS/SuPy
      -  Definition 
    * -  BaseTe, `SuPy <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=baseTe#cmdoption-arg-BaseTe>`__
      -  Base temperature for initiating sensence degree days (SDD) for leaf off. [°C]
@@ -28,7 +28,7 @@ Background
     
  
  
-** All or Multiple**
+**All or Multiple**
  
 .. list-table:: Terms Used in All/Multiple
    :header-rows: 1
