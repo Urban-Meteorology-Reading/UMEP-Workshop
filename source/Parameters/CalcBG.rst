@@ -9,35 +9,23 @@ For Leaf Area Index
 
 .. list-table:: Terms Used in LAI
    :header-rows: 1
-   :widths: 40, 70, 30, 30
+   :widths: 40, 70
    
    * - Name
-     - Definition  
-     - SupY
-     - SUEWS 
-   * -  :math:`BaseTe`
+     - Definition 
+   * -  :math:`BaseTe`,`SuPy <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=baseTe#cmdoption-arg-BaseTe>`__
      -  Base temperature for initiating sensence degree days (SDD) for leaf off. [°C]
-     -  `SuPy <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=baseTe#cmdoption-arg-BaseTe>`__
-     -  SUEWS
-   * -  :math:`BaseT1` 
-     -   Base Temperature for initiating growing degree days (GDD) for leaf growth. [°C]
-     -  `SUEWS <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=baseTe#cmdoption-arg-BaseT>`__
-     -
+   * -  :math:`BaseT1`,  `SUEWS <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=baseTe#cmdoption-arg-BaseT>`__ 
+     -  Base Temperature for initiating growing degree days (GDD) for leaf growth. [°C] 
    * -  math:`LAI_max`  `SUEWS<https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html#cmdoption-arg-LAIMax>`__
-     -  full leaf-on summertime value
-     -
-   * -  `LAI_min <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html#cmdoption-arg-LAIMin>`__
-     -  leaf-off wintertime value
-     -
-     -
+      - maximum LAI
+   * -  LAI_min, `SUEWS <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html#cmdoption-arg-LAIMin>`__
+     -  leaf-off wintertime value  
    * -  `GDD <https://suews.readthedocs.io/en/latest/notation.html?highlight=GDD#term-GDD>`__
      -  Growing degree days
-     -
-     -
-   * -  `SDD <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=SDD#cmdoption-arg-sdd-dectr>`__
+   * -  SDD, `SuPy <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=SDD#cmdoption-arg-sdd-dectr>`__
      -  Senescence degree days
-     - 
-     -
+    
  
  
 All or Multiple
@@ -46,7 +34,7 @@ All or Multiple
    :header-rows: 1
    :widths: 40, 70
   
-   * - DecTr, `SUEWS <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-DecTr>`__
+   * -  DecTr, `SUEWS <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-DecTr>`__
      -  Deciduous trees and shrubs
    * -  EveTr , `SUEWS <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-EveTr>`__
      -  Evergreen trees and shrubw
@@ -65,7 +53,7 @@ Albedo
    :header-rows: 1
    :widths: 40, 70
      
-   * - :math:`\alpha_LAImax`
+   * - :math:`alpha_LAImax`
      - Albedo of vegetation when LAI is equal to LAI_max
    * - \alpha_LAImin
      - Albedo of vegetation when LAI is equal to LAI_min
@@ -92,7 +80,7 @@ Roughness
    * - d, 'SuPy <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=displacement%20height#cmdoption-arg-zdm>`__
      - Zero-plane displacement height [m]
    * - Obukhov length, `SuPy <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=Obukhov%20Length%20#cmdoption-arg-lob>`__
-     - Stability paramete
+     - Stability parameter
    * - :math:`USTAR`
      - Friction velocity
 
