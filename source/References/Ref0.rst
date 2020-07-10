@@ -48,7 +48,7 @@ References
 
 .. _Oke2017: 
 
-- Oke et al. 2017 <https://doi.org/10.1017/9781139016476>
+- Oke TR, Mills G, Christen A, Voogt JA 2017: *Urban Climates*. Cambridge University Press `https://doi.org/10.1017/9781139016476 <https://doi.org/10.1017/9781139016476>`
 
 .. _Hamid2020:
 
