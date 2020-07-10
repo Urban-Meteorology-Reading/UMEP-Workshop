@@ -6,11 +6,11 @@ References
 
 .. _Allen2011:
 
-- Allen L, F Lindberg, CSB Grimmond 2011: Global to city scale model for anthropogenic heat flux, *International J. of Climatology*, 31, 1990-2005, `https://doi.org/10.1002/joc.2210  <https://doi.org/10.1002/joc.2210>`
+- Allen L, F Lindberg, CSB Grimmond 2011: Global to city scale model for anthropogenic heat flux, *International J. of Climatology*, 31, 1990-2005, `https://doi.org/10.1002/joc.2210  <https://doi.org/10.1002/joc.2210>`_
 
 .. _Ao2018:
 
-- Ao Xiangyu, CSB Grimmond, HC Ward, AM Gabey, Jianguo Tan, Xiuqun Yang, Dongwei Liu, Xing Zhi, Hongya Liu, Ning Zhang 2018: Evaluation of the Surface Urban Energy and Water balance Scheme (SUEWS) at a dense urban site in Shanghai: Sensitivity to anthropogenic heat and irrigation *J Hydrometeorology*, 19, 1983–2005, `https://doi.org/10.1175/JHM-D-18-0057.1 <https://doi.org/10.1175/JHM-D-18-0057.1>`
+- Ao Xiangyu, CSB Grimmond, HC Ward, AM Gabey, Jianguo Tan, Xiuqun Yang, Dongwei Liu, Xing Zhi, Hongya Liu, Ning Zhang 2018: Evaluation of the Surface Urban Energy and Water balance Scheme (SUEWS) at a dense urban site in Shanghai: Sensitivity to anthropogenic heat and irrigation *J Hydrometeorology*, 19, 1983–2005, `https://doi.org/10.1175/JHM-D-18-0057.1 <https://doi.org/10.1175/JHM-D-18-0057.1>`_
 
 .. _Capel2020:
 
@@ -18,7 +18,7 @@ References
 
 .. _Cleugh2012:
 
-- Cleugh and Grimmond 2012 <https://doi.org/10.1016/B978-0-12-386917-3.00003-8>
+- Cleugh HA and S Grimmond 2012: Urban Climates and Global Climate Change. in Henderson – Sellers A & Mc Guffie K (ed). *The Future of the World’s Climate*. Elsevier Chapter 3, 47-76 + references, `https://doi.org/10.1016/B978-0-12-386917-3.00003-8 <https://doi.org/10.1016/B978-0-12-386917-3.00003-8>`
 
 .. _Gabey2019:
 
