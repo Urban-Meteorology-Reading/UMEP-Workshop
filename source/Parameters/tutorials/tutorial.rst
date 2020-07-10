@@ -1,4 +1,4 @@
-. _CP2:
+.. _CP2:
 
 Calculate Parameter Tutorials
 -----------------------------
