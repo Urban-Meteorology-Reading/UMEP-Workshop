@@ -19,7 +19,7 @@ Here are common questions that appear throughout the workshop.
 
 **LIDAR processing**
 * I cannot start the FUSION viewer in QGIS. What I have been doing wrong?
-    One common misstake is that FUSION is not installed on your computer. To use FUSION within QGIS yo first need to install the actual software
+    One common misstake is that FUSION is not installed on your computer. To use FUSION within QGIS yo first need to install the actual software form `<http://forsys.sefs.uw.edu/fusion/fusionlatest.html>`__. Then you should install the plugin FUSION for processing and make the settings according to the tutorial instructions.
 
 **Software installation - Mac**
 
