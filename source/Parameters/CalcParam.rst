@@ -3,7 +3,7 @@
 Preparing to Calculate your own parameters
 ------------------------------------------
 
-**This will take:** ~  XX minutes (note there 5 topics)
+**This will take:** ~  XX minutes (note there are 5 topics)
 
 **Prior to this activity**
 
