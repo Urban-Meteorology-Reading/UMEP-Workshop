@@ -34,25 +34,25 @@ Terms in the notebooks are defined `here <CalcBG>`
 
 1-  Download the following files and codes (all the files are available `here <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/tree/master/source/Parameters/files>`_. You need to unzip the folders):
 
- -  `data <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps/data>`_ : data that are necessary to calculate parameters (put them in the same directory as notebooks).
+ -  `data <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/blob/master/source/Parameters/files/data.zip>`_ : data that are necessary to calculate parameters (put them in the same directory as notebooks).
  - Utility functions: these are the utility functions that are called in notebooks. Put them in the same directory as notebooks. 
  
-   - `Albedo and LAI utility <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/blob/master/docs/source/steps/alb_LAI_util.py>`_
+   - `Albedo and LAI utility <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/blob/master/source/Parameters/files/alb_LAI_util.py>`_
    
-   - `Conductance utility <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/blob/master/docs/source/steps/gs_util.py>`_
+   - `Conductance utility <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/blob/master/source/Parameters/files/gs_util.py>`_
    
-   - `Roughness utility <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/blob/master/docs/source/steps/z0_util.py>`_
+   - `Roughness utility <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/blob/master/source/Parameters/files/z0_util.py>`_
  
  - CSV files containing site information and parameters. Put them in the same directory as the notebook:
   
-   - `site information <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/blob/master/docs/source/steps/site_info.csv>`_
-   - `site parameters <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/blob/master/docs/source/steps/all_attrs.csv>`_ . You can then change these parameters if you like to tune the sites.
+   - `site information <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/blob/master/source/Parameters/files/site_info.csv>`_
+   - `site parameters <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/blob/master/source/Parameters/files/all_attrs.csv>`_ . You can then change these parameters if you like to tune the sites.
    
- - `runs <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps/runs>`_ folder contains SUEWS files which are used by SuPy
+ - `runs <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/blob/master/source/Parameters/files/runs.zip>`_ folder contains SUEWS files which are used by SuPy
  
- - `figs <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps/figs>`_ folder to write the figure into (it can be empty initially). Put them in the same directory as the notebook.
+ - `figs <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/blob/master/source/Parameters/files/figs.zip>`_ folder to write the figure into (it can be empty initially). Put them in the same directory as the notebook.
  
- - `outputs <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps/outputs>`_ folder to write down pickle files. The structure of the file should be as it is in the link, but the folders (LAI, albedo etc.) can be empty initially. Put them in the same directory as notebook.
+ - `outputs <https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/blob/master/source/Parameters/files/outputs.zip>`_ folder to write down pickle files. The structure of the file should be as it is in the link, but the folders (LAI, albedo etc.) can be empty initially. Put them in the same directory as notebook.
  
  **Note**: after downloading the above files an folders, the structure of the directory where you are running the notebooks should be as same as `here <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps>`_.
  
