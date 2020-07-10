@@ -54,4 +54,16 @@ Definitions
    * - \alpha
      -
      - Albedo
+   * - \alpha_LAImax
+     -
+     - Albedo
+   * - \alpha_LAImin
+     -
+     - Albedo
+   * - SWIN
+     -
+     - All
+   * - SWOUT
+     -
+     - all
      
