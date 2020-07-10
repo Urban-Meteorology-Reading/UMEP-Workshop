@@ -68,7 +68,7 @@ Acknowledgements
 - NERC
 - FORMAS: Swedish Research Council for Sustainable Development
 
-A large number of individuals have worked on the development of the software (SUEWS, UMEP, SuPy) and the collection of the various datasets that are used in the tutorials. These are all gratefully acknowledged.
+A large number of individuals have worked on the development of the software (SUEWS `Grimmond et al. 2020 <Grimmond2020>`, UMEP `Lindberg et al. 2020 <Lindberg2020>`, SuPy 'Sun et al. 2020 <Sun2020>`) and the collection of the various datasets that are used in the tutorials. These are all gratefully acknowledged.
 
 We thank the following organisations whose **data** are used, including:
 
@@ -79,8 +79,8 @@ We thank the following organisations whose **data** are used, including:
 Feedback
 ~~~~~~~~
 
-- If you find problems with the Manuals (Workshop, UMEP, SUEWS, SuPy) please raise a GitHib issue so it can be fixed for others in the group (saving everyone time)
-- Do you have suggestions of other tutorials?
+- If you find problems with the Manuals (Workshop, `UMEP <, SUEWS, SuPy) please raise a GitHub issue so it can be fixed for others in the group (saving everyone time)
+- Do you have suggestions for other tutorials?
 - What other topics would you like to see covered? Please add to GitHub or contact Sue
 
 
