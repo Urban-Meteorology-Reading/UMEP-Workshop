@@ -28,6 +28,7 @@ In this example we use meteorological observations from AmeriFlux (https://ameri
 
 Steps to using these notebooks:
 
+
 1-  Download the following files and codes:
 
  -  `Data <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps/data>`_ : data that are necessary to calculate parameters (put them in the same directory as notebooks)
@@ -51,8 +52,23 @@ Steps to using these notebooks:
  - `outputs <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps/outputs>`_ folder to write down pickle files. The structure of the file should be as it is in the link, but the folders (LAI, albedo etc.) can be empty initially. Put them in the same directory as notebook.
  
  **Note**: after downloading the above files an folders, the structure of the directory where you are running the notebooks should be as same as `here <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps>`_.
-   
-2- Then you can run each notebook in the same order as below. `Here <https://umep-workshop.readthedocs.io/en/latest/Jupyter/JN1.html>`_ are the instructions how to install and run notebooks.
+ 
+2- Download `this <https://github.com/Urban-Meteorology-Reading/SUEWS_parameters/blob/master/environment.yml>`_ environment file. Go to the directory where the file is. Type 
+
+.. code::
+
+      conda env create -f environment.yml
+
+After all the packages are installed, type 
+
+.. code::
+
+      conda activate SUEWS_parameters
+
+
+This activates the the created environment. In the same environment, open Jupyter notebook.
+ 
+3- Then you can run each notebook in the same order as below. `Here <https://umep-workshop.readthedocs.io/en/latest/Jupyter/JN1.html>`_ are the instructions how to install and run notebooks.
 
 
 Leaf Area Index
