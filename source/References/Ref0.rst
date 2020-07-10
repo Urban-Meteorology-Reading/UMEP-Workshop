@@ -27,7 +27,7 @@ References
 
 .. _GO91:
 
-- Grimmond CSB, TR Oke 1991: An evaporation-interception model for urban areas. *Water Resources Research*, 27, 1739-1755.
+- Grimmond CSB, TR Oke 1991: An evaporation-interception model for urban areas. *Water Resources Research*, 27, 1739-1755. ` https://doi.org/10.1029/91WR00557 <https://doi.org/10.1029/91WR00557>`_
 
 .. _Grimmond1998:
 
