@@ -94,10 +94,10 @@ Roughness
      - 
    * - `d <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=displacement%20height#cmdoption-arg-zdm>`__
      - Zero-plane displacement height [m]
-     - Roughness
+     - 
    * - `Obukhov length <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=Obukhov%20Length%20#cmdoption-arg-lob>`__
      - Stability parameter
-     - Roughness
+     - 
    * - :math:`USTAR`
      - Friction velocity
      - 
