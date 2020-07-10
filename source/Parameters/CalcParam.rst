@@ -1,7 +1,16 @@
  .. _CalcParam:
  
-Calculating your own parameters
---------------------------------
+Preparing to Calculate your own parameters
+------------------------------------------
+
+**This will take:** ~  XX minutes
+
+**Prior to this activity**
+
+- Basics for running SuPy
+
+**Activity**
+
 In these tutorials you can calculate various SUEWS parameters before running the model for the specific site and vegetation type. The parameters discussed here are: 
  
  - LAI 
@@ -73,24 +82,3 @@ This activates the the created environment. In the same environment, open Jupyte
  
 3- Then you can run each notebook in the same order as below. `Here <https://umep-workshop.readthedocs.io/en/latest/Jupyter/JN1.html>`_ are the instructions how to install and run notebooks.
 
-
-Leaf Area Index
-===============
-
-- `LAI <https://suews-parameters-docs.readthedocs.io/en/latest/steps/LAI.html>`_
-
-Albedo
-======
-- `Albedo <https://suews-parameters-docs.readthedocs.io/en/latest/steps/albedo.html>`_
-
-
-Roughmess Parameters
-=====================
-
-- `Roughness related  <https://suews-parameters-docs.readthedocs.io/en/latest/steps/roughness.html>`_
-
-
-Surface Conductance Parameters
-==============================
-
--  `Surface conductance <https://suews-parameters-docs.readthedocs.io/en/latest/steps/conductance.html>`_
