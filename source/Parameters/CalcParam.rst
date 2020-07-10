@@ -26,10 +26,32 @@ In this example we use meteorological observations from AmeriFlux (https://ameri
 - Omidvar H, T Sun, S Grimmond, D Bilesbach, A Black, J Chen, Z Duan, Z Gao, H Iwata, JP McFadden. Surface [Urban] Energy and Water Balance Scheme in non-urban areas: developments, parameters and performance, (in review)
 
 
-Steps to using these notebooks
+Steps to using these notebooks:
 
-- download file
+1-  Download the following files and codes:
 
+ -  `Data <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps/data>`_ : data that are necessary to calculate parameters (put them in the same directory as notebooks)
+ - Utility functions: these are the utility functions that are called in notebooks. Put them in the same directory as notebooks. 
+ 
+   - `albedo and LAI utility <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/blob/master/docs/source/steps/alb_LAI_util.py>`_
+   
+   - `Conductance utility <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/blob/master/docs/source/steps/gs_util.py>`_
+   
+   - `Roughness utility <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/blob/master/docs/source/steps/z0_util.py>`_
+ 
+ - CSV files containing site information and parameters. Put them in the same directory as the notebook:
+  
+   - `site information <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/blob/master/docs/source/steps/site_info.csv>`_
+   - `site parameters <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/blob/master/docs/source/steps/all_attrs.csv>`_ . You can then change these parameters if you like to tune the sites.
+   
+ - `Folder <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps/runs>`_ contains SUEWS files which are used by SuPy
+ 
+ - `Fig <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps/figs>`_ folder to write the figure into (it can be empty initially). Put them in the same directory as the notebook.
+ 
+ - `outpust <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps/outputs>`_ folder to write down pickle files. The structure of the file should be as it is in the link, but the folders (LAI, albedo etc.) can be empty initially. Put them in the same directory as notebook.
+ 
+ **Note**after downloading the above files an folders, the structure of the directory where you are running the notebooks should be as same as `here <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps>`_.
+   
 - how to run python notebook **link**
 
 
