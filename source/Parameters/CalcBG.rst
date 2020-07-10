@@ -18,7 +18,7 @@ For Leaf Area Index
    * -  :math:`BaseT1`,  `SUEWS <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=baseTe#cmdoption-arg-BaseT>`__ 
      -  Base Temperature for initiating growing degree days (GDD) for leaf growth. [°C] 
    * -  math:`LAI_max`  `SUEWS<https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html#cmdoption-arg-LAIMax>`__
-      - maximum LAI
+     - maximum LAI
    * -  LAI_min, `SUEWS <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html#cmdoption-arg-LAIMin>`__
      -  leaf-off wintertime value  
    * -  `GDD <https://suews.readthedocs.io/en/latest/notation.html?highlight=GDD#term-GDD>`__
@@ -38,7 +38,7 @@ All or Multiple
      -  Deciduous trees and shrubs
    * -  EveTr , `SUEWS <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-EveTr>`__
      -  Evergreen trees and shrubw
-   * -  Grass, `SUEWS<https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-Grass>`__
+   * -  Grass, `SUEWS <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-Grass>`__
      -  Grass surface 
    * -  SWIN, `SUEWS <https://suews-docs.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=Kdown#cmdoption-arg-kdown>`__
      -  Incoming shortwave radiation (Kdown) [W m-2]
