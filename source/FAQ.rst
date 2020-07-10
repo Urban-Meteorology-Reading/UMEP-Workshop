@@ -7,7 +7,7 @@ Here are common questions that appear throughout the workshop.
 
 **General**
 * I have a Mac computer. Can I still participate in the workshop?
-   Yes, QGIS and UMEP are software independent but some of the tutorials are just for windows users. The tutorial on Lidar processing, `section 4.4 <https://umep-workshop.readthedocs.io/en/latest/GettingData/GIS3.html>` is for Windows user only. Otherwise, all other activities is for all OS. Installation of UMEP can be a bit cjallenging on a Mac, but help instructions are included below (see below).
+   Yes, QGIS and UMEP are software independent but some of the tutorials are just for windows users. The tutorial on Lidar processing, `section 4.4 <https://umep-workshop.readthedocs.io/en/latest/GettingData/GIS3.html>`__ is for Windows user only. Otherwise, all other activities is for all OS. Installation of UMEP can be a bit cjallenging on a Mac, but help instructions are included below (see below).
 
 **Daily shading**
 
