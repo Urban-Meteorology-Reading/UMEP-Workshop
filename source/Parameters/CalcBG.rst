@@ -25,13 +25,16 @@ Definitions
    :widths: 40, 70, 30
    
    * - Name
-     - Type  
+     - Definition  
      - Task
-   * -  BaseT
-     -
+   * -  `BaseTe <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=baseTe#cmdoption-arg-BaseTe>`__
+     - Base temperature for initiating sensesance degree days (SDD) for leaf off. [°C]
      - LAI
-   * -  LAI_max
-     -
+   * -  `BaseT <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=baseTe#cmdoption-arg-BaseT>`__
+     - Base Temperature for initiating growing degree days (GDD) for leaf growth. [°C]
+     - LAI
+   * -  `LAI_max <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html#cmdoption-arg-LAIMax>`__
+     - full leaf-on summertime value
      - LAI
    * -  LAI_min
      -
