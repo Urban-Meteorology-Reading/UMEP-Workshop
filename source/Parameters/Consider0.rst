@@ -12,7 +12,5 @@ The SUEWS manual provides some `guidance  <https://suews.readthedocs.io/en/lates
    Consider1
    Height
    T1
-   CalcParam
-   CalcBG
-   tutorials/CP2
+
   
