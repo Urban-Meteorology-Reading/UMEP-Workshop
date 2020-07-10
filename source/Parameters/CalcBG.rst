@@ -6,11 +6,7 @@
    :widths: 40, 70, 30
 
 Background
-===========
-
-
-
-Definitions
+~~~~~~~~~~
 
  .. list-table:: Terms Used
    :header-rows: 1
@@ -46,7 +42,7 @@ Definitions
    * - `Grass <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-Grass>`__
      - Grass surface
      - All
-   * - \alpha_LAImax
+   * - :math:`\alpha_LAImax`
      - Albedo of vegetation when LAI is equal to LAI_max
      - Albedo
    * - \alpha_LAImin
@@ -61,7 +57,7 @@ Definitions
    * - `SMD <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=SMD#cmdoption-arg-smd>`__
      - Soil moisture deficit for bare soil surface [mm]
      - Conductances
-   * - `Z0 <https://supy.readthedocs.io/en/latest/data-structure/df_state.html?highlight=z0#cmdoption-arg-z0m-in>`__
+   * - :math: `Z0 <https://supy.readthedocs.io/en/latest/data-structure/df_state.html?highlight=z0#cmdoption-arg-z0m-in>`__
      - Roughness length for momentum [m]
      - Roughness
    * - `d <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=displacement%20height#cmdoption-arg-zdm>`__
@@ -70,6 +66,6 @@ Definitions
    * - `Obukhov length <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=Obukhov%20Length%20#cmdoption-arg-lob>`__
      - Stability parameter
      - Roughness
-   * - `USTAR`__
+   * - :math: `USTAR`__
      - Friction velocity
      - Roughness
