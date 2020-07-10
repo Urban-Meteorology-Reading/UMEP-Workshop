@@ -44,7 +44,7 @@ Background
      -  Grass surface 
    * -  SWIN, `SUEWS <https://suews-docs.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=Kdown#cmdoption-arg-kdown>`__
      -  Incoming shortwave radiation (Kdown) [W m-2]
-   * -  SWOUT, 'SuPY <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=Kup#cmdoption-arg-kup>`__
+   * -  SWOUT, `SuPY <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=Kup#cmdoption-arg-kup>`__
      -  Outgoing shortwave radiation (Kup) [W m-2]
 
      
@@ -70,7 +70,7 @@ Background
   
    * -  Name
      -  Definition
-   * - SMD, 'SuPy Y<https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=SMD#cmdoption-arg-smd>`__
+   * - SMD, `SuPy Y<https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=SMD#cmdoption-arg-smd>`__
      - Soil moisture deficit for bare soil surface [mm]
     
      
