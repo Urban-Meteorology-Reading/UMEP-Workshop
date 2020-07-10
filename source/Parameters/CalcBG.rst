@@ -7,7 +7,7 @@ Background
 
 .. list-table:: Terms Used in LAI
    :header-rows: 1
-   :widths: 40, 70, 30
+   :widths: 40, 70, 30, 30
    
    * - Name
      - Definition  
@@ -25,13 +25,16 @@ Background
      -
    * -  `LAI_min <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html#cmdoption-arg-LAIMin>`__
      - leaf-off wintertime value
-      - 
+     -
+     -
    * -  `GDD <https://suews.readthedocs.io/en/latest/notation.html?highlight=GDD#term-GDD>`__
      - Growing degree days
-     - 
+     -
+     -
    * -  `SDD <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=SDD#cmdoption-arg-sdd-dectr>`__
      - Senescence degree days
      - 
+     -
  
 .. list-table:: Terms Used in All/Multiple
    :header-rows: 1
