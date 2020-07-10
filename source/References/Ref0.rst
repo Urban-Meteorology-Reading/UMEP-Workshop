@@ -39,7 +39,7 @@ References
 
 .. _Iamarino2012:
 
-- Iamarino M, Beevers S, CSB Grimmond 2012: High Resolution (Space, Time) Anthropogenic Heat Emissions: London 1970-2025 *International J. of Climatology*, 32, 1754-1767 `https://doi.org/10.1002/joc.2390 <https://doi.org/10.1002/joc.2390>`
+- Iamarino M, Beevers S, CSB Grimmond 2012: High Resolution (Space, Time) Anthropogenic Heat Emissions: London 1970-2025 *International J. of Climatology*, 32, 1754-1767 `https://doi.org/10.1002/joc.2390 <https://doi.org/10.1002/joc.2390>`_
 
 .. _Jarvi2011:
 
