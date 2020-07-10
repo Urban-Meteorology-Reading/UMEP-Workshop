@@ -11,17 +11,17 @@ For Leaf Area Index
    :header-rows: 1
    :widths: 40, 70
    
-   * - Name
-     - Definition 
-   * -  :math:`BaseTe`,`SuPy <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=baseTe#cmdoption-arg-BaseTe>`__
+   * -  Name
+     -  Definition 
+   * -  BaseTe, `SuPy <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=baseTe#cmdoption-arg-BaseTe>`__
      -  Base temperature for initiating sensence degree days (SDD) for leaf off. [°C]
-   * -  :math:`BaseT1`,  `SUEWS <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=baseTe#cmdoption-arg-BaseT>`__ 
+   * -  BaseT1,  `SUEWS <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=baseTe#cmdoption-arg-BaseT>`__ 
      -  Base Temperature for initiating growing degree days (GDD) for leaf growth. [°C] 
-   * -  math:`LAI_max`  `SUEWS<https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html#cmdoption-arg-LAIMax>`__
-     - maximum LAI
+   * -  LAI_max, `SUEWS <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html#cmdoption-arg-LAIMax>`__
+     -  maximum LAI
    * -  LAI_min, `SUEWS <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html#cmdoption-arg-LAIMin>`__
      -  leaf-off wintertime value  
-   * -  `GDD <https://suews.readthedocs.io/en/latest/notation.html?highlight=GDD#term-GDD>`__
+   * -  GDD, `SUEWS <https://suews.readthedocs.io/en/latest/notation.html?highlight=GDD#term-GDD>`__
      -  Growing degree days
    * -  SDD, `SuPy <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=SDD#cmdoption-arg-sdd-dectr>`__
      -  Senescence degree days
@@ -34,6 +34,8 @@ All or Multiple
    :header-rows: 1
    :widths: 40, 70
   
+   * -  Name
+     -  Definition
    * -  DecTr, `SUEWS <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-DecTr>`__
      -  Deciduous trees and shrubs
    * -  EveTr , `SUEWS <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-EveTr>`__
@@ -52,7 +54,9 @@ Albedo
 .. list-table:: Terms Used in Albedo
    :header-rows: 1
    :widths: 40, 70
-     
+ 
+   * -  Name
+     -  Definition
    * - :math:`alpha_LAImax`
      - Albedo of vegetation when LAI is equal to LAI_max
    * - \alpha_LAImin
@@ -64,6 +68,8 @@ Conductances
    :header-rows: 1
    :widths: 40, 70 
   
+   * -  Name
+     -  Definition
    * - SMD 'SuPy Y<https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=SMD#cmdoption-arg-smd>`__
      - Soil moisture deficit for bare soil surface [mm]
     
@@ -74,7 +80,9 @@ Roughness
 .. list-table:: Terms Used in Roughness
    :header-rows: 1
    :widths: 40, 70, 30        
-     
+   
+   * -  Name
+     -  Definition
    * - :math:`z_0`, `SuPy <https://supy.readthedocs.io/en/latest/data-structure/df_state.html?highlight=z0#cmdoption-arg-z0m-in`
      - Roughness length for momentum [m]
    * - d, 'SuPy <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=displacement%20height#cmdoption-arg-zdm>`__
