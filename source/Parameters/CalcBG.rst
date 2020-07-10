@@ -1,17 +1,9 @@
 .. _CalcBG:
 
-Background
-===========
-
-
-
-Definitions
 
  .. list-table:: Terms Used
    :header-rows: 1
    :widths: 40, 70, 30
-   
-.. _CalcBG:
 
 Background
 ===========
@@ -36,11 +28,11 @@ Definitions
    * -  `LAI_max <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html#cmdoption-arg-LAIMax>`__
      - full leaf-on summertime value
      - LAI
-   * -  LAI_min
-     -
+   * -  `LAI_min <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html#cmdoption-arg-LAIMin>`__
+     - leaf-off wintertime value
      - LAI
-   * -  GDD
-     -
+   * -  `GDD <https://suews.readthedocs.io/en/latest/notation.html?highlight=GDD#term-GDD>`__
+     - Growing degree days
      - LAI
    * -  SDD
      -
