@@ -17,8 +17,8 @@ For Leaf  Area Index
      - SUEWS 
    * -  :math:`BaseTe`
      -  Base temperature for initiating sensence degree days (SDD) for leaf off. [°C]
-     - `SuPy <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=baseTe#cmdoption-arg-BaseTe>`__
-     - SUEWS
+     -  `SuPy <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=baseTe#cmdoption-arg-BaseTe>`__
+     -  SUEWS
    * -  `BaseT1 
      -   Base Temperature for initiating growing degree days (GDD) for leaf growth. [°C]
      -  `SUEWS <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=baseTe#cmdoption-arg-BaseT>`__
@@ -26,15 +26,15 @@ For Leaf  Area Index
      -  full leaf-on summertime value
      -
    * -  `LAI_min <https://suews.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html#cmdoption-arg-LAIMin>`__
-     - leaf-off wintertime value
+     -  leaf-off wintertime value
      -
      -
    * -  `GDD <https://suews.readthedocs.io/en/latest/notation.html?highlight=GDD#term-GDD>`__
      -  Growing degree days
      -
      -
-   * - `SDD <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=SDD#cmdoption-arg-sdd-dectr>`__
-     - Senescence degree days
+   * -  `SDD <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=SDD#cmdoption-arg-sdd-dectr>`__
+     -  Senescence degree days
      - 
      -
  
@@ -45,19 +45,19 @@ All or Multiple
    :widths: 40, 70, 30
   
    * -  `DecTr <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-DecTr>`__
-     - Deciduous trees and shrubs
+     -  Deciduous trees and shrubs
      - 
-   * - `EveTr <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-EveTr>`__
-     - Evergreen trees and shrubs
+   * -  `EveTr <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-EveTr>`__
+     -  Evergreen trees and shrubs
      - 
-   * - `Grass <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-Grass>`__
-     - Grass surface
+   * -  `Grass <https://suews-docs.readthedocs.io/en/latest/notation.html?highlight=DecTr#term-Grass>`__
+     -  Grass surface
      - 
-    * - `SWIN <https://suews-docs.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=Kdown#cmdoption-arg-kdown>`__
-     - Incoming shortwave radiation (Kdown) [W m-2]
+   * -  `SWIN <https://suews-docs.readthedocs.io/en/latest/input_files/SUEWS_SiteInfo/Input_Options.html?highlight=Kdown#cmdoption-arg-kdown>`__
+     -  Incoming shortwave radiation (Kdown) [W m-2]
      - 
-   * - `SWOUT <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=Kup#cmdoption-arg-kup>`__
-     - Outgoing shortwave radiation (Kup) [W m-2]
+   * -  `SWOUT <https://supy.readthedocs.io/en/latest/data-structure/df_output.html?highlight=Kup#cmdoption-arg-kup>`__
+     -  Outgoing shortwave radiation (Kup) [W m-2]
      - 
    
 Albedo
