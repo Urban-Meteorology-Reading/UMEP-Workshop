@@ -50,7 +50,7 @@ Steps to using these notebooks:
  
  - `outpust <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps/outputs>`_ folder to write down pickle files. The structure of the file should be as it is in the link, but the folders (LAI, albedo etc.) can be empty initially. Put them in the same directory as notebook.
  
- **Note**after downloading the above files an folders, the structure of the directory where you are running the notebooks should be as same as `here <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps>`_.
+ **Note**: after downloading the above files an folders, the structure of the directory where you are running the notebooks should be as same as `here <https://github.com/hamidrezaomidvar/SUEWS_parameters_docs/tree/master/docs/source/steps>`_.
    
 - how to run python notebook **link**
 
