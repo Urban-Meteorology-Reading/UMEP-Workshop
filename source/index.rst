@@ -24,7 +24,6 @@ Welcome to the `urbisphere <http://urbisphere.eu/>`_ UMEP July 2020 Online Works
    NEW/New0
    Parameters/CalcParam0
    NeedHelp
-   Background-Resources
    BackGroundMet/BGM1
    Jupyter/PY0
    BackGroundMet/BGM0
