@@ -134,3 +134,9 @@ Here are common questions that appear throughout the workshop.
     .. code-block:: shell
 
         python3 -m pip install notebook --user --upgrade
+
+**Errors related to parameters derivation**
+
+* I am getting errors related to pandas and SuPy, when running the notebooks for parameter derivation.
+    This can happen because of various reasons when running notebooks in `this <https://umep-workshop.readthedocs.io/en/latest/Parameters/tutorials/CP2.html>`_ page; however, the most frequent reason is because ``Python``, ``SuPy`` and ``pandas`` versions does not match the required ones in the `yml file <https://github.com/Urban-Meteorology-Reading/SUEWS_parameters/blob/master/environment.yml>`_ (see instructions in step 2 of `this page <https://umep-workshop.readthedocs.io/en/latest/Parameters/CalcParam.html#steps-to-using-these-notebooks>`_). If you are using different version than the `yml file <https://github.com/Urban-Meteorology-Reading/SUEWS_parameters/blob/master/environment.yml>`_, you need to upgrade/downgrade the rquired packages.  
+    
