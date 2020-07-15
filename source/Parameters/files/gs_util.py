@@ -382,9 +382,9 @@ def func_parse_date(year, doy, hour, min):
         return dt
 
 def read_forcing(name,year):
-    copyfile("./runs/data/"+name+"_"+str(year)+"_data_60.txt", "runs/run/input/Kc_2012_data_60.txt")
+    copyfile("./runs/data/"+name+"_"+str(year)+"_data_60.txt", "runs/run/Input/Kc_2012_data_60.txt")
     #os.rename("./data/"+obs_n+"_"+str(year)+"_data_60.txt", "runs/run/input/Kc_2012_data_60.txt")
-    df_forcing=pd.read_csv('runs/run'+'/Input/'+'kc'+'_'+'2012'+'_data_60.txt',sep=' ',
+    df_forcing=pd.read_csv('runs/run'+'/Input/'+'Kc'+'_'+'2012'+'_data_60.txt',sep=' ',
                                     parse_dates={'datetime': [0, 1, 2, 3]},
                                     keep_date_col=True,
                                     date_parser=func_parse_date)
@@ -487,7 +487,7 @@ def gs_plot_test(g1,g2,g3,g4,g5,g6,g_max,s1,name,year,alpha=1,helen=0):
     df_output, df_state_final = sp.run_supy(df_forcing_run, df_state_init, save_state=False)
 
 
-    df_obs=pd.read_csv('runs/run'+'/Input/'+'kc'+'_2012_data_60.txt',sep=' ',
+    df_obs=pd.read_csv('runs/run'+'/Input/'+'Kc'+'_2012_data_60.txt',sep=' ',
                                     parse_dates={'datetime': [0, 1, 2, 3]},
                                     keep_date_col=True,
                                     date_parser=func_parse_date)
