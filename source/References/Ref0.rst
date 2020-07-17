@@ -64,7 +64,7 @@ References
 
 .. _Hamid2020:
 
-- Omidvar H, T Sun, S Grimmond, D Bilesbach, A Black, J Chen, Z Duan, Z Gao, H Iwata, JP McFadden. Surface [Urban] Energy and Water Balance Scheme in non-urban areas: developments, parameters and performance, *(in review)*
+- Omidvar, H., Sun, T., Grimmond, S., Bilesbach, D., Black, A., Chen, J., Duan, Z., Gao, Z., Iwata, H., and McFadden, J. P.: Surface [Urban] Energy and Water Balance Scheme (v2020a) in non-urban areas: developments, parameters and performance, Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-2020-148, *in review*, 2020.
 
 .. _Sun2019:
 
