@@ -1,5 +1,9 @@
 # UMEP-Workshop
 
+THIS PROJECT IS ARCHIVED AND NOW MAINTAINED BY [@UMEP-dev](https://github.com/UMEP-dev).
+
+---
+
 [![Documentation Status](https://readthedocs.org/projects/umep-workshop/badge/?version=latest)](https://umep-workshop.readthedocs.io/en/latest/?badge=latest)
 
 ## Sphinx site
